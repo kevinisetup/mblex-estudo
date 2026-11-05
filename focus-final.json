@@ -1,0 +1,2752 @@
+[
+  {
+    "id": 1,
+    "d": "PAT",
+    "l": 3,
+    "flag": "FIRST",
+    "s": "clots",
+    "q": [
+      "Renata, 44, just off a nine-hour flight, shows you a firm warm lump on one calf and says the leg feels heavy. Her calf symptoms began this morning. She has a massage booked. What happens FIRST?",
+      "Renata, 44, recém-chegada de um voo de nove horas, mostra um caroço firme e quente na panturrilha e diz que a perna está pesada. Os sintomas na panturrilha começaram hoje cedo. Ela tem massagem marcada. O que acontece PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Work around the lump and continue",
+        "pt": "Trabalhar ao redor do caroço e seguir",
+        "reasonEN": "Light pressure is not enough to rule it out.",
+        "reasonPT": "Pressão leve não descarta."
+      },
+      {
+        "letter": "B",
+        "en": "Defer and send her for medical assessment",
+        "pt": "Adiar e encaminhar para avaliação médica",
+        "reasonEN": "Suspected clot is absolute, not site-specific.",
+        "reasonPT": "Suspeita de trombose é absoluta, não local."
+      },
+      {
+        "letter": "C",
+        "en": "Elevate the leg and apply cold",
+        "pt": "Elevar a perna e aplicar frio",
+        "reasonEN": "Both treat symptoms without ruling anything out.",
+        "reasonPT": "Os dois tratam sintoma sem descartar nada."
+      },
+      {
+        "letter": "D",
+        "en": "Shorten the session to twenty minutes",
+        "pt": "Encurtar a sessão para vinte minutos",
+        "reasonEN": "Duration does not change the risk.",
+        "reasonPT": "Duração não muda o risco."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "A clot anywhere is an absolute contraindication, not just at the site.",
+      "Coágulo em qualquer lugar é contraindicação absoluta, não só no local."
+    ],
+    "hook": [
+      "Heavy warm calf after flying: stop.",
+      "Panturrilha pesada e quente após voo: pare."
+    ],
+    "practice": [
+      "Explain why you are not starting and who she should see.",
+      "Explique por que não vai começar e a quem ela deve recorrer."
+    ],
+    "img": null
+  },
+  {
+    "id": 2,
+    "d": "PAT",
+    "l": 2,
+    "flag": "FIRST",
+    "s": "massage",
+    "q": [
+      "Diego, 31, arrives with 38.4 °C, body aches and chills since last night. He wants to keep the appointment. What is the FIRST decision?",
+      "Diego, 31, chega com 38,4 °C, dores no corpo e calafrios desde a noite anterior. Quer manter o horário. Qual é a PRIMEIRA decisão?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Postpone while the acute illness is assessed",
+        "pt": "Adiar enquanto o quadro agudo é avaliado",
+        "reasonEN": "Fever is systemic and active.",
+        "reasonPT": "Febre é sistêmica e ativa."
+      },
+      {
+        "letter": "B",
+        "en": "Work only the upper back",
+        "pt": "Trabalhar só a parte superior das costas",
+        "reasonEN": "Shortening does not address the cause.",
+        "reasonPT": "Encurtar não trata a causa."
+      },
+      {
+        "letter": "C",
+        "en": "Apply cold to lower the temperature",
+        "pt": "Aplicar frio para baixar a temperatura",
+        "reasonEN": "Local cold does not reset core temperature.",
+        "reasonPT": "Frio local não baixa temperatura central."
+      },
+      {
+        "letter": "D",
+        "en": "Proceed but skip the face",
+        "pt": "Prosseguir, pulando o rosto",
+        "reasonEN": "The whole body is involved.",
+        "reasonPT": "O corpo inteiro está envolvido."
+      }
+    ],
+    "correct": 0,
+    "why": [
+      "Acute fever is a systemic contraindication, not a local one.",
+      "Febre aguda é contraindicação sistêmica, não local."
+    ],
+    "hook": [
+      "Fever means the whole body asks for bed.",
+      "Febre é o corpo inteiro pedindo cama."
+    ],
+    "practice": [
+      "Reschedule and tell him to rest and hydrate.",
+      "Remarque e oriente repouso e hidratação."
+    ],
+    "img": null
+  },
+  {
+    "id": 3,
+    "d": "PAT",
+    "l": 3,
+    "flag": "0",
+    "s": "drugs",
+    "q": [
+      "Marco, 57, on warfarin for a valve problem, books deep tissue for chronic shoulder tightness. His shoulder tightness has lasted four months. What is the right modification?",
+      "Marco, 57, em uso de varfarina por problema valvar, marca deep tissue para tensão crônica no ombro. A tensão no ombro dura quatro meses. Qual é a modificação correta?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Refuse and refer before touching him",
+        "pt": "Recusar e encaminhar antes de tocá-lo",
+        "reasonEN": "Overcorrection: he can be treated.",
+        "reasonPT": "Excesso de zelo: ele pode ser atendido."
+      },
+      {
+        "letter": "B",
+        "en": "Reduce pressure and watch for bruising",
+        "pt": "Reduzir pressão e observar hematomas",
+        "reasonEN": "Anticoagulant raises bleeding risk; modify, don't refuse.",
+        "reasonPT": "Anticoagulante aumenta risco de sangramento; modifique, não recuse."
+      },
+      {
+        "letter": "C",
+        "en": "Work only the bony landmarks",
+        "pt": "Trabalhar só as proeminências ósseas",
+        "reasonEN": "Bone is not the issue here.",
+        "reasonPT": "Osso não é o problema aqui."
+      },
+      {
+        "letter": "D",
+        "en": "Keep pressure and shorten the time",
+        "pt": "Manter a pressão e encurtar o tempo",
+        "reasonEN": "Time is not what changes the risk.",
+        "reasonPT": "O tempo não é o que muda o risco."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Anticoagulation raises bruising risk, so use lighter pressure when there is no new bleeding or other red flag. New bleeding needs clinical assessment.",
+      "Anticoagulação aumenta risco de hematoma; use pressão mais leve se não houver sangramento novo ou outro sinal de alerta. Sangramento novo exige avaliação clínica."
+    ],
+    "hook": [
+      "Thinner blood, lighter hands.",
+      "Sangue fino, mãos leves."
+    ],
+    "practice": [
+      "Ask about bruising and record it before you start.",
+      "Pergunte sobre hematomas e registre antes de começar."
+    ],
+    "img": null
+  },
+  {
+    "id": 4,
+    "d": "PAT",
+    "l": 3,
+    "flag": "0",
+    "s": "steroid",
+    "q": [
+      "Paula, 63, has been on prednisone for years and shows thin, easily bruised forearms. The easy bruising has been present for six months. She wants firm work. What do you do?",
+      "Paula, 63, usa prednisona há anos e mostra antebraços finos, que se machucam fácil. Os hematomas fáceis surgem há seis meses. Quer trabalho firme. O que fazer?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Use deep friction to toughen the tissue",
+        "pt": "Usar fricção profunda para fortalecer o tecido",
+        "reasonEN": "Force does not thicken skin.",
+        "reasonPT": "Força não engrossa a pele."
+      },
+      {
+        "letter": "B",
+        "en": "Work hard and check the next day",
+        "pt": "Trabalhar forte e checar no dia seguinte",
+        "reasonEN": "Bruising is already installed by then.",
+        "reasonPT": "O hematoma já se instalou até lá."
+      },
+      {
+        "letter": "C",
+        "en": "Adapt pressure to tissue fragility",
+        "pt": "Adaptar a pressão à fragilidade do tecido",
+        "reasonEN": "Long-term corticosteroid thins skin.",
+        "reasonPT": "Corticoide prolongado afina a pele."
+      },
+      {
+        "letter": "D",
+        "en": "Ask her to pause the medication",
+        "pt": "Pedir que ela suspenda a medicação",
+        "reasonEN": "Prescriber's call, not yours.",
+        "reasonPT": "Decisão do prescritor, não sua."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Corticosteroids reduce skin resilience; pressure is the variable you control.",
+      "Corticoides reduzem a resistência da pele; a pressão é a variável que você controla."
+    ],
+    "hook": [
+      "Long steroid, paper skin.",
+      "Corticoide longo, pele de papel."
+    ],
+    "practice": [
+      "Warn about bruising and keep a lighter baseline.",
+      "Avise sobre hematomas e mantenha base mais leve."
+    ],
+    "img": null
+  },
+  {
+    "id": 5,
+    "d": "PAT",
+    "l": 2,
+    "flag": "0",
+    "s": "massage",
+    "q": [
+      "Sofia, 29, has a fresh bruise the size of a coin on the area you planned to work. The bruise appeared yesterday. Which approach fits?",
+      "Sofia, 29, tem um hematoma recente do tamanho de uma moeda na área que você planejou trabalhar. O hematoma apareceu ontem. Qual abordagem cabe?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Deep friction straight over it",
+        "pt": "Fricção profunda direto sobre ele",
+        "reasonEN": "Force on fresh blood can spread it.",
+        "reasonPT": "Força sobre sangue fresco pode espalhar."
+      },
+      {
+        "letter": "B",
+        "en": "Avoid direct force and assess the context",
+        "pt": "Evitar força direta e avaliar o contexto",
+        "reasonEN": "Local finding, local precaution.",
+        "reasonPT": "Achado local, precaução local."
+      },
+      {
+        "letter": "C",
+        "en": "Assume every bruise is harmless",
+        "pt": "Presumir que todo hematoma é inofensivo",
+        "reasonEN": "Cause matters: fall or medication change it.",
+        "reasonPT": "A causa importa: queda ou remédio mudam."
+      },
+      {
+        "letter": "D",
+        "en": "Promise it will dissolve this session",
+        "pt": "Prometer que vai dissolver nesta sessão",
+        "reasonEN": "No guarantee in one session.",
+        "reasonPT": "Sem garantia em uma sessão."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "A fresh bruise is a site-specific caution, not a global stop.",
+      "Hematoma recente é cautela no local, não parada geral."
+    ],
+    "hook": [
+      "Fresh bruise: work around, not through.",
+      "Hematoma novo: contorne, não atravesse."
+    ],
+    "practice": [
+      "Ask how it happened before deciding how firm to be.",
+      "Pergunte como surgiu antes de decidir a firmeza."
+    ],
+    "img": null
+  },
+  {
+    "id": 6,
+    "d": "PAT",
+    "l": 2,
+    "flag": "0",
+    "s": "ppe",
+    "q": [
+      "Tom, 38, has a weeping scrape on his shin. The scrape appeared yesterday. You will not work over it, but the linen will contact the drainage. What do you do?",
+      "Tom, 38, tem um ralado que exsuda na canela. O ralado apareceu ontem. Você não vai trabalhar sobre ele, mas o lençol vai tocar a secreção. O que fazer?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Bare hands, wash afterward",
+        "pt": "Mãos nuas, lavar depois",
+        "reasonEN": "Washing does not replace the barrier.",
+        "reasonPT": "Lavar não substitui a barreira."
+      },
+      {
+        "letter": "B",
+        "en": "Gloves for the anticipated fluid contact",
+        "pt": "Luvas pelo contato previsto com fluido",
+        "reasonEN": "Standard precaution when fluid contact is expected.",
+        "reasonPT": "Precaução padrão quando se prevê contato com fluido."
+      },
+      {
+        "letter": "C",
+        "en": "Gloves and then work over the scrape too",
+        "pt": "Luvas e trabalhar sobre o ralado também",
+        "reasonEN": "Gloves do not remove a local contraindication.",
+        "reasonPT": "Luvas não eliminam contraindicação local."
+      },
+      {
+        "letter": "D",
+        "en": "Reuse gloves if they look clean",
+        "pt": "Reutilizar luvas se parecerem limpas",
+        "reasonEN": "Used gloves carry contamination.",
+        "reasonPT": "Luvas usadas carregam contaminação."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Gloves protect the contact; they do not authorize treatment over the lesion.",
+      "Luvas protegem o contato; não autorizam tratar a lesão."
+    ],
+    "hook": [
+      "A barrier protects contact, not treatment.",
+      "A barreira protege o contato, não o tratamento."
+    ],
+    "practice": [
+      "Gloves on, area out of the plan, hands washed after.",
+      "Luvas, área fora do plano, mãos lavadas depois."
+    ],
+    "img": null
+  },
+  {
+    "id": 7,
+    "d": "PAT",
+    "l": 3,
+    "flag": "0",
+    "s": "pregnancy",
+    "q": [
+      "Camila, 34, is in her third trimester and cannot lie prone. The positional discomfort has lasted two weeks. She wants the back worked. Which setup do you choose?",
+      "Camila, 34, está no terceiro trimestre e não consegue ficar de bruços. O desconforto ao deitar dura duas semanas. Quer as costas trabalhadas. Qual montagem escolher?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Flat supine with a thin pillow",
+        "pt": "Supina plana com travesseiro fino",
+        "reasonEN": "The uterus compresses the vena cava.",
+        "reasonPT": "O útero comprime a veia cava."
+      },
+      {
+        "letter": "B",
+        "en": "Prone with a wedge under the hips",
+        "pt": "Prona com cunha sob o quadril",
+        "reasonEN": "Still compresses the abdomen.",
+        "reasonPT": "Ainda comprime o abdome."
+      },
+      {
+        "letter": "C",
+        "en": "Supported side-lying with pillows",
+        "pt": "Decúbito lateral apoiado com travesseiros",
+        "reasonEN": "Offloads the vena cava and the abdomen.",
+        "reasonPT": "Alivia a veia cava e o abdome."
+      },
+      {
+        "letter": "D",
+        "en": "Seated in a chair for back work",
+        "pt": "Sentada na cadeira para trabalho nas costas",
+        "reasonEN": "Seated care may be possible, but supported side-lying fits the requested back work here.",
+        "reasonPT": "Atendimento sentado pode ser possível, mas decúbito lateral apoiado atende melhor ao trabalho nas costas neste caso."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Supported side-lying is the standard for late pregnancy; check dizziness and shorten pressure.",
+      "Decúbito lateral apoiado é o padrão no fim da gestação; cheque tontura e reduza a pressão."
+    ],
+    "hook": [
+      "Third trimester sleeps on her side. So do you.",
+      "O terceiro trimestre dorme de lado. Você também."
+    ],
+    "practice": [
+      "Build the support before she climbs on the table.",
+      "Monte o apoio antes de ela subir na maca."
+    ],
+    "img": null
+  },
+  {
+    "id": 8,
+    "d": "PAT",
+    "l": 2,
+    "flag": "0",
+    "s": "massage",
+    "q": [
+      "Aline, 71, has osteoporosis and a dowager's hump. Her upper-back discomfort has lasted six weeks. She asks for strong work on the upper back. What fits?",
+      "Aline, 71, tem osteoporose e cifose. O desconforto na parte superior das costas dura seis semanas. Pede trabalho forte na parte superior das costas. O que cabe?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Strong percussion over the hump",
+        "pt": "Percussão forte sobre a corcunda",
+        "reasonEN": "Bone is fragile there.",
+        "reasonPT": "O osso é frágil ali."
+      },
+      {
+        "letter": "B",
+        "en": "Avoid force and adapt the support",
+        "pt": "Evitar força e adaptar o apoio",
+        "reasonEN": "Fragility changes force and positioning.",
+        "reasonPT": "Fragilidade muda força e posicionamento."
+      },
+      {
+        "letter": "C",
+        "en": "Force the joints to end range",
+        "pt": "Forçar as articulações até o limite",
+        "reasonEN": "Forceful end range may harm.",
+        "reasonPT": "Fim de amplitude forçado pode lesionar."
+      },
+      {
+        "letter": "D",
+        "en": "Ignore the history if she has no pain",
+        "pt": "Ignorar o histórico se ela não tem dor",
+        "reasonEN": "No pain does not mean no fragility.",
+        "reasonPT": "Sem dor não significa sem fragilidade."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Osteoporosis changes how much force and how you position.",
+      "Osteoporose muda quanta força e como posicionar."
+    ],
+    "hook": [
+      "Fragile bone answers to hands, not to will.",
+      "Osso frágil responde às mãos, não à vontade."
+    ],
+    "practice": [
+      "Bolster under the chest and keep pressure broad.",
+      "Apoio sob o tórax e pressão ampla."
+    ],
+    "img": null
+  },
+  {
+    "id": 9,
+    "d": "PAT",
+    "l": 2,
+    "flag": "FIRST",
+    "s": "massage",
+    "q": [
+      "Ines, 66, diabetic with reduced sensation in both feet, wants hot stones on the soles. The reduced foot sensation has lasted six months. What do you check FIRST?",
+      "Ines, 66, diabética com sensibilidade reduzida nos dois pés, quer pedras quentes nas solas. A sensibilidade reduzida nos pés dura seis meses. O que verificar PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Check sensation and avoid hot stones if it is reduced",
+        "pt": "Verificar a sensibilidade e evitar pedras quentes se estiver reduzida",
+        "reasonEN": "Reduced sensation hides the warning.",
+        "reasonPT": "Sensibilidade reduzida esconde o aviso."
+      },
+      {
+        "letter": "B",
+        "en": "The stone temperature with your own hand",
+        "pt": "A temperatura da pedra com a sua mão",
+        "reasonEN": "Your hand is not her foot.",
+        "reasonPT": "Sua mão não é o pé dela."
+      },
+      {
+        "letter": "C",
+        "en": "How long she wants the stones",
+        "pt": "Quanto tempo ela quer as pedras",
+        "reasonEN": "Duration is secondary to the check.",
+        "reasonPT": "Duração é secundária à checagem."
+      },
+      {
+        "letter": "D",
+        "en": "Whether she prefers warm or cold",
+        "pt": "Se prefere quente ou frio",
+        "reasonEN": "Preference does not fix risk.",
+        "reasonPT": "Preferência não resolve o risco."
+      }
+    ],
+    "correct": 0,
+    "why": [
+      "Reduced sensation can hide a burn. Check it first; when sensation is impaired, avoid hot stones on the feet.",
+      "Sensibilidade reduzida pode esconder uma queimadura. Verifique primeiro; se estiver prejudicada, evite pedras quentes nos pés."
+    ],
+    "hook": [
+      "No feeling, no alarm.",
+      "Sem sensação, sem alarme."
+    ],
+    "practice": [
+      "Choose a nonthermal option for the feet and document the reduced sensation.",
+      "Escolha uma opção sem calor para os pés e registre a sensibilidade reduzida."
+    ],
+    "img": null
+  },
+  {
+    "id": 10,
+    "d": "PAT",
+    "l": 3,
+    "flag": "0",
+    "s": "massage",
+    "q": [
+      "Lea, 52, is mid-chemotherapy with a port and reports fatigue and nausea. The fatigue and nausea began three days ago. She asks for a gentle session. Which statement fits?",
+      "Lea, 52, está no meio da quimioterapia, tem um cateter e relata fadiga e náusea. A fadiga e a náusea começaram há três dias. Pede sessão suave. Qual afirmação cabe?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Massage treats the cancer itself",
+        "pt": "A massagem trata o câncer em si",
+        "reasonEN": "It is supportive, not oncology treatment.",
+        "reasonPT": "É apoio, não tratamento oncológico."
+      },
+      {
+        "letter": "B",
+        "en": "Every patient on chemo needs the same plan",
+        "pt": "Todo paciente em quimio precisa do mesmo plano",
+        "reasonEN": "Drugs and cycles differ.",
+        "reasonPT": "Drogas e ciclos diferem."
+      },
+      {
+        "letter": "C",
+        "en": "Coordinate precautions, avoid the port site, keep pressure light",
+        "pt": "Combinar precauções, evitar o cateter, manter pressão leve",
+        "reasonEN": "Supportive care inside your scope.",
+        "reasonPT": "Cuidado de apoio dentro do escopo."
+      },
+      {
+        "letter": "D",
+        "en": "Ask her to pause chemo while you work",
+        "pt": "Pedir que ela pause a quimio durante o trabalho",
+        "reasonEN": "Pausing is the oncologist's call.",
+        "reasonPT": "Pausar é decisão do oncologista."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Supportive care with coordination, not treatment of the disease.",
+      "Cuidado de apoio com coordenação, não tratamento da doença."
+    ],
+    "hook": [
+      "You support the person, not the protocol.",
+      "Você apoia a pessoa, não o protocolo."
+    ],
+    "practice": [
+      "Ask about the port, nausea timing and current precautions.",
+      "Pergunte sobre o cateter, a náusea e as precauções atuais."
+    ],
+    "img": null
+  },
+  {
+    "id": 11,
+    "d": "PAT",
+    "l": 3,
+    "flag": "FIRST",
+    "s": "pressure",
+    "q": [
+      "Rafael, 69, on blood pressure medication, sits up after the session and goes pale and dizzy. The dizziness began a minute ago. What do you do FIRST?",
+      "Rafael, 69, em uso de anti-hipertensivo, senta depois da sessão e fica pálido e tonto. A tontura começou há um minuto. O que fazer PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Have him walk it off alone",
+        "pt": "Mandar caminhar sozinho para passar",
+        "reasonEN": "Walking increases fall risk.",
+        "reasonPT": "Andar aumenta risco de queda."
+      },
+      {
+        "letter": "B",
+        "en": "Support him seated and let it pass",
+        "pt": "Apoiá-lo sentado e aguardar",
+        "reasonEN": "Support him in place, reassess, and seek medical care if symptoms persist.",
+        "reasonPT": "Apoie-o onde está, reavalie e procure atendimento médico se persistir."
+      },
+      {
+        "letter": "C",
+        "en": "Offer him a dose of his medicine",
+        "pt": "Oferecer uma dose do remédio dele",
+        "reasonEN": "Prescribing is out of scope.",
+        "reasonPT": "Prescrever está fora do escopo."
+      },
+      {
+        "letter": "D",
+        "en": "Lie him flat and lift his legs",
+        "pt": "Deitá-lo e elevar as pernas",
+        "reasonEN": "A safe position may help, but moving him abruptly is not the first step.",
+        "reasonPT": "Posição segura pode ajudar, mas movê-lo bruscamente não é o primeiro passo."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Keep him supported and assess; persistent dizziness needs medical attention.",
+      "Mantenha apoiado e avalie; tontura persistente exige atenção médica."
+    ],
+    "hook": [
+      "Standing up is the risky part.",
+      "O risco está em levantar."
+    ],
+    "practice": [
+      "Sit him up slowly, feet down, wait before he stands.",
+      "Sente devagar, pés para baixo, espere antes de levantar."
+    ],
+    "img": null
+  },
+  {
+    "id": 12,
+    "d": "PAT",
+    "l": 3,
+    "flag": "EXCEPT",
+    "s": "repair",
+    "q": [
+      "Bia, 24, sprained her ankle 20 hours ago. All of these belong to the early inflammatory response EXCEPT:",
+      "Bia, 24, torceu o tornozelo há 20 horas. Todas fazem parte da resposta inflamatória inicial, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Vasodilation at the site",
+        "pt": "Vasodilatação no local",
+        "reasonEN": "Early vascular response.",
+        "reasonPT": "Resposta vascular inicial."
+      },
+      {
+        "letter": "B",
+        "en": "Increased capillary permeability",
+        "pt": "Aumento da permeabilidade capilar",
+        "reasonEN": "Explains the swelling.",
+        "reasonPT": "Explica o edema."
+      },
+      {
+        "letter": "C",
+        "en": "Completed collagen remodeling",
+        "pt": "Remodelamento de colágeno concluído",
+        "reasonEN": "That is weeks, not hours.",
+        "reasonPT": "Isso é semanas, não horas."
+      },
+      {
+        "letter": "D",
+        "en": "Fluid moving into the tissue",
+        "pt": "Líquido passando para o tecido",
+        "reasonEN": "Produces the edema you see.",
+        "reasonPT": "Produz o edema visível."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Remodeling comes after inflammation; at 20 hours you are in the vascular phase.",
+      "Remodelamento vem depois da inflamação; em 20 horas você está na fase vascular."
+    ],
+    "hook": [
+      "Twenty hours is inflammation, not repair.",
+      "Vinte horas é inflamação, não reparo."
+    ],
+    "practice": [
+      "Avoid deep work and protect with brief cold.",
+      "Evite trabalho profundo e proteja com frio breve."
+    ],
+    "img": null
+  },
+  {
+    "id": 13,
+    "d": "PAT",
+    "l": 3,
+    "flag": "0",
+    "s": "massage",
+    "q": [
+      "Nara, 47, has had stable low back tightness for months. Today she mentions a new, unexplained numb patch on the thigh. What is the right move?",
+      "Nara, 47, tem tensão lombar estável há meses. Hoje menciona uma área dormente nova e sem explicação na coxa. Qual o movimento certo?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Work as always, it is a chronic case",
+        "pt": "Trabalhar como sempre, é caso crônico",
+        "reasonEN": "Chronic does not cover a new sign.",
+        "reasonPT": "Crônico não cobre sinal novo."
+      },
+      {
+        "letter": "B",
+        "en": "Reassess the new symptom before proceeding",
+        "pt": "Reavaliar o sintoma novo antes de prosseguir",
+        "reasonEN": "New finding resets the assessment.",
+        "reasonPT": "Achado novo reinicia a avaliação."
+      },
+      {
+        "letter": "C",
+        "en": "Increase pressure on the numb area",
+        "pt": "Aumentar a pressão na área dormente",
+        "reasonEN": "Without feeling, force can exceed tolerance.",
+        "reasonPT": "Sem sensação, a força pode passar do limite."
+      },
+      {
+        "letter": "D",
+        "en": "Tell her numbness is normal with tightness",
+        "pt": "Dizer que dormência é normal com tensão",
+        "reasonEN": "Sometimes true, but unverified.",
+        "reasonPT": "Às vezes verdade, mas não verificado."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "A new sign outranks an old diagnosis.",
+      "Sinal novo tem prioridade sobre diagnóstico antigo."
+    ],
+    "hook": [
+      "Old problem, new symptom, new questions.",
+      "Problema antigo, sintoma novo, perguntas novas."
+    ],
+    "practice": [
+      "Ask where it started, whether it spreads and if strength changed.",
+      "Pergunte onde começou, se irradia e se a força mudou."
+    ],
+    "img": null
+  },
+  {
+    "id": 14,
+    "d": "PAT",
+    "l": 3,
+    "flag": "0",
+    "s": "massage",
+    "q": [
+      "At intake, Celia, 42, asks about precautions for calf discomfort present for one day. Which of these is an ABSOLUTE contraindication to massage anywhere on the body?",
+      "Na avaliação, Celia, 42 anos, pergunta sobre precauções para desconforto na panturrilha há um dia. Qual destes é contraindicação ABSOLUTA à massagem em qualquer lugar do corpo?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "A recent bruise on the calf",
+        "pt": "Hematoma recente na panturrilha",
+        "reasonEN": "Local caution only.",
+        "reasonPT": "Só cautela local."
+      },
+      {
+        "letter": "B",
+        "en": "Suspected deep vein thrombosis",
+        "pt": "Suspeita de trombose venosa profunda",
+        "reasonEN": "Clot can move.",
+        "reasonPT": "O coágulo pode se deslocar."
+      },
+      {
+        "letter": "C",
+        "en": "Chronic stable arthritis",
+        "pt": "Artrite crônica estável",
+        "reasonEN": "Work is allowed with adaptation.",
+        "reasonPT": "Trabalho permitido com adaptação."
+      },
+      {
+        "letter": "D",
+        "en": "Long-term corticosteroid use",
+        "pt": "Uso prolongado de corticoide",
+        "reasonEN": "Modify, do not stop.",
+        "reasonPT": "Modifique, não pare."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Absolute means no massage anywhere until it is assessed; the others are local or modifying.",
+      "Absoluta significa sem massagem em lugar nenhum até avaliar; as outras são locais ou modificadoras."
+    ],
+    "hook": [
+      "Absolute stops the whole session.",
+      "Absoluta para a sessão inteira."
+    ],
+    "practice": [
+      "Say clearly that this is a referral, not a cancellation.",
+      "Diga claramente que é encaminhamento, não cancelamento."
+    ],
+    "img": null
+  },
+  {
+    "id": 15,
+    "d": "ETI",
+    "l": 3,
+    "flag": "0",
+    "s": "ethics",
+    "q": [
+      "Lia, 44, has felt unusually tired for three weeks at intake. A regular client asks you to recommend a supplement for tiredness, because a friend suggested a thyroid product. How do you answer?",
+      "Lia, 44 anos, relata cansaço incomum há três semanas na avaliação. Um cliente fixo pede que você recomende um suplemento para cansaço, porque uma amiga sugeriu produto de tireoide. Como responder?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Recommend the same product that helped another client",
+        "pt": "Recomendar o mesmo produto que ajudou outro cliente",
+        "reasonEN": "Recommending a supplement exceeds this role; another client’s history is also private.",
+        "reasonPT": "Recomendar suplemento excede esse papel; a história de outro cliente também é privada."
+      },
+      {
+        "letter": "B",
+        "en": "Say nutrition is outside your scope and point her to her physician",
+        "pt": "Dizer que nutrição está fora do escopo e indicar o médico",
+        "reasonEN": "Scope logic resolves it.",
+        "reasonPT": "A lógica de escopo resolve."
+      },
+      {
+        "letter": "C",
+        "en": "Say it is fine because it is over the counter",
+        "pt": "Dizer que é ok porque é isento de receita",
+        "reasonEN": "OTC does not create scope.",
+        "reasonPT": "Isento de receita não cria escopo."
+      },
+      {
+        "letter": "D",
+        "en": "Write it down as informal advice",
+        "pt": "Anotar como orientação informal",
+        "reasonEN": "Informal does not make it permissible.",
+        "reasonPT": "Informal não torna permitido."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Recommendation without prescription is still outside massage scope.",
+      "Recomendar sem prescrever continua fora do escopo."
+    ],
+    "hook": [
+      "Outside the licence: point, don't prescribe.",
+      "Fora da licença: aponte, não prescreva."
+    ],
+    "practice": [
+      "Redirect without making her feel dismissed.",
+      "Redirecione sem fazê-la se sentir dispensada."
+    ],
+    "img": null
+  },
+  {
+    "id": 16,
+    "d": "ETI",
+    "l": 3,
+    "flag": "EXCEPT",
+    "s": "rights",
+    "q": [
+      "Mara, 37, has had shoulder discomfort for two weeks and is discussing a new technique. All of these support informed consent EXCEPT:",
+      "Mara, 37 anos, sente desconforto no ombro há duas semanas e conversa sobre técnica nova. Todas apoiam o consentimento informado, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Explaining the relevant risks",
+        "pt": "Explicar os riscos relevantes",
+        "reasonEN": "Risk talk is the core of it.",
+        "reasonPT": "Falar de risco é o núcleo."
+      },
+      {
+        "letter": "B",
+        "en": "Allowing questions",
+        "pt": "Permitir perguntas",
+        "reasonEN": "Questions reveal understanding.",
+        "reasonPT": "Perguntas revelam compreensão."
+      },
+      {
+        "letter": "C",
+        "en": "Treating yesterday's signature as permanent permission",
+        "pt": "Tratar a assinatura de ontem como permissão permanente",
+        "reasonEN": "Consent is continuous.",
+        "reasonPT": "Consentimento é contínuo."
+      },
+      {
+        "letter": "D",
+        "en": "Respecting a refusal",
+        "pt": "Respeitar a recusa",
+        "reasonEN": "Refusal is part of autonomy.",
+        "reasonPT": "Recusa faz parte da autonomia."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Consent is a process, not a document.",
+      "Consentimento é processo, não documento."
+    ],
+    "hook": [
+      "A signature is a photo, not a film.",
+      "Assinatura é foto, não filme."
+    ],
+    "practice": [
+      "Reconfirm before changing area, pressure or technique.",
+      "Reconfirme antes de mudar área, pressão ou técnica."
+    ],
+    "img": null
+  },
+  {
+    "id": 17,
+    "d": "ETI",
+    "l": 2,
+    "flag": "0",
+    "s": "transfer",
+    "q": [
+      "During her third session, Ana, 39, who has felt unusually attached to the therapist for two weeks, begins calling the therapist by her sister’s name. Which pattern might the practitioner consider without making a diagnosis?",
+      "Na terceira sessão, Ana, 39 anos, que se sente especialmente ligada ao terapeuta há duas semanas, começa a chamá-lo pelo nome da irmã. Qual padrão o profissional pode considerar sem fazer diagnóstico?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Countertransference",
+        "pt": "Contratransferência",
+        "reasonEN": "That is the therapist's side.",
+        "reasonPT": "Esse é o lado do terapeuta."
+      },
+      {
+        "letter": "B",
+        "en": "Dual relationship",
+        "pt": "Relação dupla",
+        "reasonEN": "That needs a second role, not just feeling.",
+        "reasonPT": "Precisa de segundo papel, não só sentimento."
+      },
+      {
+        "letter": "C",
+        "en": "Transference",
+        "pt": "Transferência",
+        "reasonEN": "Client projects an old bond onto you.",
+        "reasonPT": "O cliente projeta vínculo antigo."
+      },
+      {
+        "letter": "D",
+        "en": "Power differential",
+        "pt": "Diferencial de poder",
+        "reasonEN": "That is the structural imbalance.",
+        "reasonPT": "Esse é o desequilíbrio estrutural."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "The client may be projecting feelings from another relationship onto the practitioner. A name mix-up alone does not establish a psychological diagnosis.",
+      "A cliente pode estar projetando sentimentos de outra relação no profissional. Trocar o nome isoladamente não estabelece diagnóstico psicológico."
+    ],
+    "hook": [
+      "She brings her sister into the room.",
+      "Ela traz a irmã para a sala."
+    ],
+    "practice": [
+      "Keep limits clear and do not interpret her family history.",
+      "Mantenha limites claros e não interprete a história familiar."
+    ],
+    "img": null
+  },
+  {
+    "id": 18,
+    "d": "ETI",
+    "l": 3,
+    "flag": "0",
+    "s": "transfer",
+    "q": [
+      "Rita, 40, has noticed her own emotional response during care for three weeks. A client reminds you of your own difficult father, and you notice you are being unusually quiet with him. What is happening?",
+      "Rita, 40 anos, nota sua própria reação emocional no atendimento há três semanas. Um cliente te lembra seu próprio pai difícil, e você percebe que está estranhamente calada com ele. O que está acontecendo?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Transference",
+        "pt": "Transferência",
+        "reasonEN": "Wrong direction.",
+        "reasonPT": "Direção errada."
+      },
+      {
+        "letter": "B",
+        "en": "Countertransference",
+        "pt": "Contratransferência",
+        "reasonEN": "Your history is shaping the session.",
+        "reasonPT": "Sua história está moldando a sessão."
+      },
+      {
+        "letter": "C",
+        "en": "Misappropriation",
+        "pt": "Apropriação indevida",
+        "reasonEN": "That is personal gain.",
+        "reasonPT": "Isso é vantagem própria."
+      },
+      {
+        "letter": "D",
+        "en": "Burnout",
+        "pt": "Esgotamento",
+        "reasonEN": "Possible, but this is specific.",
+        "reasonPT": "Possível, mas aqui é específico."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "The practitioner's unresolved material is influencing care.",
+      "O material não resolvido do profissional influencia o atendimento."
+    ],
+    "hook": [
+      "Your father is in the room, not hers.",
+      "Seu pai está na sala, não o dela."
+    ],
+    "practice": [
+      "Name it to yourself and correct the pace.",
+      "Nomeie para si e corrija o ritmo."
+    ],
+    "img": null
+  },
+  {
+    "id": 19,
+    "d": "ETI",
+    "l": 4,
+    "flag": "EXCEPT",
+    "s": "abmp",
+    "q": [
+      "Eli, 50, has had back tightness for one month and is discussing professional boundaries. All of these are examples of misappropriation EXCEPT:",
+      "Eli, 50 anos, sente tensão nas costas há um mês e discute limites profissionais. Todos são exemplos de apropriação indevida, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Using client information for your own marketing",
+        "pt": "Usar informação do cliente para seu marketing",
+        "reasonEN": "Relationship used for gain.",
+        "reasonPT": "Relação usada em proveito próprio."
+      },
+      {
+        "letter": "B",
+        "en": "Pressuring a client to buy products for the therapist’s profit",
+        "pt": "Pressionar cliente a comprar produtos para lucro do terapeuta",
+        "reasonEN": "Pressure uses the therapeutic relationship for personal gain.",
+        "reasonPT": "A pressão usa a relação terapêutica para ganho pessoal."
+      },
+      {
+        "letter": "C",
+        "en": "Explaining the risks of a technique",
+        "pt": "Explicar os riscos de uma técnica",
+        "reasonEN": "That is just consent.",
+        "reasonPT": "Isso é só consentimento."
+      },
+      {
+        "letter": "D",
+        "en": "Charging for extra time without agreeing first",
+        "pt": "Cobrar tempo extra sem combinar antes",
+        "reasonEN": "Financial gain from the relationship.",
+        "reasonPT": "Ganho financeiro pela relação."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Misappropriation is using the relationship for advantage; explaining risk is care.",
+      "Apropriação é usar a relação em vantagem; explicar risco é cuidado."
+    ],
+    "hook": [
+      "Gain is the keyword, not explanation.",
+      "A palavra-chave é vantagem, não explicação."
+    ],
+    "practice": [
+      "Agree on time and price before you extend anything.",
+      "Combine tempo e valor antes de estender qualquer coisa."
+    ],
+    "img": null
+  },
+  {
+    "id": 20,
+    "d": "ETI",
+    "l": 2,
+    "flag": "0",
+    "s": "rights",
+    "q": [
+      "Rui, 52, has had gluteal tightness for three weeks and agrees to local work. You need to work the gluteal area with the client prone. What is the correct draping conduct?",
+      "Rui, 52 anos, sente tensão glútea há três semanas e aceita trabalho local. Você precisa trabalhar a região glútea com o cliente em pronação. Qual é a conduta correta de draping?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Remove the lower drape completely",
+        "pt": "Retirar a cobertura de baixo por completo",
+        "reasonEN": "Exposes more than needed.",
+        "reasonPT": "Expõe mais que o necessário."
+      },
+      {
+        "letter": "B",
+        "en": "Undrape only the area, secure the drape, and tell him before you do it",
+        "pt": "Descobrir só a área, firmar a cobertura e avisar antes",
+        "reasonEN": "Safe practice plus communication.",
+        "reasonPT": "Prática segura mais comunicação."
+      },
+      {
+        "letter": "C",
+        "en": "Ask him to hold the drape himself",
+        "pt": "Pedir que ele segure a cobertura",
+        "reasonEN": "Works, but it is not the standard.",
+        "reasonPT": "Funciona, mas não é o padrão."
+      },
+      {
+        "letter": "D",
+        "en": "Keep the glutes covered and skip them",
+        "pt": "Manter coberto e pular a região",
+        "reasonEN": "Error in the opposite direction.",
+        "reasonPT": "Erro na direção oposta."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Draping is listed as safe practice and as communication; both count.",
+      "Draping consta como prática segura e como comunicação; os dois contam."
+    ],
+    "hook": [
+      "Tell a prone client before you move cloth.",
+      "Avise quem está de bruços antes de mexer no pano."
+    ],
+    "practice": [
+      "Name the area, fold once, anchor at the far hip.",
+      "Nomeie a área, dobre uma vez, firme no quadril oposto."
+    ],
+    "img": null
+  },
+  {
+    "id": 21,
+    "d": "ETI",
+    "l": 3,
+    "flag": "FIRST",
+    "s": "rights",
+    "q": [
+      "Camila, 32, has had abdominal tension for two weeks. A client in her first session asks to keep both legs covered while you work the abdomen. What comes FIRST?",
+      "Camila, 32 anos, sente tensão abdominal há duas semanas. Uma cliente na primeira sessão pede para manter as duas pernas cobertas enquanto você trabalha o abdome. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Explain the limited exposure and confirm",
+        "pt": "Explicar a exposição limitada e confirmar",
+        "reasonEN": "Consent precedes the change.",
+        "reasonPT": "Consentimento precede a mudança."
+      },
+      {
+        "letter": "B",
+        "en": "Move the drape and explain afterward",
+        "pt": "Mover a cobertura e explicar depois",
+        "reasonEN": "Permission should come first.",
+        "reasonPT": "A permissão deve vir antes."
+      },
+      {
+        "letter": "C",
+        "en": "Uncover the legs, it is standard",
+        "pt": "Descobrir as pernas, é o padrão",
+        "reasonEN": "Standard does not override her limit.",
+        "reasonPT": "O padrão não supera o limite dela."
+      },
+      {
+        "letter": "D",
+        "en": "Treat her agreement as consent to everything",
+        "pt": "Tratar a concordância como consentimento a tudo",
+        "reasonEN": "Consent is specific.",
+        "reasonPT": "Consentimento é específico."
+      }
+    ],
+    "correct": 0,
+    "why": [
+      "Respect the limit, say what will be exposed, confirm.",
+      "Respeite o limite, diga o que será exposto, confirme."
+    ],
+    "hook": [
+      "Explain, cover, confirm, then move.",
+      "Explique, cubra, confirme, depois mova."
+    ],
+    "practice": [
+      "If the work cannot fit her limits, agree on another plan.",
+      "Se o trabalho não couber nos limites, combinem outro plano."
+    ],
+    "img": null
+  },
+  {
+    "id": 22,
+    "d": "ETI",
+    "l": 2,
+    "flag": "0",
+    "s": "rights",
+    "q": [
+      "Marco, 45, has had shoulder tension for one week. He signed the form yesterday. Today he declines the same technique. What governs today?",
+      "Marco, 45 anos, sente tensão no ombro há uma semana. Ele assinou a ficha ontem. Hoje recusa a mesma técnica. O que governa hoje?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "The signed form",
+        "pt": "A ficha assinada",
+        "reasonEN": "Yesterday does not bind today.",
+        "reasonPT": "Ontem não obriga hoje."
+      },
+      {
+        "letter": "B",
+        "en": "The therapist's plan",
+        "pt": "O plano do terapeuta",
+        "reasonEN": "The plan is a proposal.",
+        "reasonPT": "O plano é proposta."
+      },
+      {
+        "letter": "C",
+        "en": "Today's refusal",
+        "pt": "A recusa de hoje",
+        "reasonEN": "Autonomy is current.",
+        "reasonPT": "Autonomia é atual."
+      },
+      {
+        "letter": "D",
+        "en": "A new signature",
+        "pt": "Uma nova assinatura",
+        "reasonEN": "Useful, not required to refuse.",
+        "reasonPT": "Útil, não exigida para recusar."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Consent can be withdrawn at any moment, even mid-session.",
+      "O consentimento pode ser retirado a qualquer momento, até no meio."
+    ],
+    "hook": [
+      "Today's no beats yesterday's yes.",
+      "O não de hoje supera o sim de ontem."
+    ],
+    "practice": [
+      "Thank him and offer an alternative.",
+      "Agradeça e ofereça alternativa."
+    ],
+    "img": null
+  },
+  {
+    "id": 23,
+    "d": "ETI",
+    "l": 3,
+    "flag": "0",
+    "s": "ethics",
+    "q": [
+      "A 45-year-old practitioner has been considering a practice sale for three weeks. You are selling your practice. The buyer asks for named client histories. What do you do?",
+      "Um profissional de 45 anos considera vender o consultório há três semanas. Você está vendendo sua prática. O comprador pede históricos identificados de clientes. O que fazer?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Send everything, to show transparency",
+        "pt": "Enviar tudo, para mostrar transparência",
+        "reasonEN": "Honesty is not the issue.",
+        "reasonPT": "Honestidade não é o problema."
+      },
+      {
+        "letter": "B",
+        "en": "Send only records without names",
+        "pt": "Enviar só registros sem nomes",
+        "reasonEN": "Loses the point of a history.",
+        "reasonPT": "Perde a utilidade do histórico."
+      },
+      {
+        "letter": "C",
+        "en": "Assume the sale transfers consent",
+        "pt": "Presumir que a venda transfere consentimento",
+        "reasonEN": "Sale is not authorization.",
+        "reasonPT": "Venda não é autorização."
+      },
+      {
+        "letter": "D",
+        "en": "Check what the rules allow and disclose within that",
+        "pt": "Verificar o que as regras permitem e divulgar nesse limite",
+        "reasonEN": "Confidentiality survives the sale.",
+        "reasonPT": "Confidencialidade sobrevive à venda."
+      }
+    ],
+    "correct": 3,
+    "why": [
+      "A business transaction does not erase the duty of confidentiality.",
+      "Transação comercial não apaga o dever de sigilo."
+    ],
+    "hook": [
+      "Selling the business does not sell the privacy.",
+      "Vender o negócio não vende a privacidade."
+    ],
+    "practice": [
+      "Ask the board or a lawyer what must be in the sale terms.",
+      "Pergunte ao conselho ou a um advogado o que deve constar no contrato."
+    ],
+    "img": null
+  },
+  {
+    "id": 24,
+    "d": "ETI",
+    "l": 3,
+    "flag": "FIRST",
+    "s": "abmp",
+    "q": [
+      "Ana, 57, has had back tension for six months and attends regularly. A long-time client gives you an expensive gift and asks for priority booking from now on. What comes FIRST?",
+      "Ana, 57 anos, sente tensão nas costas há seis meses e faz sessões regulares. Uma cliente antiga te dá um presente caro e pede prioridade de agenda a partir de agora. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Accept and promise priority forever",
+        "pt": "Aceitar e prometer prioridade para sempre",
+        "reasonEN": "Creates obligation.",
+        "reasonPT": "Cria obrigação."
+      },
+      {
+        "letter": "B",
+        "en": "Take the gift as proof of consent",
+        "pt": "Tomar o presente como prova de consentimento",
+        "reasonEN": "Gift is not consent.",
+        "reasonPT": "Presente não é consentimento."
+      },
+      {
+        "letter": "C",
+        "en": "Discuss the limit and decline the condition",
+        "pt": "Conversar sobre o limite e recusar a condição",
+        "reasonEN": "Keeps the relationship even.",
+        "reasonPT": "Mantém a relação equilibrada."
+      },
+      {
+        "letter": "D",
+        "en": "Dismiss the client without discussing the boundary",
+        "pt": "Dispensar a cliente sem conversar sobre o limite",
+        "reasonEN": "This skips the necessary boundary conversation.",
+        "reasonPT": "Isso pula a conversa necessária sobre limites."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Discuss the boundary and decline the requested exception. Gift policies differ; the condition attached to this gift is the problem in this case.",
+      "Converse sobre o limite e recuse a exceção solicitada. Políticas sobre presentes variam; a condição ligada a este presente é o problema aqui."
+    ],
+    "hook": [
+      "A gift cannot buy an exception.",
+      "Presente não compra exceção."
+    ],
+    "practice": [
+      "Explain the policy you actually apply to everyone.",
+      "Explique a política que você aplica a todos."
+    ],
+    "img": null
+  },
+  {
+    "id": 25,
+    "d": "ETI",
+    "l": 2,
+    "flag": "0",
+    "s": "rights",
+    "q": [
+      "Lia, 37, has had back discomfort for two weeks and is a current client. A friend asks whether a named person is your client. What do you answer?",
+      "Lia, 37 anos, sente desconforto nas costas há duas semanas e é cliente atual. Uma amiga pergunta se determinada pessoa é sua cliente. O que responder?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Yes, and mention her diagnosis",
+        "pt": "Sim, e citar o diagnóstico",
+        "reasonEN": "Diagnosis is extra information.",
+        "reasonPT": "Diagnóstico é informação a mais."
+      },
+      {
+        "letter": "B",
+        "en": "That you do not confirm whether anyone is a client",
+        "pt": "Que você não confirma se alguém é cliente",
+        "reasonEN": "Even the bond is private.",
+        "reasonPT": "Até o vínculo é privado."
+      },
+      {
+        "letter": "C",
+        "en": "Only if the friend is trustworthy",
+        "pt": "Só se a amiga for confiável",
+        "reasonEN": "Trust is not authorization.",
+        "reasonPT": "Confiança não é autorização."
+      },
+      {
+        "letter": "D",
+        "en": "Yes, if she promises not to tell",
+        "pt": "Sim, se ela prometer não contar",
+        "reasonEN": "Still disclosure.",
+        "reasonPT": "Ainda é divulgação."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Being someone's therapist is confidential information too.",
+      "Ser terapeuta de alguém também é informação sigilosa."
+    ],
+    "hook": [
+      "Knowing who is a client is already private.",
+      "Saber quem é cliente já é privado."
+    ],
+    "practice": [
+      "Say you do not comment on who you attend.",
+      "Diga que não comenta quem você atende."
+    ],
+    "img": null
+  },
+  {
+    "id": 26,
+    "d": "ETI",
+    "l": 3,
+    "flag": "0",
+    "s": "retention",
+    "q": [
+      "A 42-year-old practitioner has been reviewing record retention for two weeks. How long must you keep client records after the last session?",
+      "Um profissional de 42 anos revisa a guarda de prontuários há duas semanas. Por quanto tempo você deve guardar prontuários após a última sessão?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Two years, everywhere",
+        "pt": "Dois anos, em todo lugar",
+        "reasonEN": "Varies by state.",
+        "reasonPT": "Varia por estado."
+      },
+      {
+        "letter": "B",
+        "en": "Until the client asks for them back",
+        "pt": "Até o cliente pedir de volta",
+        "reasonEN": "A request does not end the duty.",
+        "reasonPT": "Pedido não encerra o dever."
+      },
+      {
+        "letter": "C",
+        "en": "Whatever period the state board requires",
+        "pt": "O prazo que o conselho estadual exigir",
+        "reasonEN": "Legal durations are state-defined.",
+        "reasonPT": "Prazos legais são definidos pelo estado."
+      },
+      {
+        "letter": "D",
+        "en": "Five years, or ten for minors",
+        "pt": "Cinco anos, ou dez para menores",
+        "reasonEN": "Reasonable guess, not the rule.",
+        "reasonPT": "Palpite razoável, não a regra."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Record-retention periods depend on applicable state law and may include special rules for minors. Check the current board guidance before discarding records.",
+      "Prazos de guarda dependem da lei estadual aplicável e podem ter regras para menores. Confira a orientação atual do conselho antes de descartar prontuários."
+    ],
+    "hook": [
+      "Legal duration? Ask the board.",
+      "Prazo legal? Pergunte ao conselho."
+    ],
+    "practice": [
+      "Check the rule before you discard anything.",
+      "Confira a regra antes de descartar qualquer coisa."
+    ],
+    "img": null
+  },
+  {
+    "id": 27,
+    "d": "AVA",
+    "l": 2,
+    "flag": "FIRST",
+    "s": "rights",
+    "q": [
+      "A new client, Vitor, 40, says his shoulder has hurt for a week. He is already on the table. What happens FIRST?",
+      "Um cliente novo, Vitor, 40, diz que o ombro dói há uma semana. Ele já está na maca. O que acontece PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Start with light effleurage to warm up",
+        "pt": "Começar com deslizamento leve para aquecer",
+        "reasonEN": "Technique before information.",
+        "reasonPT": "Técnica antes de informação."
+      },
+      {
+        "letter": "B",
+        "en": "Take history and goals before planning",
+        "pt": "Colher histórico e objetivos antes de planejar",
+        "reasonEN": "Assessment precedes treatment.",
+        "reasonPT": "Avaliação precede tratamento."
+      },
+      {
+        "letter": "C",
+        "en": "Test resisted shoulder movement",
+        "pt": "Testar movimento resistido do ombro",
+        "reasonEN": "Good, but after the history.",
+        "reasonPT": "Bom, mas depois do histórico."
+      },
+      {
+        "letter": "D",
+        "en": "Diagnose the likely cause for him",
+        "pt": "Diagnosticar a causa provável para ele",
+        "reasonEN": "Diagnosis exceeds the role.",
+        "reasonPT": "Diagnóstico excede o papel."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Nothing is chosen before the history and the goal are clear.",
+      "Nada se escolhe antes de histórico e objetivo claros."
+    ],
+    "hook": [
+      "Questions before hands.",
+      "Perguntas antes das mãos."
+    ],
+    "practice": [
+      "Ask onset, what worsens it, what he wants back.",
+      "Pergunte início, o que piora e o que ele quer recuperar."
+    ],
+    "img": null
+  },
+  {
+    "id": 28,
+    "d": "AVA",
+    "l": 2,
+    "flag": "FIRST",
+    "s": "rights",
+    "q": [
+      "Marina, 46, has had neck pain for five days. Mid-session, Marina says the pressure is too much on the neck. What comes FIRST?",
+      "Marina, 46 anos, sente dor cervical há cinco dias. No meio da sessão, Marina diz que a pressão está demais no pescoço. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Reduce pressure and check in",
+        "pt": "Reduzir a pressão e checar",
+        "reasonEN": "Immediate response to the signal.",
+        "reasonPT": "Resposta imediata ao sinal."
+      },
+      {
+        "letter": "B",
+        "en": "Keep pressure, it is a sensitive area",
+        "pt": "Manter, é área sensível",
+        "reasonEN": "Sensitivity does not equal tolerance.",
+        "reasonPT": "Sensibilidade não é tolerância."
+      },
+      {
+        "letter": "C",
+        "en": "Move to another region",
+        "pt": "Mudar de região",
+        "reasonEN": "May work, but confirm first.",
+        "reasonPT": "Pode funcionar, mas confirme antes."
+      },
+      {
+        "letter": "D",
+        "en": "Explain that discomfort is expected",
+        "pt": "Explicar que o desconforto é esperado",
+        "reasonEN": "Explanation does not relieve it.",
+        "reasonPT": "Explicação não alivia."
+      }
+    ],
+    "correct": 0,
+    "why": [
+      "Pressure is a live negotiation, not a decision made once.",
+      "Pressão é negociação viva, não decisão única."
+    ],
+    "hook": [
+      "Pain changes the pressure conversation.",
+      "Dor muda a conversa sobre pressão."
+    ],
+    "practice": [
+      "Ask \"less, same, or stop?\" and follow the answer.",
+      "Pergunte \"menos, igual ou parar?\" e siga a resposta."
+    ],
+    "img": null
+  },
+  {
+    "id": 29,
+    "d": "AVA",
+    "l": 2,
+    "flag": "0",
+    "s": "soap",
+    "q": [
+      "Theo, 38, has had neck pain for four days and rates it today. The note reads: \"Client rates neck pain 6/10 today.\" Which SOAP section is this?",
+      "Theo, 38 anos, sente dor cervical há quatro dias e atribui uma nota hoje. A nota diz: \"Cliente classifica dor cervical 6/10 hoje.\" Qual seção SOAP é essa?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Subjective",
+        "pt": "Subjetivo",
+        "reasonEN": "Client-reported information.",
+        "reasonPT": "Informação relatada pelo cliente."
+      },
+      {
+        "letter": "B",
+        "en": "Objective",
+        "pt": "Objetivo",
+        "reasonEN": "That is what you measure.",
+        "reasonPT": "Isso é o que você mede."
+      },
+      {
+        "letter": "C",
+        "en": "Assessment",
+        "pt": "Avaliação",
+        "reasonEN": "That is your interpretation.",
+        "reasonPT": "Isso é sua interpretação."
+      },
+      {
+        "letter": "D",
+        "en": "Plan",
+        "pt": "Plano",
+        "reasonEN": "That is the next step.",
+        "reasonPT": "Isso é o próximo passo."
+      }
+    ],
+    "correct": 0,
+    "why": [
+      "A pain score is the client's report, so it is subjective.",
+      "Nota de dor é relato do cliente, logo subjetivo."
+    ],
+    "hook": [
+      "S is what they Say.",
+      "S é o que a pessoa diz."
+    ],
+    "practice": [
+      "Write her words, not your summary.",
+      "Escreva as palavras dela, não seu resumo."
+    ],
+    "img": null
+  },
+  {
+    "id": 30,
+    "d": "AVA",
+    "l": 2,
+    "flag": "EXCEPT",
+    "s": "soap",
+    "q": [
+      "Nina, 41, has had shoulder stiffness for three weeks; a therapist compares chart sections. All of these belong in the Objective section EXCEPT:",
+      "Nina, 41 anos, tem rigidez no ombro há três semanas; o terapeuta compara as seções do prontuário. Todos pertencem ao campo Objetivo, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Measured neck rotation in degrees",
+        "pt": "Rotação cervical medida em graus",
+        "reasonEN": "A measurement.",
+        "reasonPT": "Uma medida."
+      },
+      {
+        "letter": "B",
+        "en": "Tissue temperature on palpation",
+        "pt": "Temperatura do tecido à palpação",
+        "reasonEN": "A finding.",
+        "reasonPT": "Um achado."
+      },
+      {
+        "letter": "C",
+        "en": "The client's description of the pain",
+        "pt": "A descrição da dor pelo cliente",
+        "reasonEN": "Report is subjective.",
+        "reasonPT": "Relato é subjetivo."
+      },
+      {
+        "letter": "D",
+        "en": "Visible swelling over the joint",
+        "pt": "Edema visível sobre a articulação",
+        "reasonEN": "An observation.",
+        "reasonPT": "Uma observação."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Anything reported rather than observed or measured is subjective.",
+      "Tudo relatado, e não observado ou medido, é subjetivo."
+    ],
+    "hook": [
+      "Observed is O. Reported is S.",
+      "Observado é O. Relatado é S."
+    ],
+    "practice": [
+      "Separate the two before writing a single line.",
+      "Separe os dois antes de escrever uma linha."
+    ],
+    "img": null
+  },
+  {
+    "id": 31,
+    "d": "AVA",
+    "l": 3,
+    "flag": "0",
+    "s": "soap",
+    "q": [
+      "Omar, 52, has had limited neck rotation for one month and plans a follow-up. The note says: \"Reassess pain-free rotation next visit.\" Which section is this?",
+      "Omar, 52 anos, tem rotação cervical limitada há um mês e planeja acompanhamento. A nota diz: \"Reavaliar rotação sem dor na próxima visita.\" Qual seção é essa?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Subjective",
+        "pt": "Subjetivo",
+        "reasonEN": "Not a report.",
+        "reasonPT": "Não é relato."
+      },
+      {
+        "letter": "B",
+        "en": "Objective",
+        "pt": "Objetivo",
+        "reasonEN": "Not a measurement yet.",
+        "reasonPT": "Ainda não é medida."
+      },
+      {
+        "letter": "C",
+        "en": "Assessment",
+        "pt": "Avaliação",
+        "reasonEN": "Not the interpretation.",
+        "reasonPT": "Não é a interpretação."
+      },
+      {
+        "letter": "D",
+        "en": "Plan",
+        "pt": "Plano",
+        "reasonEN": "Future action belongs here.",
+        "reasonPT": "Ação futura pertence aqui."
+      }
+    ],
+    "correct": 3,
+    "why": [
+      "Anything you intend to do next is Plan.",
+      "Qualquer intenção futura é Plano."
+    ],
+    "hook": [
+      "Tomorrow belongs in the plan.",
+      "O amanhã mora no plano."
+    ],
+    "practice": [
+      "Date the reassessment so it actually happens.",
+      "Date a reavaliação para que ela aconteça."
+    ],
+    "img": null
+  },
+  {
+    "id": 32,
+    "d": "AVA",
+    "l": 3,
+    "flag": "0",
+    "s": "motion",
+    "q": [
+      "Joana, 35, has had difficulty lifting her arm for two weeks. You ask Joana to lift her arm alone while you watch. Which are you testing?",
+      "Joana, 35 anos, tem dificuldade para elevar o braço há duas semanas. Você pede que Joana eleve o braço sozinha enquanto observa. O que está testando?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Passive range",
+        "pt": "Amplitude passiva",
+        "reasonEN": "You would move it.",
+        "reasonPT": "Você moveria."
+      },
+      {
+        "letter": "B",
+        "en": "Active range",
+        "pt": "Amplitude ativa",
+        "reasonEN": "She moves it herself.",
+        "reasonPT": "Ela move sozinha."
+      },
+      {
+        "letter": "C",
+        "en": "Resisted movement",
+        "pt": "Movimento resistido",
+        "reasonEN": "You would oppose.",
+        "reasonPT": "Você se oporia."
+      },
+      {
+        "letter": "D",
+        "en": "Joint play",
+        "pt": "Movimento articular acessório",
+        "reasonEN": "Small amplitude, not this.",
+        "reasonPT": "Pequena amplitude, não isso."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Self-generated movement is active by definition.",
+      "Movimento gerado pelo próprio cliente é ativo por definição."
+    ],
+    "hook": [
+      "Their effort, their movement.",
+      "Esforço deles, movimento deles."
+    ],
+    "practice": [
+      "Note degrees and where she reports discomfort.",
+      "Anote os graus e onde ela relata desconforto."
+    ],
+    "img": null
+  },
+  {
+    "id": 33,
+    "d": "AVA",
+    "l": 3,
+    "flag": "FIRST",
+    "s": "rights",
+    "q": [
+      "Rafael, 58, has been limping since a fall this morning. A regular client arrives limping after falling that morning. What comes FIRST?",
+      "Rafael, 58 anos, manca desde uma queda hoje cedo. Um cliente fixo chega mancando após cair naquela manhã. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Proceed with the usual plan",
+        "pt": "Prosseguir com o plano habitual",
+        "reasonEN": "The presentation changed.",
+        "reasonPT": "O quadro mudou."
+      },
+      {
+        "letter": "B",
+        "en": "Reassess what changed before starting",
+        "pt": "Reavaliar o que mudou antes de começar",
+        "reasonEN": "New event, new assessment.",
+        "reasonPT": "Evento novo, avaliação nova."
+      },
+      {
+        "letter": "C",
+        "en": "Work the opposite side only",
+        "pt": "Trabalhar só o lado oposto",
+        "reasonEN": "Guess without assessment.",
+        "reasonPT": "Palpite sem avaliação."
+      },
+      {
+        "letter": "D",
+        "en": "Shorten the session and go light",
+        "pt": "Encurtar e ir leve",
+        "reasonEN": "Reasonable, but not first.",
+        "reasonPT": "Razoável, mas não primeiro."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "A changed presentation requires an updated assessment.",
+      "Quadro alterado exige avaliação atualizada."
+    ],
+    "hook": [
+      "New limp, new questions.",
+      "Mancar novo, perguntas novas."
+    ],
+    "practice": [
+      "Ask how she fell, where it hurts and whether she can bear weight.",
+      "Pergunte como caiu, onde dói e se consegue apoiar."
+    ],
+    "img": null
+  },
+  {
+    "id": 34,
+    "d": "AVA",
+    "l": 3,
+    "flag": "EXCEPT",
+    "s": "rights",
+    "q": [
+      "Bia, 47, has had neck stiffness for six weeks and wants to compare visits. All of these help you compare change across sessions EXCEPT:",
+      "Bia, 47 anos, sente rigidez cervical há seis semanas e quer comparar sessões. Todos ajudam a comparar mudança entre sessões, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Repeating the same measure",
+        "pt": "Repetir a mesma medida",
+        "reasonEN": "Comparability requires it.",
+        "reasonPT": "Comparabilidade exige."
+      },
+      {
+        "letter": "B",
+        "en": "Using the same position and instruction",
+        "pt": "Usar a mesma posição e instrução",
+        "reasonEN": "Controls the variables.",
+        "reasonPT": "Controla as variáveis."
+      },
+      {
+        "letter": "C",
+        "en": "Changing to a new test each time",
+        "pt": "Mudar para um teste novo a cada vez",
+        "reasonEN": "Breaks comparison.",
+        "reasonPT": "Quebra a comparação."
+      },
+      {
+        "letter": "D",
+        "en": "Recording the numbers",
+        "pt": "Registrar os números",
+        "reasonEN": "Memory is not a record.",
+        "reasonPT": "Memória não é registro."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "A different test cannot be compared to the previous one.",
+      "Teste diferente não se compara ao anterior."
+    ],
+    "hook": [
+      "Same ruler, useful comparison.",
+      "Mesma régua, comparação útil."
+    ],
+    "practice": [
+      "Pick two measures and keep them fixed.",
+      "Escolha duas medidas e mantenha fixas."
+    ],
+    "img": null
+  },
+  {
+    "id": 35,
+    "d": "AVA",
+    "l": 2,
+    "flag": "FIRST",
+    "s": "rights",
+    "q": [
+      "Nico, 49, has had shoulder discomfort for five days. A client on the table asks you to stop touching the shoulder. What comes FIRST?",
+      "Nico, 49 anos, sente desconforto no ombro há cinco dias. Um cliente na maca pede para você parar de tocar o ombro. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Finish that area quickly",
+        "pt": "Terminar a área rápido",
+        "reasonEN": "Finishing is not stopping.",
+        "reasonPT": "Terminar não é parar."
+      },
+      {
+        "letter": "B",
+        "en": "Lift your hands off the shoulder",
+        "pt": "Tirar as mãos do ombro",
+        "reasonEN": "The request is about the contact.",
+        "reasonPT": "O pedido é sobre o contato."
+      },
+      {
+        "letter": "C",
+        "en": "Explain why you were there",
+        "pt": "Explicar por que estava ali",
+        "reasonEN": "Explanation after removal.",
+        "reasonPT": "Explicação depois de retirar."
+      },
+      {
+        "letter": "D",
+        "en": "Ask if the pressure was too much",
+        "pt": "Perguntar se a pressão era demais",
+        "reasonEN": "Good, but hands come off first.",
+        "reasonPT": "Bom, mas as mãos saem antes."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Hands come off on the request; the conversation comes after.",
+      "As mãos saem no pedido; a conversa vem depois."
+    ],
+    "hook": [
+      "A stop request ends the touch.",
+      "Pedido de parada encerra o toque."
+    ],
+    "practice": [
+      "Remove, then ask if another area or pressure is fine.",
+      "Retire, depois pergunte se outra área ou pressão serve."
+    ],
+    "img": null
+  },
+  {
+    "id": 36,
+    "d": "PRO",
+    "l": 1,
+    "flag": "FIRST",
+    "s": "cdc",
+    "q": [
+      "A 36-year-old practitioner has noticed lotion residue between clients for two days. There is visible lotion residue on the table. What comes FIRST?",
+      "Um profissional de 36 anos nota resíduos de loção entre clientes há dois dias. Há resíduo visível de loção na maca. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Disinfect over the residue",
+        "pt": "Desinfetar sobre o resíduo",
+        "reasonEN": "Product works worse on soil.",
+        "reasonPT": "O produto rende menos com sujeira."
+      },
+      {
+        "letter": "B",
+        "en": "Clean off the residue",
+        "pt": "Limpar o resíduo",
+        "reasonEN": "Soil blocks the disinfectant.",
+        "reasonPT": "A sujeira bloqueia o desinfetante."
+      },
+      {
+        "letter": "C",
+        "en": "Wipe with a dry cloth and finish",
+        "pt": "Passar pano seco e encerrar",
+        "reasonEN": "Removes little.",
+        "reasonPT": "Remove pouco."
+      },
+      {
+        "letter": "D",
+        "en": "Spray fragrance to freshen",
+        "pt": "Borrifar aroma para refrescar",
+        "reasonEN": "Odor is not cleaning.",
+        "reasonPT": "Odor não é limpeza."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Cleaning comes before disinfection; soil protects what lives under it.",
+      "Limpeza vem antes da desinfecção; sujeira protege o que vive embaixo."
+    ],
+    "hook": [
+      "Remove the dirt before the germ step.",
+      "Tire a sujeira antes da etapa contra germe."
+    ],
+    "practice": [
+      "Clean, then disinfect with contact time.",
+      "Limpe, depois desinfete com tempo de contato."
+    ],
+    "img": null
+  },
+  {
+    "id": 37,
+    "d": "PRO",
+    "l": 2,
+    "flag": "0",
+    "s": "cdc",
+    "q": [
+      "A 44-year-old clinic manager has reviewed infection-control steps for two weeks. Which process does NOT necessarily eliminate bacterial spores?",
+      "Um gestor de clínica de 44 anos revisa controle de infecção há duas semanas. Qual processo NÃO elimina necessariamente esporos bacterianos?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Sterilization",
+        "pt": "Esterilização",
+        "reasonEN": "That is its definition.",
+        "reasonPT": "Essa é a definição."
+      },
+      {
+        "letter": "B",
+        "en": "Disinfection",
+        "pt": "Desinfecção",
+        "reasonEN": "Kills most pathogens, spores survive.",
+        "reasonPT": "Mata a maioria, esporo sobrevive."
+      },
+      {
+        "letter": "C",
+        "en": "Autoclave processing",
+        "pt": "Processamento em autoclave",
+        "reasonEN": "A sterilization method.",
+        "reasonPT": "Um método de esterilização."
+      },
+      {
+        "letter": "D",
+        "en": "A validated steam sterilization cycle",
+        "pt": "Um ciclo validado de esterilização a vapor",
+        "reasonEN": "This is a sterilization method that covers spores.",
+        "reasonPT": "É método de esterilização que abrange esporos."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Only sterilization covers spores.",
+      "Só a esterilização cobre esporos."
+    ],
+    "hook": [
+      "All forms includes spores.",
+      "Todas as formas inclui esporos."
+    ],
+    "practice": [
+      "Match the process to the item, not to habit.",
+      "Case o processo ao item, não ao hábito."
+    ],
+    "img": null
+  },
+  {
+    "id": 38,
+    "d": "PRO",
+    "l": 2,
+    "flag": "0",
+    "s": "cdc",
+    "q": [
+      "A 31-year-old practitioner has been using this surface product for one week. The label says the surface must stay wet for three minutes. What do you do?",
+      "Um profissional de 31 anos usa este produto de superfície há uma semana. O rótulo diz que a superfície deve ficar molhada por três minutos. O que fazer?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Wipe it dry right away",
+        "pt": "Secar imediatamente",
+        "reasonEN": "Drying ends the action.",
+        "reasonPT": "Secar encerra a ação."
+      },
+      {
+        "letter": "B",
+        "en": "Keep it wet for the full time",
+        "pt": "Manter molhada pelo tempo todo",
+        "reasonEN": "Contact time is the rule.",
+        "reasonPT": "Tempo de contato é a regra."
+      },
+      {
+        "letter": "C",
+        "en": "Use scent to judge it is done",
+        "pt": "Usar o cheiro para julgar",
+        "reasonEN": "Odor is not a clock.",
+        "reasonPT": "Odor não é relógio."
+      },
+      {
+        "letter": "D",
+        "en": "Apply twice and dry fast",
+        "pt": "Aplicar duas vezes e secar rápido",
+        "reasonEN": "Doubling does not replace time.",
+        "reasonPT": "Dobrar não substitui o tempo."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "The label defines correct use; wet time is part of it.",
+      "O rótulo define o uso correto; o tempo molhado faz parte."
+    ],
+    "hook": [
+      "Wet for the time on the label.",
+      "Molhado pelo tempo do rótulo."
+    ],
+    "practice": [
+      "Read the label before you start, not after.",
+      "Leia o rótulo antes de começar, não depois."
+    ],
+    "img": null
+  },
+  {
+    "id": 39,
+    "d": "PRO",
+    "l": 2,
+    "flag": "0",
+    "s": "mechanics",
+    "q": [
+      "You are 35, your lower back aches every evening, and you work bent over a low table. This lower-back ache has lasted two weeks. What changes?",
+      "Você tem 35 anos, sua lombar dói toda noite e você trabalha inclinado sobre uma mesa baixa. Essa dor lombar dura duas semanas. O que muda?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Raise the table and step closer",
+        "pt": "Elevar a mesa e aproximar-se",
+        "reasonEN": "Less flexion, less reach.",
+        "reasonPT": "Menos flexão, menos alcance."
+      },
+      {
+        "letter": "B",
+        "en": "Lower the table and lock the feet",
+        "pt": "Baixar a mesa e fixar os pés",
+        "reasonEN": "More bending.",
+        "reasonPT": "Mais inclinação."
+      },
+      {
+        "letter": "C",
+        "en": "Twist the trunk to reach across",
+        "pt": "Torcer o tronco para alcançar",
+        "reasonEN": "Twisting adds load.",
+        "reasonPT": "Torção soma carga."
+      },
+      {
+        "letter": "D",
+        "en": "Push harder with the same posture",
+        "pt": "Empurrar mais com a mesma postura",
+        "reasonEN": "Force does not fix posture.",
+        "reasonPT": "Força não corrige postura."
+      }
+    ],
+    "correct": 0,
+    "why": [
+      "Height and proximity are the two variables that remove the load.",
+      "Altura e proximidade são as duas variáveis que tiram a carga."
+    ],
+    "hook": [
+      "Bring the work to your base.",
+      "Traga o trabalho para a sua base."
+    ],
+    "practice": [
+      "Adjust height before the first stroke, not after the pain.",
+      "Ajuste a altura antes da primeira manobra."
+    ],
+    "img": null
+  },
+  {
+    "id": 40,
+    "d": "PRO",
+    "l": 3,
+    "flag": "FIRST",
+    "s": "ethics",
+    "q": [
+      "A 43-year-old practitioner has been reviewing notes from this week. You notice a wrong date in a note you finished yesterday. What comes FIRST?",
+      "Um profissional de 43 anos revisa anotações desta semana. Você percebe uma data errada numa nota que finalizou ontem. O que vem PRIMEIRO?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Erase the original entry",
+        "pt": "Apagar o registro original",
+        "reasonEN": "Erasing loses the trail.",
+        "reasonPT": "Apagar perde o histórico."
+      },
+      {
+        "letter": "B",
+        "en": "Rewrite the note with the right date",
+        "pt": "Reescrever a nota com a data certa",
+        "reasonEN": "Looks clean, hides the change.",
+        "reasonPT": "Parece limpo, esconde a mudança."
+      },
+      {
+        "letter": "C",
+        "en": "Add a dated correction that names the error",
+        "pt": "Acrescentar correção datada que nomeia o erro",
+        "reasonEN": "Keeps the history visible.",
+        "reasonPT": "Mantém o histórico visível."
+      },
+      {
+        "letter": "D",
+        "en": "Wait and see if anyone notices",
+        "pt": "Esperar para ver se alguém nota",
+        "reasonEN": "The error stays live.",
+        "reasonPT": "O erro segue valendo."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Correction keeps the record accurate and the trail intact.",
+      "A correção mantém o registro preciso e o rastro intacto."
+    ],
+    "hook": [
+      "Correct the record, keep the trail.",
+      "Corrija o registro, preserve o rastro."
+    ],
+    "practice": [
+      "Initial and date the correction, never backdate.",
+      "Rubrique e date a correção, nunca retroaja."
+    ],
+    "img": null
+  },
+  {
+    "id": 41,
+    "d": "PRO",
+    "l": 2,
+    "flag": "0",
+    "s": "insurance",
+    "q": [
+      "Sara, 54, has reported pain since a session two days ago. A client says the massage injured her and mentions a lawyer. Which policy answers this?",
+      "Sara, 54 anos, relata dor desde uma sessão há dois dias. Uma cliente diz que a massagem a lesionou e menciona advogado. Qual apólice responde a isso?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Health insurance",
+        "pt": "Plano de saúde",
+        "reasonEN": "Covers her body, not your claim.",
+        "reasonPT": "Cobre o corpo dela, não a sua alegação."
+      },
+      {
+        "letter": "B",
+        "en": "Homeowners insurance",
+        "pt": "Seguro residencial",
+        "reasonEN": "Residential property.",
+        "reasonPT": "Imóvel residencial."
+      },
+      {
+        "letter": "C",
+        "en": "Professional liability",
+        "pt": "Responsabilidade profissional",
+        "reasonEN": "Covers alleged negligence in practice.",
+        "reasonPT": "Cobre alegada negligência no exercício."
+      },
+      {
+        "letter": "D",
+        "en": "Business interruption",
+        "pt": "Interrupção de atividade",
+        "reasonEN": "Lost income after shutdown.",
+        "reasonPT": "Renda perdida após fechamento."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Alleged negligent care is exactly what professional liability covers.",
+      "Cuidado negligente alegado é exatamente o que a responsabilidade cobre."
+    ],
+    "hook": [
+      "A treatment claim needs professional cover.",
+      "Alegação de atendimento pede cobertura profissional."
+    ],
+    "practice": [
+      "Read the policy before there is a claim, not after.",
+      "Leia a apólice antes da reclamação."
+    ],
+    "img": null
+  },
+  {
+    "id": 42,
+    "d": "PRO",
+    "l": 3,
+    "flag": "EXCEPT",
+    "s": "ppe",
+    "q": [
+      "A 41-year-old clinic manager has reviewed safety steps for two weeks. All of these are standard precautions EXCEPT:",
+      "Um gestor de clínica de 41 anos revisa medidas de segurança há duas semanas. Todas são precauções padrão, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Hand hygiene before and after contact",
+        "pt": "Higiene das mãos antes e depois do contato",
+        "reasonEN": "Core precaution.",
+        "reasonPT": "Precaução central."
+      },
+      {
+        "letter": "B",
+        "en": "Gloves when fluid contact is expected",
+        "pt": "Luvas quando se prevê contato com fluido",
+        "reasonEN": "Barrier for anticipated contact.",
+        "reasonPT": "Barreira para contato previsto."
+      },
+      {
+        "letter": "C",
+        "en": "Sterilizing the table between every client",
+        "pt": "Esterilizar a maca entre cada cliente",
+        "reasonEN": "Table is disinfected, not sterilized.",
+        "reasonPT": "Maca é desinfetada, não esterilizada."
+      },
+      {
+        "letter": "D",
+        "en": "Not recapping a used needle bare-handed",
+        "pt": "Não reencapar agulha usada com a mão nua",
+        "reasonEN": "Standard practice.",
+        "reasonPT": "Prática padrão."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Surface disinfection is the level for a table; sterilization is for critical items.",
+      "Desinfecção de superfície é o nível da maca; esterilização é para item crítico."
+    ],
+    "hook": [
+      "The table does not go in the autoclave.",
+      "A maca não entra na autoclave."
+    ],
+    "practice": [
+      "Clean, then disinfect, with the label time.",
+      "Limpe, depois desinfete, com o tempo do rótulo."
+    ],
+    "img": null
+  },
+  {
+    "id": 43,
+    "d": "EFE",
+    "l": 3,
+    "flag": "0",
+    "s": "anatomy",
+    "q": [
+      "Mia, 48, has felt stressed for three weeks. After a calm session, her heart rate is lower. Which autonomic pattern is consistent with that observation, without claiming the massage caused it?",
+      "Mia, 48 anos, sente estresse há três semanas. Após sessão tranquila, sua frequência cardíaca está menor. Qual padrão autonômico é compatível com a observação, sem afirmar que a massagem a causou?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Sympathetic dominance increases",
+        "pt": "O predomínio simpático aumenta",
+        "reasonEN": "That raises it.",
+        "reasonPT": "Isso eleva."
+      },
+      {
+        "letter": "B",
+        "en": "A shift toward parasympathetic dominance",
+        "pt": "Um desvio para predomínio parassimpático",
+        "reasonEN": "Rest and digest lowers it.",
+        "reasonPT": "Repouso e digestão reduzem."
+      },
+      {
+        "letter": "C",
+        "en": "Mechanical compression of the heart",
+        "pt": "Compressão mecânica do coração",
+        "reasonEN": "Not how it works.",
+        "reasonPT": "Não é assim."
+      },
+      {
+        "letter": "D",
+        "en": "Reduced blood volume",
+        "pt": "Volume sanguíneo reduzido",
+        "reasonEN": "Does not change in minutes.",
+        "reasonPT": "Não muda em minutos."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Greater parasympathetic activity is consistent with a slower heart rate, but one before-and-after observation does not establish cause.",
+      "Maior atividade parassimpática é compatível com frequência cardíaca menor, mas uma observação antes e depois não estabelece causa."
+    ],
+    "hook": [
+      "Slower heart is the rest branch talking.",
+      "Coração mais lento é o ramo do repouso falando."
+    ],
+    "practice": [
+      "Note heart rate and breathing before and after.",
+      "Registre pulso e respiração antes e depois."
+    ],
+    "img": null
+  },
+  {
+    "id": 44,
+    "d": "EFE",
+    "l": 2,
+    "flag": "0",
+    "s": "thermal",
+    "q": [
+      "Maya, 28, has had ankle swelling since a sprain 20 hours ago. Twenty hours after a sprain, with swelling and warmth, which application fits?",
+      "Maya, 28 anos, tem inchaço no tornozelo desde uma entorse há 20 horas. Vinte horas após uma entorse, com edema e calor, qual aplicação cabe?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Moist heat over the swelling",
+        "pt": "Calor úmido sobre o edema",
+        "reasonEN": "Heat may increase acute swelling.",
+        "reasonPT": "Calor pode aumentar o edema agudo."
+      },
+      {
+        "letter": "B",
+        "en": "Brief protected cold with skin checks",
+        "pt": "Frio breve e protegido, checando a pele",
+        "reasonEN": "Vasoconstriction limits swelling and pain.",
+        "reasonPT": "Vasoconstrição limita edema e dor."
+      },
+      {
+        "letter": "C",
+        "en": "Ice until the area is numb",
+        "pt": "Gelo até anestesiar",
+        "reasonEN": "Numbness is not the target.",
+        "reasonPT": "Anestesia não é a meta."
+      },
+      {
+        "letter": "D",
+        "en": "Heat then deep friction",
+        "pt": "Calor e depois fricção profunda",
+        "reasonEN": "Friction is much for an acute sprain.",
+        "reasonPT": "Fricção é muito para entorse aguda."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Cold limits the early vascular response; protect the skin and check it.",
+      "Frio limita a resposta vascular inicial; proteja e cheque a pele."
+    ],
+    "hook": [
+      "Cool the flare, don't force the repair.",
+      "Esfrie a crise, não force o reparo."
+    ],
+    "practice": [
+      "Wrapped pack, ten minutes, check between.",
+      "Compressa protegida, dez minutos, cheque entre."
+    ],
+    "img": null
+  },
+  {
+    "id": 45,
+    "d": "EFE",
+    "l": 2,
+    "flag": "0",
+    "s": "thermal",
+    "q": [
+      "Luis, 46, has had stable, non-swollen neck stiffness for six months. He has had stiff, non-swollen neck for six months. Which preparation fits the session?",
+      "Luis, 46 anos, tem rigidez cervical estável e sem edema há seis meses. Ele tem pescoço rígido e sem edema há seis meses. Qual preparação cabe à sessão?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Prolonged ice to numb the area",
+        "pt": "Gelo prolongado para anestesiar",
+        "reasonEN": "Numbness does not prepare movement.",
+        "reasonPT": "Anestesia não prepara movimento."
+      },
+      {
+        "letter": "B",
+        "en": "A scalding pack for depth",
+        "pt": "Compressa escaldante para profundidade",
+        "reasonEN": "Burn risk.",
+        "reasonPT": "Risco de queimadura."
+      },
+      {
+        "letter": "C",
+        "en": "Comfortable moist warmth with skin checks",
+        "pt": "Calor úmido confortável checando a pele",
+        "reasonEN": "Vasodilation eases stiffness.",
+        "reasonPT": "Vasodilatação alivia rigidez."
+      },
+      {
+        "letter": "D",
+        "en": "Forced stretch before any heat",
+        "pt": "Alongamento forçado antes do calor",
+        "reasonEN": "Cold tissue resists more.",
+        "reasonPT": "Tecido frio resiste mais."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Warmth before movement on chronic, stable tissue.",
+      "Calor antes do movimento em tecido crônico e estável."
+    ],
+    "hook": [
+      "Warm and comfortable, never hot and hurried.",
+      "Morno e confortável, nunca quente e apressado."
+    ],
+    "practice": [
+      "Ask how the pack feels, then reassess movement.",
+      "Pergunte como a compressa é sentida e reavalie o movimento."
+    ],
+    "img": null
+  },
+  {
+    "id": 46,
+    "d": "EFE",
+    "l": 3,
+    "flag": "EXCEPT",
+    "s": "massage",
+    "q": [
+      "Paz, 48, has had back discomfort for six weeks and asks what care can promise. All of these are fair limits to set with a client EXCEPT:",
+      "Paz, 48 anos, sente desconforto nas costas há seis semanas e pergunta o que o atendimento pode prometer. Todas são limites justos a combinar com o cliente, EXCETO:"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Results may be temporary",
+        "pt": "Resultados podem ser temporários",
+        "reasonEN": "Honest.",
+        "reasonPT": "Honesto."
+      },
+      {
+        "letter": "B",
+        "en": "Response varies between people",
+        "pt": "A resposta varia entre pessoas",
+        "reasonEN": "True and useful.",
+        "reasonPT": "Verdadeiro e útil."
+      },
+      {
+        "letter": "C",
+        "en": "Massage guarantees lasting relief",
+        "pt": "A massagem garante alívio duradouro",
+        "reasonEN": "Guarantee is the outlier.",
+        "reasonPT": "Garantia é o fora do grupo."
+      },
+      {
+        "letter": "D",
+        "en": "Further assessment may be needed",
+        "pt": "Pode ser necessária mais avaliação",
+        "reasonEN": "Honest.",
+        "reasonPT": "Honesto."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "A guarantee is the only absolute in a field of variation.",
+      "Garantia é o único absoluto num campo de variação."
+    ],
+    "hook": [
+      "A guarantee is the odd one out.",
+      "A garantia é o elemento fora do grupo."
+    ],
+    "practice": [
+      "Say \"may help\" instead of \"will fix\".",
+      "Diga \"pode ajudar\" em vez de \"vai resolver\"."
+    ],
+    "img": null
+  },
+  {
+    "id": 47,
+    "d": "EFE",
+    "l": 3,
+    "flag": "0",
+    "s": "pain",
+    "q": [
+      "Uma, 42, has had shoulder pain for three weeks. She took an analgesic and her pain dropped. Before you go deeper, what is the correct inference?",
+      "Uma, 42 anos, sente dor no ombro há três semanas. Ela tomou analgésico e a dor caiu. Antes de aprofundar, qual é a inferência correta?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Absence of pain proves healing",
+        "pt": "Ausência de dor comprova cicatrização",
+        "reasonEN": "It masks, it does not heal.",
+        "reasonPT": "Mascara, não cicatriza."
+      },
+      {
+        "letter": "B",
+        "en": "Reduced pain does not prove tissue recovery",
+        "pt": "Menos dor não comprova recuperação do tecido",
+        "reasonEN": "Symptom is not tissue.",
+        "reasonPT": "Sintoma não é tecido."
+      },
+      {
+        "letter": "C",
+        "en": "She can stop the medicine now",
+        "pt": "Ela já pode suspender o remédio",
+        "reasonEN": "Prescriber's call.",
+        "reasonPT": "Decisão do prescritor."
+      },
+      {
+        "letter": "D",
+        "en": "Pressure can be unlimited",
+        "pt": "A pressão pode ser ilimitada",
+        "reasonEN": "Tolerance is not unlimited.",
+        "reasonPT": "Tolerância não é ilimitada."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Analgesia changes the signal, not the tissue.",
+      "Analgesia muda o sinal, não o tecido."
+    ],
+    "hook": [
+      "Quiet pain, not healed tissue.",
+      "Dor silenciosa, tecido não curado."
+    ],
+    "practice": [
+      "Ask when she took it and reassess tolerance.",
+      "Pergunte quando tomou e reavalie a tolerância."
+    ],
+    "img": null
+  },
+  {
+    "id": 48,
+    "d": "EFE",
+    "l": 3,
+    "flag": "0",
+    "s": "massage",
+    "q": [
+      "Ivan, 55, has had back tension for one month. He asks whether deeper is always better. What do you answer?",
+      "Ivan, 55 anos, sente tensão nas costas há um mês. Ele pergunta se mais profundo é sempre melhor. O que responder?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Yes, bruising shows it worked",
+        "pt": "Sim, hematoma mostra que funcionou",
+        "reasonEN": "Bruise is not proof.",
+        "reasonPT": "Hematoma não é prova."
+      },
+      {
+        "letter": "B",
+        "en": "Yes, pain must be overcome",
+        "pt": "Sim, a dor deve ser vencida",
+        "reasonEN": "Ignoring pain causes harm.",
+        "reasonPT": "Ignorar dor causa dano."
+      },
+      {
+        "letter": "C",
+        "en": "No, pressure should fit the person",
+        "pt": "Não, a pressão deve caber na pessoa",
+        "reasonEN": "Tolerance and goal decide.",
+        "reasonPT": "Tolerância e objetivo decidem."
+      },
+      {
+        "letter": "D",
+        "en": "It depends on the therapist's preference",
+        "pt": "Depende da preferência do terapeuta",
+        "reasonEN": "Client comes first.",
+        "reasonPT": "O cliente vem antes."
+      }
+    ],
+    "correct": 2,
+    "why": [
+      "Pressure is a fit, not a ranking.",
+      "Pressão é ajuste, não ranking."
+    ],
+    "hook": [
+      "Deeper is not automatically better.",
+      "Mais profundo não é automaticamente melhor."
+    ],
+    "practice": [
+      "Agree on a comfort scale and check as you go.",
+      "Combine escala de conforto e cheque durante."
+    ],
+    "img": null
+  },
+  {
+    "id": 49,
+    "d": "CIN",
+    "l": 4,
+    "flag": "FIRST",
+    "s": "abduction",
+    "q": [
+      "Rui, 55, has had difficulty raising his arm for two weeks; passive movement is more complete than active movement. Which muscle contributes FIRST to normal shoulder abduction, without treating this finding as a diagnosis?",
+      "Rui, 55 anos, tem dificuldade para elevar o braço há duas semanas; o movimento passivo é mais completo que o ativo. Qual músculo contribui PRIMEIRO para a abdução normal do ombro, sem usar esse achado como diagnóstico?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Deltoid",
+        "pt": "Deltoide",
+        "reasonEN": "Takes over later in range.",
+        "reasonPT": "Assume mais adiante."
+      },
+      {
+        "letter": "B",
+        "en": "Supraspinatus",
+        "pt": "Supraespinhal",
+        "reasonEN": "Initiates the first degrees.",
+        "reasonPT": "Inicia os primeiros graus."
+      },
+      {
+        "letter": "C",
+        "en": "Latissimus dorsi",
+        "pt": "Latíssimo do dorso",
+        "reasonEN": "Adductor and extensor.",
+        "reasonPT": "Adutor e extensor."
+      },
+      {
+        "letter": "D",
+        "en": "The joint capsule",
+        "pt": "A cápsula articular",
+        "reasonEN": "Passive range does not by itself localize the cause of weakness.",
+        "reasonPT": "Amplitude passiva, isoladamente, não localiza a causa da fraqueza."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "Supraspinatus helps initiate abduction. Active-passive differences alone cannot identify the cause of Rui’s limitation.",
+      "O supraespinhal ajuda a iniciar a abdução. Diferenças entre movimento ativo e passivo não identificam, sozinhas, a causa da limitação de Rui."
+    ],
+    "hook": [
+      "The first lift has a helper.",
+      "O início da elevação tem um ajudante."
+    ],
+    "practice": [
+      "Record both active and passive ranges and refer unexplained weakness.",
+      "Registre amplitudes ativa e passiva e encaminhe fraqueza sem explicação."
+    ],
+    "img": null
+  },
+  {
+    "id": 50,
+    "d": "ANA",
+    "l": 3,
+    "flag": "0",
+    "s": "anatomy",
+    "q": [
+      "A 43-year-old learner has reviewed circulation for two weeks. Which vessel carries oxygenated blood toward the heart?",
+      "Uma estudante de 43 anos revisa circulação há duas semanas. Qual vaso conduz sangue oxigenado em direção ao coração?"
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "en": "Pulmonary artery",
+        "pt": "Artéria pulmonar",
+        "reasonEN": "Carries deoxygenated blood out.",
+        "reasonPT": "Leva sangue desoxigenado para fora."
+      },
+      {
+        "letter": "B",
+        "en": "Pulmonary vein",
+        "pt": "Veia pulmonar",
+        "reasonEN": "Exception to the vein rule.",
+        "reasonPT": "Exceção à regra das veias."
+      },
+      {
+        "letter": "C",
+        "en": "Superior vena cava",
+        "pt": "Veia cava superior",
+        "reasonEN": "Deoxygenated from the body.",
+        "reasonPT": "Desoxigenado do corpo."
+      },
+      {
+        "letter": "D",
+        "en": "Aorta",
+        "pt": "Aorta",
+        "reasonEN": "Leaves the heart, oxygenated.",
+        "reasonPT": "Sai do coração, oxigenado."
+      }
+    ],
+    "correct": 1,
+    "why": [
+      "The pulmonary vein is the exception: it returns oxygenated blood from the lungs.",
+      "A veia pulmonar é a exceção: devolve sangue oxigenado dos pulmões."
+    ],
+    "hook": [
+      "Vein does not always mean deoxygenated.",
+      "Veia nem sempre significa desoxigenado."
+    ],
+    "practice": [
+      "Name the exception out loud so it sticks.",
+      "Diga a exceção em voz alta para fixar."
+    ],
+    "img": null
+  }
+]
