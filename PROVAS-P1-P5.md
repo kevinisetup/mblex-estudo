@@ -67,3 +67,37 @@ Nota clínica: circulação comprometida impede aplicar frio sem avaliação; lu
 Limites: sem validação independente da banca nem teste no aparelho da destinatária.
 CONTAGEM FINAL: 112 itens, 110 únicos, 2 repetições; DATA_PATCH 112 entradas, IDs 1–112 sem lacunas.
 ```
+
+## Ajustes A e B
+
+```javascript
+A — Bloco final: usa o início real do bloco como limite inferior; 12/12 no bloco 6 do treino de 112 itens.
+Prova:
+function blockResult(){
+ state.screen='break';const e=state.exam,from=Math.max(0,e.records.length-e.blockSize,(e.block-1)*e.blockSize),records=e.records.slice(from),right=records.filter(r=>r.correct).length,final=e.index>=e.deck.length;
+ mount(`<section class="question-shell glass"><div class="break-symbol" aria-hidden="true">Ⅱ</div><p class="eyebrow">Bloco ${e.block} concluído</p><h1 style="font-size:43px">Respire.<br>Reconstrua.<br>Continue.</h1><p class="score">${right}<span class="muted" style="font-size:25px"> / ${records.length}</span></p><p>${records.length-right} erros · ${formatTime(Date.now()-e.blockStarted)} neste bloco</p><p class="muted">${e.mode==='exam'?'O relógio da prova continua correndo durante esta tela.':'Faça uma pequena pausa como recompensa. Antes de continuar, retome uma regra que errou.'}</p><p id="clock" class="num"></p><p class="small">${state.profile.config.timer==='não'&&e.block===2&&e.mode==='study'?'O próximo bloco introduz o timer.':''}</p><div class="actions">${button('continue',final?'Ver resultado':'Seguir','primary')}${final?'':button('end','Encerrar e corrigir')}</div></section>`,true);
+ if(e.mode==='study')e.blockDue=null;
+ bind('continue',()=>{if(final){finish(false);return;}if(remaining()!==null&&remaining()<=0){expire();return;}e.block++;e.blockStarted=Date.now();e.itemStarted=Date.now();setBlockTimer();renderQuestion();});
+ if(!final)bind('end',()=>finish(false));tick();
+}
+
+B — Modo prova: sorteia 98 itens únicos, preserva os dois originais e insere as duplicatas nas posições 40/80.
+Prova:
+function makeDeck(difficulty,count=BANK.length){
+ const priority=l=>difficulty==='progressive'?l:((l-Number(difficulty)+4)%4);
+ const unique=BANK.filter(q=>!q.slot);
+ const selected=count===100?[...unique.filter(q=>q.id===20||q.id===52),...shuffle(unique.filter(q=>q.id!==20&&q.id!==52)).slice(0,96)]:unique;
+ const pools=Object.keys(DOMAINS).map(d=>shuffle(selected.filter(q=>q.d===d)).sort((a,b)=>priority(a.l)-priority(b.l)));
+ const deck=[];while(pools.some(p=>p.length)){for(const pool of pools){if(pool.length)deck.push(pool.shift());}}
+ deck.sort((a,b)=>priority(a.l)-priority(b.l));
+ for(const q of BANK.filter(q=>q.slot).sort((a,b)=>a.slot-b.slot))deck.splice(q.slot-1,0,q);
+ return deck.map(q=>{const opts=shuffle(q.o.map((v,i)=>({v,correct:i===0})));return {...q,options:opts,correct:opts.findIndex(x=>x.correct)};});
+}
+function startExam(mode,difficulty,lang,deadline){const now=Date.now();state.exam={mode,difficulty,lang,deadline,deck:makeDeck(difficulty,mode==='exam'?100:BANK.length),index:0,selected:null,records:[],revealed:false,block:1,blockSize:mode==='exam'?20:state.profile.config.bloco,started:now,blockStarted:now,itemStarted:now,blockDue:null,ended:null,expired:false};state.screen='question';setBlockTimer();renderQuestion();}
+
+Cronômetro: 110:00 com arredondamento para cima, mantendo 66 segundos por item.
+Prova:
+function remaining(){const e=state.exam;if(!e)return null;const due=e.mode==='exam'?e.started+6600000:e.blockDue;return due===null?null:Math.max(0,Math.ceil((due-Date.now())/1000)*1000);}
+
+
+```

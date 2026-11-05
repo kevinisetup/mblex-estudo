@@ -16,3 +16,12 @@ for(const q of d.BANK.slice(100)){assert([2,3].includes(q.l));assert.equal(q.o.l
 assert(!/localStorage|sessionStorage|fetch\(/.test(html));
 assert(!/<(?:script|link)[^>]+(?:src|href)=/i.test(html));
 console.log(JSON.stringify({bank:112,unique:110,patch:112,newIds:d.BANK.slice(100).map(q=>q.id),images:d.BANK.filter(q=>q.img).length,domains:count,profilesCompared:500,unchangedOriginalQuestions:100,allPassed:true}));
+
+for(const level of ['progressive','1','2','3','4'])for(let run=0;run<20;run++){
+ const deck=d.makeDeck(level,100);
+ assert.equal(deck.length,100);
+ assert.equal(new Set(deck.map(q=>q.id)).size,100);
+ assert.equal(deck[39].id,99);assert.equal(deck[79].id,100);
+ assert(deck.some(q=>q.id===20));assert(deck.some(q=>q.id===52));
+}
+console.log('OK: 100 sorteados em cada ordem, duplicatas em 40/80, originais presentes.');
