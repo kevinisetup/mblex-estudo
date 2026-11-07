@@ -49,4 +49,5 @@ Fontes de referência: [FSMTB Candidate Handbook](https://fsmtb.org/wp-content/u
 - Firebase Hosting: versão `4c5a94d0b0ceab6c`, endereço `https://provalicencabellavie.web.app/`.
 - HTML público e local: HTTP 200, SHA256 `B8B8B1E1A8D8BC880A4BCB54B9A363754C40A7A45E4872E0037F9E91D582BAB9`.
 - Catálogo público e local: HTTP 200, SHA256 `5CF558AAC220A5D219486459E7DA29CA878B5563DD048E259141F61146A90095`.
+- A página pública foi aberta no navegador e repetiu o teste da rodada de 20 com correção e relatório, além da abertura de 100 com 110:00; passou.
 - Fonte e testes: branch GitHub `codex/firebase-hosting`. A cópia offline `../index.html` tem o mesmo hash do HTML público.
