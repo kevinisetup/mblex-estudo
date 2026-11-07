@@ -43,3 +43,10 @@ As origens indicam inspiração editorial, não probabilidade de cair na prova. 
 - As imagens remotas dependem de internet; quando indisponíveis, o roteiro textual permanece.
 
 Fontes de referência: [FSMTB Candidate Handbook](https://fsmtb.org/wp-content/uploads/2026/09/MBLEx-Candidate-Handbook-2026.pdf), [FSMTB Content Outline](https://fsmtb.org/wp-content/uploads/2025/12/MBLEx-Content-Outline.pdf), além das fontes de consulta ligadas a cada questão.
+
+## Publicação e preservação
+
+- Firebase Hosting: versão `4c5a94d0b0ceab6c`, endereço `https://provalicencabellavie.web.app/`.
+- HTML público e local: HTTP 200, SHA256 `B8B8B1E1A8D8BC880A4BCB54B9A363754C40A7A45E4872E0037F9E91D582BAB9`.
+- Catálogo público e local: HTTP 200, SHA256 `5CF558AAC220A5D219486459E7DA29CA878B5563DD048E259141F61146A90095`.
+- Fonte e testes: branch GitHub `codex/firebase-hosting`. A cópia offline `../index.html` tem o mesmo hash do HTML público.
