@@ -8,7 +8,7 @@ async page=>{
   if(!box)throw Error('Fonte panel missing');
   box.querySelector('summary').click();
   const links=box.querySelectorAll('ul.sources a');
-  if(links.length!==45)throw Error('Expected 45 source links, got '+links.length);
+  if(links.length!==50)throw Error('Expected 50 source links, got '+links.length);
   if(box.textContent.includes('legado sem origem registrada'))throw Error('Old percentages');
   const keys=[...new Set(activeBank().map(q=>q.s))];
   for(const key of keys)if(!box.querySelector(`a[href="${SOURCES[key][1]}"]`))throw Error('Missing source '+key);

@@ -1,6 +1,6 @@
 # Questões completas do simulado MBLEx
 
-Banco ativo: 272 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
+Banco ativo: 282 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
 
 Questões autorais de treino; não são itens oficiais nem uma previsão do exame. Cada item traz a fonte consultada para seu conceito.
 
@@ -166,6 +166,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Ask which daily activity she wants to manage more comfortably. / Pergunte qual atividade diária quer realizar com mais conforto.
 
 **Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+
+### H46 · hip-flexion-limit · Superavançado
+
+**EN:** Sofia, 63, has had difficulty putting on shoes for two months. Active hip flexion stops near 80 degrees, while passive flexion goes farther when the pelvis is supported. What should the therapist do FIRST before naming a shortened muscle?
+**PT:** Sofia, 63 anos, tem dificuldade para calçar sapatos há dois meses. A flexão ativa do quadril para perto de 80 graus, enquanto a passiva vai mais longe com a pelve apoiada. O que o terapeuta deve fazer PRIMEIRO antes de apontar músculo encurtado?
+
+- A. Record active and passive ranges and check pain, effort and pelvic motion / Registrar amplitudes ativa e passiva e verificar dor, esforço e movimento pélvico **[correta]**
+- B. Diagnose shortened hip extensors from the active number alone / Diagnosticar extensores encurtados só pela medida ativa
+- C. Force passive flexion to a published normal value / Forçar flexão passiva até um valor publicado como normal
+- D. Ignore the shoe task because passive range is larger / Ignorar a tarefa de calçar porque a amplitude passiva é maior
+
+**Por quê:** A single active angle does not prove which structure limits motion. Compare tolerable active and passive movement, symptoms and compensation before planning or referring. / Um ângulo ativo isolado não prova qual estrutura limita o movimento. Compare movimentos ativo e passivo toleráveis, sintomas e compensações antes de planejar ou encaminhar.
+
+**Outras alternativas:**
+- B: The active-passive difference has several possible explanations. / A diferença entre ativo e passivo tem várias explicações possíveis.
+- C: Population ranges do not justify forcing an individual joint. / Valores populacionais não justificam forçar uma articulação individual.
+- D: The functional limitation still matters for the plan. / A limitação funcional ainda importa para o plano.
+
+**Gancho:** One angle is a finding, not a cause. / Um ângulo é achado, não causa.
+
+**Na prática:** Ask her to show the shoe task safely and note where movement changes. / Peça que mostre a tarefa de calçar com segurança e observe onde o movimento muda.
+
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 1 · intake · Superavançado
 
@@ -2287,6 +2310,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
+### H48 · squat-phases · Superavançado
+
+**EN:** Kai, 38, has had thigh soreness for three weeks. In a supervised movement review, he slowly lowers into a squat, holds still for five seconds, then stands. Which sequence best describes the quadriceps during these three phases?
+**PT:** Kai, 38 anos, sente dor na coxa há três semanas. Numa avaliação supervisionada, desce devagar para agachar, mantém a posição por cinco segundos e depois levanta. Que sequência melhor descreve a ação do quadríceps nas três fases?
+
+- A. Eccentric while lowering, isometric while holding, concentric while rising / Excêntrica na descida, isométrica na pausa, concêntrica na subida **[correta]**
+- B. Concentric while lowering, eccentric while holding, isometric while rising / Concêntrica na descida, excêntrica na pausa, isométrica na subida
+- C. Isometric while lowering, concentric while holding, eccentric while rising / Isométrica na descida, concêntrica na pausa, excêntrica na subida
+- D. Eccentric in all three phases / Excêntrica nas três fases
+
+**Por quê:** Quadriceps action changes with the task: controlled descent lengthens under load, holding produces tension without movement, and rising shortens to extend the knee. / A ação do quadríceps muda com a tarefa: descer de forma controlada alonga sob carga, a pausa gera tensão sem movimento, e subir encurta para estender o joelho.
+
+**Outras alternativas:**
+- B: The quadriceps controls descent while lengthening; a still hold has no joint motion. / O quadríceps controla a descida alongando; na pausa não há movimento articular.
+- C: Moving phases change muscle length; the stationary phase is isometric. / Fases em movimento mudam comprimento muscular; a pausa é isométrica.
+- D: The muscle does not lengthen during the still hold or the rise. / O músculo não alonga na pausa nem na subida.
+
+**Gancho:** Down, still, up: lengthen, hold, shorten. / Descer, parar, subir: alongar, manter, encurtar.
+
+**Na prática:** Describe each phase instead of giving one label to the whole squat. / Descreva cada fase em vez de dar um rótulo ao agachamento inteiro.
+
+**Fonte de consulta:** [OpenStax · tipos de contração muscular](https://openstax.org/books/anatomy-and-physiology/pages/10-4-nervous-system-control-of-muscle-tension)
+
 ### 33 · techniques · Superavançado
 
 **EN:** Gus, 48, has had back stiffness for three weeks and asks for a low-pressure start. Which stroke lets you assess tolerance across a broad area before focused work?
@@ -3208,6 +3254,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Read the policy before there is a claim, not after. / Leia a apólice antes da reclamação.
 
 **Fonte de consulta:** [ABMP · seguros e coberturas](https://www.abmp.com/massage-liability-insurance)
+
+### H47 · lifting-table · Superavançado
+
+**EN:** Drew, 46, has had back soreness for four weeks and needs to move a folded massage table after a session. Which setup best reduces avoidable strain before lifting?
+**PT:** Drew, 46 anos, sente desconforto lombar há quatro semanas e precisa mover uma maca dobrável após a sessão. Qual preparo reduz melhor a sobrecarga evitável antes de levantá-la?
+
+- A. Clear the path, bring the table close, use a stable stance and get help if needed / Desobstruir o caminho, aproximar a maca, firmar a base e pedir ajuda se preciso **[correta]**
+- B. Keep the knees locked and reach far forward for leverage / Travar os joelhos e alcançar longe para ganhar alavanca
+- C. Twist while lifting so the table clears the doorway quickly / Girar o tronco durante a elevação para passar logo pela porta
+- D. Carry the table away from the body to see the floor / Carregar a maca longe do corpo para ver o chão
+
+**Por quê:** Body mechanics begins before the lift: plan the route, keep the load manageable and close, and use assistance when the load exceeds comfortable capacity. / Mecânica corporal começa antes de levantar: planeje o trajeto, mantenha carga controlável e próxima e peça ajuda se ultrapassar sua capacidade confortável.
+
+**Outras alternativas:**
+- B: A distant load increases the lever arm and strain. / Carga distante aumenta o braço de alavanca e a sobrecarga.
+- C: Twisting under load adds avoidable stress. / Girar sob carga acrescenta estresse evitável.
+- D: That lengthens the lever arm; clear the route first instead. / Isso aumenta o braço de alavanca; desobstrua antes o trajeto.
+
+**Gancho:** Plan the route before the load moves. / Planeje o trajeto antes de mover a carga.
+
+**Na prática:** Check the table handle, weight and doorway before picking it up. / Confira alça, peso da maca e passagem antes de levantá-la.
+
+**Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
 ### 109 · mechanics · Intermediário
 
@@ -4200,6 +4269,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
+### H50 · new-breathlessness · Superavançado
+
+**EN:** Parker, 56, has had mild neck tension for a month. At check-in today he develops new breathlessness while sitting, uses neck muscles to breathe and can speak only a few words at a time. What should the massage therapist do FIRST?
+**PT:** Parker, 56 anos, sente leve tensão cervical há um mês. Hoje, na chegada, apresenta falta de ar nova mesmo sentado, usa músculos do pescoço para respirar e só consegue falar poucas palavras por vez. O que o massoterapeuta deve fazer PRIMEIRO?
+
+- A. Stop the session and call emergency services / Interromper a sessão e chamar o serviço de emergência **[correta]**
+- B. Massage the scalenes to make inhalation easier / Massagear os escalenos para facilitar a inspiração
+- C. Ask him to lie prone and continue the neck treatment / Pedir que deite de bruços e continuar o atendimento cervical
+- D. Wait until he finishes the booked hour before suggesting care / Esperar terminar a sessão antes de sugerir atendimento
+
+**Por quê:** New breathing difficulty that interferes with talking is an emergency warning sign. Pause massage and activate local emergency response; do not diagnose a scalene problem from visible effort. / Dificuldade respiratória nova que impede falar normalmente é sinal de emergência. Suspenda a massagem e acione a emergência local; não diagnostique problema nos escalenos pelo esforço visível.
+
+**Outras alternativas:**
+- B: Severe new breathlessness is not a routine muscle-tension problem. / Falta de ar nova e intensa não é tensão muscular de rotina.
+- C: Prone positioning and delay can worsen an urgent breathing problem. / Decúbito ventral e demora podem piorar o problema respiratório urgente.
+- D: Difficulty speaking with new breathlessness needs immediate help. / Dificuldade para falar com falta de ar nova exige ajuda imediata.
+
+**Gancho:** Speaking in fragments changes the priority. / Falar em fragmentos muda a prioridade.
+
+**Na prática:** Stay with him and give responders the onset and observed symptoms. / Permaneça com ele e informe início e sintomas observados à equipe de emergência.
+
+**Fonte de consulta:** [MedlinePlus · dificuldade para respirar](https://medlineplus.gov/ency/article/003075.htm)
+
 ### H23 · oncology · Superavançado
 
 **EN:** Lea, 52, has had fatigue for four days during chemotherapy and has an implanted port. She asks for a short gentle session; today she also reports new unusual bleeding. What should happen before touch?
@@ -4501,6 +4593,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [NCBI Bookshelf · músculos abdutores do ombro](https://www.ncbi.nlm.nih.gov/books/NBK537148/)
 
+### H41 · cervical-rotation · Superavançado
+
+**EN:** Nora, 47, has had neck stiffness for five weeks. While seated, she turns her face to the right without leaning it. Which sternocleidomastoid contributes to that rotation, and what should the therapist record if motion is limited?
+**PT:** Nora, 47 anos, sente rigidez cervical há cinco semanas. Sentada, vira o rosto para a direita sem inclinar a cabeça. Qual esternocleidomastóideo contribui para essa rotação, e o que registrar se o movimento for limitado?
+
+- A. Left sternocleidomastoid; record comfortable right rotation / Esternocleidomastóideo esquerdo; registrar a rotação direita confortável **[correta]**
+- B. Right sternocleidomastoid; record right lateral flexion instead / Esternocleidomastóideo direito; registrar flexão lateral direita
+- C. Both sternocleidomastoids; assume the limitation is a joint lesion / Ambos os esternocleidomastóideos; presumir lesão articular
+- D. Right splenius capitis; force the last degrees of rotation / Esplênio da cabeça direito; forçar os últimos graus de rotação
+
+**Por quê:** The left SCM rotates the face right. Record the movement and tolerance; a single limited range cannot identify a damaged structure. / O ECM esquerdo gira o rosto para a direita. Registre movimento e tolerância; uma limitação isolada não identifica estrutura lesionada.
+
+**Outras alternativas:**
+- B: One-sided SCM activity turns the head to the opposite side; lateral flexion is a different action. / O ECM unilateral vira a cabeça para o lado oposto; flexão lateral é outra ação.
+- C: Bilateral activity chiefly flexes the neck, and limited motion is not a diagnosis. / A ação bilateral flexiona sobretudo o pescoço, e limitação não é diagnóstico.
+- D: It can assist same-side rotation, but force is not justified and misses the SCM asked about. / Pode ajudar na rotação ipsilateral, mas forçar não se justifica e não responde sobre o ECM.
+
+**Gancho:** The opposite side turns the face. / O lado oposto vira o rosto.
+
+**Na prática:** Ask her to turn only as far as comfortable and compare both sides. / Peça que vire apenas até onde for confortável e compare os lados.
+
+**Fonte de consulta:** [OpenStax · músculos da cabeça e do pescoço](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)
+
 ### H24 · contraction · Superavançado
 
 **EN:** Nora, 58, has had knee weakness for six weeks after a clinician-cleared injury. As she slowly lowers into a chair, the quadriceps remain active while the knee bends. What contraction should the therapist recognize?
@@ -4546,6 +4661,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Measure comfortable motion before and after any work. / Meça o movimento confortável antes e depois do atendimento.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+
+### H45 · foot-combination · Superavançado
+
+**EN:** Aria, 42, has had difficulty controlling her foot for five weeks while stepping onto uneven ground. In a gentle screen she points the foot downward and turns the sole inward. Which muscle can contribute to both actions, and what should the therapist avoid concluding?
+**PT:** Aria, 42 anos, tem dificuldade para controlar o pé há cinco semanas ao pisar em terreno irregular. Em avaliação suave, aponta o pé para baixo e vira a planta para dentro. Qual músculo pode participar das duas ações, e que conclusão o terapeuta deve evitar?
+
+- A. Tibialis posterior; do not diagnose it as injured from movement alone / Tibial posterior; não diagnosticar lesão só pelo movimento **[correta]**
+- B. Tibialis anterior; conclude it is torn / Tibial anterior; concluir que está rompido
+- C. Fibularis longus; conclude it is weak / Fibular longo; concluir que está fraco
+- D. Soleus; conclude it controls inversion alone / Sóleo; concluir que controla a inversão sozinho
+
+**Por quê:** Tibialis posterior can plantarflex and invert the foot. Motion alone does not localize the cause of difficulty or justify a muscle diagnosis. / O tibial posterior pode fazer flexão plantar e inversão do pé. Movimento isolado não localiza a causa da dificuldade nem justifica diagnóstico muscular.
+
+**Outras alternativas:**
+- B: It inverts but chiefly dorsiflexes rather than plantarflexes; no tear is established. / Inverte, mas faz sobretudo dorsiflexão, não flexão plantar; ruptura não foi demonstrada.
+- C: It plantarflexes and everts, the opposite sole direction; weakness is unproven. / Faz flexão plantar e eversão, direção oposta da planta; fraqueza não foi demonstrada.
+- D: It plantarflexes but is not the prime inverter. / Faz flexão plantar, mas não é o principal inversor.
+
+**Gancho:** Down and inward points deep posterior. / Para baixo e para dentro indica região posterior profunda.
+
+**Na prática:** Record both motions separately and ask which step is difficult. / Registre os dois movimentos separadamente e pergunte qual passo é difícil.
+
+**Fonte de consulta:** [OpenStax · termos dos músculos da perna](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-key-terms)
 
 ### H32 · forearm-turn · Superavançado
 
@@ -4774,6 +4912,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Straighten the knee, check the front thigh. / Estender o joelho, observar a coxa anterior.
 
 **Na prática:** Compare comfortable resisted extension on both sides and record the difference. / Compare extensão resistida confortável dos dois lados e registre a diferença.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H43 · knee-flexor-except · Superavançado
+
+**EN:** Milo, 51, has had posterior knee discomfort for six weeks. Before choosing a resisted knee-flexion screen, the therapist reviews nearby muscles. Which listed muscle is the exception: it can plantarflex the foot but does not cross the knee to flex it?
+**PT:** Milo, 51 anos, sente desconforto atrás do joelho há seis semanas. Antes de escolher avaliação de flexão resistida do joelho, o terapeuta revê os músculos próximos. Qual músculo é a exceção: pode fazer flexão plantar, mas não cruza o joelho para flexioná-lo?
+
+- A. Soleus / Sóleo **[correta]**
+- B. Gastrocnemius / Gastrocnêmio
+- C. Plantaris / Plantar
+- D. Biceps femoris / Bíceps femoral
+
+**Por quê:** Soleus attaches below the knee and acts at the ankle. The other three can contribute to knee flexion; that does not establish which tissue causes his discomfort. / O sóleo se fixa abaixo do joelho e age no tornozelo. Os outros três podem contribuir para flexão do joelho; isso não identifica a origem do desconforto.
+
+**Outras alternativas:**
+- B: It crosses the knee and can assist knee flexion. / Cruza o joelho e pode ajudar a flexioná-lo.
+- C: It also crosses the knee and can assist flexion weakly. / Também cruza o joelho e pode ajudar fracamente na flexão.
+- D: It is a hamstring and flexes the knee, though it is not a plantarflexor. / É isquiotibial e flexiona o joelho, embora não faça flexão plantar.
+
+**Gancho:** Check whether the muscle crosses the joint. / Confira se o músculo cruza a articulação.
+
+**Na prática:** Keep the knee movement comfortable and document where symptoms occur. / Mantenha o movimento confortável e registre onde surge o sintoma.
 
 **Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
 
@@ -5443,6 +5604,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Use only tolerable effort and record where pain appeared. / Use esforço tolerável e registre onde a dor surgiu.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+
+### H42 · scapular-protraction · Superavançado
+
+**EN:** Evan, 36, has had shoulder fatigue for four weeks. At the end of a wall push-up, his elbows are straight but one shoulder blade does not glide forward around the ribs. Which muscle action should the therapist observe separately from elbow extension?
+**PT:** Evan, 36 anos, sente fadiga no ombro há quatro semanas. No final de uma flexão na parede, os cotovelos estão estendidos, mas uma escápula não desliza para frente ao redor das costelas. Qual ação muscular o terapeuta deve observar separadamente da extensão do cotovelo?
+
+- A. Serratus anterior driving scapular protraction / Serrátil anterior produzindo protração escapular **[correta]**
+- B. Rhomboids driving scapular retraction / Romboides produzindo retração escapular
+- C. Biceps brachii driving elbow flexion / Bíceps braquial produzindo flexão do cotovelo
+- D. Deltoid driving humeral abduction / Deltoide produzindo abdução do úmero
+
+**Por quê:** The final reach of a wall push-up includes scapular protraction, to which serratus anterior contributes. Observe the movement rather than naming a muscle injury from one test. / O alcance final da flexão na parede inclui protração escapular, para a qual o serrátil anterior contribui. Observe o movimento sem nomear lesão muscular por um teste.
+
+**Outras alternativas:**
+- B: Retraction draws the scapula toward the spine, the opposite direction. / Retração leva a escápula à coluna, na direção oposta.
+- C: Elbow flexion does not explain the missing scapular glide. / Flexão do cotovelo não explica o deslizamento escapular ausente.
+- D: Raising the arm sideways is different from moving the scapula around the ribs. / Elevar o braço lateralmente difere de mover a escápula sobre as costelas.
+
+**Gancho:** Elbow straight, shoulder blade still moves. / Cotovelo estendido, escápula ainda se move.
+
+**Na prática:** Watch the medial border of each scapula during a comfortable wall push. / Observe a borda medial de cada escápula numa flexão confortável na parede.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H44 · thumb-opposition · Superavançado
+
+**EN:** Leah, 58, has had thumb-base stiffness for seven weeks after immobilization. She can bend the thumb tip, yet cannot bring its pad to the ring-finger pad. Which motion deserves separate assessment, and where is its key joint?
+**PT:** Leah, 58 anos, tem rigidez na base do polegar há sete semanas após imobilização. Consegue flexionar a ponta, mas não aproximar sua polpa da polpa do anelar. Qual movimento precisa de avaliação separada, e onde está sua articulação principal?
+
+- A. Opposition at the first carpometacarpal joint / Oposição na primeira articulação carpometacarpal **[correta]**
+- B. Interphalangeal flexion only / Apenas flexão interfalângica
+- C. Wrist pronation at the radiocarpal joint / Pronação do punho na articulação radiocárpica
+- D. Thumb abduction alone at the elbow / Apenas abdução do polegar no cotovelo
+
+**Por quê:** Thumb opposition combines movement at the saddle-shaped first carpometacarpal joint. Tip flexion can remain even when pad-to-pad opposition is limited. / A oposição do polegar combina movimentos na primeira carpometacarpal, de tipo selar. A flexão da ponta pode persistir quando o contato entre polpas está limitado.
+
+**Outras alternativas:**
+- B: She already bends the thumb tip; that does not recreate pad-to-pad contact. / Ela já flexiona a ponta; isso não reproduz contato entre as polpas.
+- C: Pronation is a forearm action and does not explain thumb opposition. / Pronação é ação do antebraço e não explica oposição do polegar.
+- D: The thumb does not articulate at the elbow, and opposition combines movements. / Polegar não se articula no cotovelo, e oposição combina movimentos.
+
+**Gancho:** Tip bend is not pad-to-pad reach. / Dobrar a ponta não é tocar polpa com polpa.
+
+**Na prática:** Compare comfortable thumb-to-finger contact without forcing the base. / Compare contato confortável do polegar com os dedos sem forçar a base.
+
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### H35 · two-joint-muscle · Superavançado
 
@@ -6273,6 +6480,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Ask what the assessing clinician advised and keep work comfortable. / Pergunte o que foi orientado na avaliação e mantenha o atendimento confortável.
 
 **Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+
+### H49 · trunk-muscles · Superavançado
+
+**EN:** Iris, 49, has had difficulty rotating her trunk for six weeks while reaching across a desk. She can curl forward but rotation remains limited. Which muscle-role comparison best guides a movement review without naming an injury?
+**PT:** Iris, 49 anos, tem dificuldade para girar o tronco há seis semanas ao alcançar o outro lado da mesa. Consegue flexionar o tronco, mas a rotação permanece limitada. Qual comparação de funções musculares orienta melhor a avaliação sem nomear lesão?
+
+- A. Obliques assist trunk rotation; rectus abdominis chiefly assists trunk flexion / Oblíquos ajudam na rotação do tronco; reto abdominal ajuda sobretudo na flexão **[correta]**
+- B. Rectus abdominis chiefly rotates; obliques only move the hip / Reto abdominal faz sobretudo rotação; oblíquos só movem o quadril
+- C. Transversus abdominis alone rotates the spine; rectus extends it / Transverso do abdome sozinho gira a coluna; reto a estende
+- D. Quadratus lumborum chiefly rotates the trunk; obliques only flex the knee / Quadrado lombar faz sobretudo rotação; oblíquos só flexionam o joelho
+
+**Por quê:** Oblique muscles contribute to trunk rotation, while rectus abdominis is a principal trunk flexor. Comparing motions does not identify the cause of her limitation. / Músculos oblíquos participam da rotação do tronco, enquanto o reto abdominal é importante flexor do tronco. Comparar movimentos não identifica a causa da limitação.
+
+**Outras alternativas:**
+- B: Those actions misassign the main trunk roles. / Essas ações trocam as funções principais do tronco.
+- C: Transversus chiefly compresses and stabilizes; rectus flexes. / Transverso comprime e estabiliza sobretudo; reto flexiona.
+- D: Quadratus is associated with lateral flexion, and obliques do not flex the knee. / Quadrado lombar participa da flexão lateral, e oblíquos não flexionam o joelho.
+
+**Gancho:** Turning and curling ask different questions. / Girar e flexionar são perguntas diferentes.
+
+**Na prática:** Observe comfortable rotation and flexion separately, without forcing either. / Observe rotação e flexão confortáveis separadamente, sem forçar nenhuma.
+
+**Fonte de consulta:** [OpenStax · músculos abdominais e torácicos](https://openstax.org/books/anatomy-and-physiology/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
 
 ## Arquivo das 17 versões substituídas
 
