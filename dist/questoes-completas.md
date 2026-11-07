@@ -1,6 +1,6 @@
 # Questões completas do simulado MBLEx
 
-Banco ativo: 282 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
+Banco ativo: 312 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
 
 Questões autorais de treino; não são itens oficiais nem uma previsão do exame. Cada item traz a fonte consultada para seu conceito.
 
@@ -4639,6 +4639,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
+### H76 · dorsiflexion · Superavançado
+
+**EN:** Zoe, 46, has had difficulty clearing her toes during walking for four weeks. In the two ankle photos, her forefoot moves from pointed down in A toward the shin in B. Which muscle-action pair is most relevant to document?
+**PT:** Zoe, 46 anos, tem dificuldade para tirar os dedos do chão ao caminhar há quatro semanas. Nas duas fotos do tornozelo, a parte anterior do pé vai da posição apontada para baixo em A para a direção da perna em B. Qual par músculo-ação é mais relevante registrar?
+
+- A. Tibialis anterior; ankle dorsiflexion / Tibial anterior; dorsiflexão do tornozelo **[correta]**
+- B. Soleus; ankle plantarflexion / Sóleo; flexão plantar
+- C. Adductor magnus; hip adduction / Adutor magno; adução do quadril
+- D. Hamstrings; knee flexion / Isquiotibiais; flexão do joelho
+
+**Por quê:** Tibialis anterior dorsiflexes the ankle. New or progressive toe drag warrants appropriate medical assessment, rather than assuming a muscle cause. / O tibial anterior faz dorsiflexão do tornozelo. Arrastar os dedos de modo novo ou progressivo pede avaliação médica adequada, sem presumir causa muscular.
+
+**Outras alternativas:**
+- B: Plantarflexion points the foot away from the shin. / Flexão plantar aponta o pé para longe da perna.
+- C: A hip movement does not lift the forefoot. / Um movimento do quadril não levanta a parte anterior do pé.
+- D: Knee bend is not the ankle motion shown. / Flexão do joelho não é o movimento do tornozelo mostrado.
+
+**Gancho:** Forefoot to shin is the upward move. / Parte anterior do pé em direção à perna é o movimento para cima.
+
+**Na prática:** Ask when toe catching began and note any new weakness. / Pergunte quando começou a prender o pé e registre fraqueza nova.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
 ### 76 · elbow · Superavançado
 
 **EN:** Nora, 58, is six weeks after elbow immobilization. She can reach toward a cup but cannot bring it to her mouth without pain. Which movement should the therapist assess gently before setting that functional goal?
@@ -4661,6 +4684,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Measure comfortable motion before and after any work. / Meça o movimento confortável antes e depois do atendimento.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+
+### H64 · elbow-extension · Superavançado
+
+**EN:** Nico, 49, has had difficulty pushing a light door for three weeks. The upper arm stays near the trunk as the forearm moves from bent A to straight B. Which action and prime mover should be documented?
+**PT:** Nico, 49 anos, tem dificuldade para empurrar uma porta leve há três semanas. O braço fica perto do tronco enquanto o antebraço passa da flexão A à extensão B. Qual ação e músculo principal registrar?
+
+- A. Elbow extension with triceps brachii / Extensão do cotovelo com tríceps braquial **[correta]**
+- B. Elbow flexion with biceps brachii / Flexão do cotovelo com bíceps braquial
+- C. Shoulder flexion with anterior deltoid / Flexão do ombro com deltoide anterior
+- D. Forearm supination with supinator / Supinação do antebraço com supinador
+
+**Por quê:** Triceps brachii is the main elbow extensor; anconeus assists. Document the observed action without assuming triceps injury. / Tríceps braquial é o principal extensor do cotovelo; ancôneo auxilia. Registre a ação observada sem presumir lesão do tríceps.
+
+**Outras alternativas:**
+- B: That decreases the elbow angle, opposite to B. / Isso diminui o ângulo do cotovelo, contrário de B.
+- C: The upper arm remains close to the trunk. / O braço permanece perto do tronco.
+- D: Palm rotation does not explain the straightening elbow. / Rotação da palma não explica o cotovelo se estendendo.
+
+**Gancho:** Straightening needs an elbow extensor. / Endireitar pede extensor do cotovelo.
+
+**Na prática:** Keep the push light and compare painless extension on each side. / Mantenha o empurrão leve e compare extensão sem dor dos dois lados.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H63 · elbow-flexion · Superavançado
+
+**EN:** Mia, 52, has had difficulty lifting a cup for four weeks. From A to B her forearm moves toward the upper arm while the shoulder remains still. Which joint action and muscle is the cleanest explanation?
+**PT:** Mia, 52 anos, tem dificuldade para erguer uma xícara há quatro semanas. De A para B, o antebraço se aproxima do braço enquanto o ombro fica parado. Qual ação articular e músculo explicam melhor?
+
+- A. Elbow flexion with brachialis contribution / Flexão do cotovelo com participação do braquial **[correta]**
+- B. Elbow extension with triceps contribution / Extensão do cotovelo com participação do tríceps
+- C. Forearm pronation with pronator teres contribution / Pronação do antebraço com participação do pronador redondo
+- D. Shoulder abduction with deltoid contribution / Abdução do ombro com participação do deltoide
+
+**Por quê:** The elbow angle decreases during flexion; brachialis is a flexor regardless of palm position. A task difficulty does not locate the cause. / O ângulo do cotovelo diminui na flexão; braquial é flexor independentemente da posição da palma. Dificuldade na tarefa não localiza a causa.
+
+**Outras alternativas:**
+- B: Extension straightens the elbow, the reverse of B. / Extensão endireita o cotovelo, o contrário de B.
+- C: Turning the palm is not the reduction in elbow angle shown. / Virar a palma não é a redução do ângulo do cotovelo mostrada.
+- D: The shoulder position remains stable in this task. / A posição do ombro permanece estável nessa tarefa.
+
+**Gancho:** Watch the elbow angle, not the cup. / Observe o ângulo do cotovelo, não a xícara.
+
+**Na prática:** Support the upper arm when comparing a comfortable bend on each side. / Apoie o braço ao comparar flexão confortável dos dois lados.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
 
 ### H45 · foot-combination · Superavançado
 
@@ -4685,6 +4754,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · termos dos músculos da perna](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-key-terms)
 
+### H78 · foot-eversion · Superavançado
+
+**EN:** Bea, 43, has had difficulty stabilizing her foot after a side step for five weeks. Her sole turns away from the midline from A to B while the knee stays forward. Which muscle-action pair fits?
+**PT:** Bea, 43 anos, tem dificuldade para estabilizar o pé após passo lateral há cinco semanas. A planta vira para fora da linha média de A para B enquanto o joelho aponta à frente. Qual par músculo-ação corresponde?
+
+- A. Fibularis longus; eversion / Fibular longo; eversão **[correta]**
+- B. Tibialis posterior; inversion / Tibial posterior; inversão
+- C. Tibialis anterior; plantarflexion / Tibial anterior; flexão plantar
+- D. Biceps femoris; knee flexion / Bíceps femoral; flexão do joelho
+
+**Por quê:** Eversion turns the sole outward; fibularis longus is one of the evertors. The picture does not establish an injured structure. / Eversão vira a planta para fora; o fibular longo é um dos eversores. A figura não estabelece qual estrutura está lesionada.
+
+**Outras alternativas:**
+- B: Inversion turns the sole inward, opposite to B. / Inversão vira a planta para dentro, oposta a B.
+- C: Tibialis anterior dorsiflexes and does not define this sole turn. / Tibial anterior faz dorsiflexão e não define essa virada da planta.
+- D: The knee remains still in the shown action. / O joelho permanece parado na ação mostrada.
+
+**Gancho:** The sole turns away from center. / A planta vira para longe do centro.
+
+**Na prática:** Compare comfortable movement without twisting the whole leg. / Compare o movimento confortável sem girar a perna inteira.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H77 · foot-inversion · Superavançado
+
+**EN:** Ari, 38, has had trouble controlling his foot on uneven ground for six weeks. With the leg still, the sole turns toward the midline from neutral A to B. Which muscle-action pair matches that direction?
+**PT:** Ari, 38 anos, tem dificuldade para controlar o pé em terreno irregular há seis semanas. Com a perna parada, a planta vira em direção à linha média do neutro A para B. Qual par músculo-ação corresponde a essa direção?
+
+- A. Tibialis posterior; inversion / Tibial posterior; inversão **[correta]**
+- B. Fibularis longus; eversion / Fibular longo; eversão
+- C. Soleus; dorsiflexion / Sóleo; dorsiflexão
+- D. Rectus femoris; knee extension / Reto femoral; extensão do joelho
+
+**Por quê:** Inversion turns the sole inward. Tibialis posterior contributes; ankle instability cannot be diagnosed from this motion alone. / Inversão vira a planta para dentro. O tibial posterior participa; o movimento isolado não diagnostica instabilidade.
+
+**Outras alternativas:**
+- B: Eversion turns the sole outward, away from the midline. / Eversão vira a planta para fora, afastando-a da linha média.
+- C: Soleus chiefly plantarflexes; it does not describe this sole turn. / Sóleo faz sobretudo flexão plantar; não descreve essa virada da planta.
+- D: The knee angle remains unchanged. / O ângulo do joelho não muda.
+
+**Gancho:** The sole faces the midline. / A planta olha para a linha média.
+
+**Na prática:** Note whether uneven ground causes pain or giving way without forcing the foot. / Registre se terreno irregular provoca dor ou falseio sem forçar o pé.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
 ### H32 · forearm-turn · Superavançado
 
 **EN:** Luis, 48, has had forearm discomfort for three weeks. He can pull a door toward him but struggles to turn a key so his palm faces up. Which action should be checked separately from elbow flexion?
@@ -4708,6 +4823,98 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
 
+### H71 · hip-abduction · Superavançado
+
+**EN:** Uma, 42, has had trouble stepping sideways for five weeks. In the diagram her thigh moves away from the midline while the pelvis stays level. Which muscle and action best match B?
+**PT:** Uma, 42 anos, tem dificuldade para dar um passo lateral há cinco semanas. No esquema, a coxa se afasta da linha média enquanto a pelve fica nivelada. Qual músculo e ação correspondem a B?
+
+- A. Gluteus medius; hip abduction / Glúteo médio; abdução do quadril **[correta]**
+- B. Adductor magnus; hip adduction / Adutor magno; adução do quadril
+- C. Iliopsoas; hip flexion / Iliopsoas; flexão do quadril
+- D. Gluteus maximus; hip extension / Glúteo máximo; extensão do quadril
+
+**Por quê:** Gluteus medius is a principal hip abductor and helps stabilize the pelvis during single-leg support. The drawing alone cannot locate an injury. / O glúteo médio é importante abdutor do quadril e ajuda a estabilizar a pelve no apoio unipodal. O desenho isolado não localiza lesão.
+
+**Outras alternativas:**
+- B: Adduction brings the thigh toward the midline. / Adução aproxima a coxa da linha média.
+- C: Flexion carries the thigh forward, not sideways. / Flexão leva a coxa para a frente, não para o lado.
+- D: Extension takes the thigh backward, not laterally. / Extensão leva a coxa para trás, não lateralmente.
+
+**Gancho:** Sideways thigh, level pelvis. / Coxa para o lado, pelve nivelada.
+
+**Na prática:** Watch for leaning the trunk instead of moving the thigh. / Observe se ela inclina o tronco no lugar de mover a coxa.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H72 · hip-adduction · Superavançado
+
+**EN:** Vera, 51, has had difficulty bringing her leg back after a side step for six weeks. The diagram shows the thigh moving toward the midline from A to B against light resistance. Which muscle-action pair fits?
+**PT:** Vera, 51 anos, tem dificuldade para trazer a perna de volta após um passo lateral há seis semanas. O esquema mostra a coxa indo à linha média de A para B contra resistência leve. Qual par músculo-ação corresponde?
+
+- A. Adductor magnus; hip adduction / Adutor magno; adução do quadril **[correta]**
+- B. Gluteus medius; hip abduction / Glúteo médio; abdução do quadril
+- C. Rectus femoris; knee extension / Reto femoral; extensão do joelho
+- D. Tibialis anterior; ankle dorsiflexion / Tibial anterior; dorsiflexão do tornozelo
+
+**Por quê:** Hip adduction brings the thigh toward the midline; adductor magnus is one contributor. Other adductors assist too. / A adução do quadril aproxima a coxa da linha média; o adutor magno é um dos participantes. Outros adutores também ajudam.
+
+**Outras alternativas:**
+- B: Abduction moves the thigh away from the midline. / Abdução afasta a coxa da linha média.
+- C: The figure isolates movement at the hip. / A figura isola o movimento no quadril.
+- D: Ankle movement does not bring the thigh inward. / Movimento do tornozelo não traz a coxa para dentro.
+
+**Gancho:** Toward the middle uses the inner thigh. / Em direção ao centro usa a face interna da coxa.
+
+**Na prática:** Compare a small inward movement without letting the pelvis twist. / Compare um pequeno movimento para dentro sem deixar a pelve girar.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H70 · hip-extension · Superavançado
+
+**EN:** Tara, 57, has had trouble moving her leg behind her while walking for six weeks. The trunk stays upright as the thigh moves from A to B behind the pelvis. Which muscle-action pair should be considered first?
+**PT:** Tara, 57 anos, tem dificuldade para levar a perna para trás ao caminhar há seis semanas. O tronco fica ereto enquanto a coxa vai de A para B atrás da pelve. Qual par músculo-ação considerar primeiro?
+
+- A. Gluteus maximus contributing to hip extension / Glúteo máximo participando da extensão do quadril **[correta]**
+- B. Iliopsoas contributing to hip flexion / Iliopsoas participando da flexão do quadril
+- C. Quadriceps contributing to knee extension only / Quadríceps participando apenas da extensão do joelho
+- D. Serratus anterior contributing to scapular protraction / Serrátil anterior participando da protração escapular
+
+**Por quê:** Gluteus maximus is a major hip extensor; hamstrings can assist. Limited backward motion need not mean the gluteus is damaged. / Glúteo máximo é importante extensor do quadril; isquiotibiais podem ajudar. Movimento limitado para trás não significa lesão do glúteo.
+
+**Outras alternativas:**
+- B: Flexion moves the thigh toward the front. / Flexão leva a coxa para a frente.
+- C: Straightening the knee is not the pictured hip movement. / Endireitar o joelho não é o movimento do quadril mostrado.
+- D: Scapular motion is unrelated to the thigh moving behind the pelvis. / Movimento escapular não explica a coxa indo para trás da pelve.
+
+**Gancho:** Backward thigh points to hip extension. / Coxa para trás indica extensão do quadril.
+
+**Na prática:** Watch for lumbar arching that substitutes for hip motion. / Observe se a lombar arqueia para compensar o quadril.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H69 · hip-flexion · Superavançado
+
+**EN:** Sam, 45, has had difficulty stepping onto a curb for five weeks. With the trunk upright, the thigh moves from below the hip in A to forward and upward in B. Which joint action and muscle group are most relevant?
+**PT:** Sam, 45 anos, tem dificuldade para subir um meio-fio há cinco semanas. Com o tronco ereto, a coxa sai debaixo do quadril em A para frente e para cima em B. Qual ação articular e grupo muscular são mais relevantes?
+
+- A. Hip flexion with iliopsoas contribution / Flexão do quadril com participação do iliopsoas **[correta]**
+- B. Hip extension with gluteus maximus contribution / Extensão do quadril com participação do glúteo máximo
+- C. Knee extension with quadriceps alone / Extensão do joelho apenas com quadríceps
+- D. Hip adduction with adductor magnus alone / Adução do quadril apenas com adutor magno
+
+**Por quê:** Hip flexion brings the thigh forward; iliopsoas contributes strongly. The task can involve other joints, so assess hip motion separately. / Flexão do quadril leva a coxa à frente; iliopsoas participa bastante. A tarefa usa outras articulações, então avalie o quadril separadamente.
+
+**Outras alternativas:**
+- B: Extension moves the thigh backward, not forward. / Extensão leva a coxa para trás, não para a frente.
+- C: The pictured thigh moves at the hip, regardless of knee position. / A coxa mostrada move no quadril, independentemente da posição do joelho.
+- D: Adduction draws the thigh toward the midline, not forward. / Adução leva a coxa à linha média, não para frente.
+
+**Gancho:** Watch the thigh relative to the pelvis. / Observe a coxa em relação à pelve.
+
+**Na prática:** Ask for a small comfortable march and note pelvic compensation. / Peça marcha curta e confortável e observe compensação pélvica.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
 ### H40 · hip-rotation · Superavançado
 
 **EN:** Omar, 45, has had difficulty turning his right thigh outward for six weeks. A gentle seated screen shows limited external rotation without a knee problem. Which muscle group is most relevant to the hip action being checked?
@@ -4730,6 +4937,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Keep the pelvis steady while comparing comfortable rotation on each side. / Mantenha a pelve estável ao comparar rotação confortável dos dois lados.
 
 **Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H51 · jaw-close · Superavançado
+
+**EN:** Ava, 41, has noticed jaw fatigue while chewing for four weeks. In the diagram she moves from open A to gently closed B. Which muscle-action pair should the therapist recognize without treating this as a diagnosis?
+**PT:** Ava, 41 anos, sente fadiga na mandíbula ao mastigar há quatro semanas. No esquema, passa da posição aberta A ao fechamento suave B. Qual par músculo-ação o terapeuta deve reconhecer sem transformar isso em diagnóstico?
+
+- A. Masseter — elevation of the mandible / Masseter — elevação da mandíbula **[correta]**
+- B. Lateral pterygoid — depression of the mandible / Pterigoideo lateral — depressão da mandíbula
+- C. Temporalis — depression of the mandible / Temporal — depressão da mandíbula
+- D. Sternocleidomastoid — elevation of the mandible / Esternocleidomastóideo — elevação da mandíbula
+
+**Por quê:** Closing the mouth elevates the mandible; masseter is a major elevator. Fatigue alone does not identify its cause. / Fechar a boca eleva a mandíbula; o masseter é um dos principais elevadores. Fadiga isolada não identifica a causa.
+
+**Outras alternativas:**
+- B: That muscle helps open, not close, the jaw. / Esse músculo ajuda a abrir, não a fechar, a mandíbula.
+- C: Temporalis helps elevate and retract the jaw. / O temporal ajuda a elevar e retrair a mandíbula.
+- D: It moves the head and neck, not the mandible as a chewing muscle. / Move cabeça e pescoço, não a mandíbula como músculo da mastigação.
+
+**Gancho:** Closing moves the lower jaw upward. / Fechar leva a mandíbula para cima.
+
+**Na prática:** Ask whether chewing, opening or clenching changes her symptoms. / Pergunte se mastigar, abrir ou apertar os dentes altera os sintomas.
+
+**Fonte de consulta:** [OpenStax · músculos da cabeça e do pescoço](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)
+
+### H52 · jaw-open · Superavançado
+
+**EN:** Ben, 55, has had discomfort when opening his mouth for three weeks. The picture moves from closed A to open B. Which action and muscle best match the pictured task, without assuming the source of pain?
+**PT:** Ben, 55 anos, sente desconforto ao abrir a boca há três semanas. A figura passa do fechamento A à abertura B. Qual ação e músculo combinam melhor com a tarefa mostrada, sem presumir a origem da dor?
+
+- A. Mandibular depression with help from lateral pterygoid / Depressão da mandíbula com ajuda do pterigoideo lateral **[correta]**
+- B. Mandibular elevation driven by masseter / Elevação da mandíbula pelo masseter
+- C. Mandibular retraction by temporalis alone / Retração da mandíbula apenas pelo temporal
+- D. Cervical extension by splenius capitis / Extensão cervical pelo esplênio da cabeça
+
+**Por quê:** Opening lowers the mandible. Lateral pterygoid contributes, but jaw opening also involves other muscles and gravity. / Abrir a boca abaixa a mandíbula. O pterigoideo lateral participa, mas outros músculos e a gravidade também contribuem.
+
+**Outras alternativas:**
+- B: Elevation closes the mouth, the reverse of B. / Elevação fecha a boca, o contrário de B.
+- C: Retracting backward is not the opening shown. / Retrair para trás não é a abertura mostrada.
+- D: Neck extension does not describe the jaw movement. / Extensão do pescoço não descreve o movimento da mandíbula.
+
+**Gancho:** The jaw drops before the head moves. / A mandíbula desce sem exigir mover a cabeça.
+
+**Na prática:** Compare comfortable opening with closing and note any clicking or pain. / Compare abertura e fechamento confortáveis e registre estalos ou dor.
+
+**Fonte de consulta:** [OpenStax · músculos da cabeça e do pescoço](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)
 
 ### H26 · joint-type · Superavançado
 
@@ -4912,6 +5165,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Straighten the knee, check the front thigh. / Estender o joelho, observar a coxa anterior.
 
 **Na prática:** Compare comfortable resisted extension on both sides and record the difference. / Compare extensão resistida confortável dos dois lados e registre a diferença.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H74 · knee-extension · Superavançado
+
+**EN:** Xena, 54, has had trouble straightening her knee to rise from a chair for seven weeks. From bent A to straight B, which muscle group produces the joint action shown?
+**PT:** Xena, 54 anos, tem dificuldade para estender o joelho ao levantar da cadeira há sete semanas. Da flexão A à extensão B, qual grupo muscular produz a ação articular mostrada?
+
+- A. Quadriceps femoris; knee extension / Quadríceps femoral; extensão do joelho **[correta]**
+- B. Hamstrings; knee flexion / Isquiotibiais; flexão do joelho
+- C. Gastrocnemius; ankle plantarflexion / Gastrocnêmio; flexão plantar do tornozelo
+- D. Gluteus medius; hip abduction / Glúteo médio; abdução do quadril
+
+**Por quê:** Quadriceps femoris extends the knee. Rising from a chair also uses the hips, but the picture isolates the knee phase. / O quadríceps femoral estende o joelho. Levantar da cadeira também usa os quadris, mas a figura isola a fase do joelho.
+
+**Outras alternativas:**
+- B: Flexion decreases the knee angle, opposite to B. / Flexão diminui o ângulo do joelho, contrário de B.
+- C: The pictured change is at the knee, not the ankle. / A mudança mostrada está no joelho, não no tornozelo.
+- D: Lateral thigh movement is not shown. / A figura não mostra movimento lateral da coxa.
+
+**Gancho:** The knee opens as the leg straightens. / O ângulo do joelho abre quando a perna estende.
+
+**Na prática:** Observe the knee and hip separately during a comfortable rise. / Observe joelho e quadril separadamente ao levantar de modo confortável.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H73 · knee-flexion · Superavançado
+
+**EN:** Wes, 47, has had difficulty bending his knee to clear a step for a month. The thigh stays still while the lower leg moves from straight A to bent B. Which action and group are relevant?
+**PT:** Wes, 47 anos, tem dificuldade para flexionar o joelho ao subir um degrau há um mês. A coxa fica parada enquanto a perna passa de estendida A a flexionada B. Qual ação e grupo são relevantes?
+
+- A. Knee flexion; hamstrings / Flexão do joelho; isquiotibiais **[correta]**
+- B. Knee extension; quadriceps / Extensão do joelho; quadríceps
+- C. Hip flexion; iliopsoas / Flexão do quadril; iliopsoas
+- D. Ankle plantarflexion; soleus / Flexão plantar; sóleo
+
+**Por quê:** The hamstrings flex the knee, with other muscles able to assist. Difficulty clearing a step does not prove a hamstring injury. / Os isquiotibiais flexionam o joelho, com auxílio possível de outros músculos. Dificuldade no degrau não prova lesão dos isquiotibiais.
+
+**Outras alternativas:**
+- B: Extension straightens the knee, opposite to B. / Extensão endireita o joelho, contrário de B.
+- C: The thigh is held still in this diagram. / A coxa está parada neste esquema.
+- D: Pointing the foot does not explain the knee angle. / Apontar o pé não explica o ângulo do joelho.
+
+**Gancho:** The heel approaches the thigh. / O calcanhar se aproxima da coxa.
+
+**Na prática:** Compare pain-free bend on both sides with the thigh supported. / Compare a flexão sem dor dos dois lados com a coxa apoiada.
 
 **Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
 
@@ -5467,6 +5766,75 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
+### H55 · neck-extension · Superavançado
+
+**EN:** Eli, 50, has had difficulty looking upward for a month. The head moves from neutral A toward B without lifting the shoulders. Which muscle group and plane should be considered during the movement review?
+**PT:** Eli, 50 anos, tem dificuldade para olhar para cima há um mês. A cabeça sai do neutro A em direção a B sem elevar os ombros. Qual grupo muscular e plano considerar na revisão do movimento?
+
+- A. Posterior neck extensors such as splenius capitis; sagittal plane / Extensores cervicais posteriores como o esplênio da cabeça; plano sagital **[correta]**
+- B. Bilateral SCM as the primary extensors; sagittal plane / ECM bilaterais como principais extensores; plano sagital
+- C. Rhomboids; frontal plane / Romboides; plano frontal
+- D. Lateral pterygoid; transverse plane / Pterigoideo lateral; plano transversal
+
+**Por quê:** Looking upward from the neck is extension in the sagittal plane. Posterior cervical muscles contribute; do not force end range or infer tissue damage. / Olhar para cima pelo pescoço é extensão no plano sagital. Músculos cervicais posteriores participam; não force o limite nem infira dano tecidual.
+
+**Outras alternativas:**
+- B: Bilateral SCM action is associated chiefly with flexion, not this backward motion. / A ação bilateral do ECM se associa sobretudo à flexão, não a esse movimento para trás.
+- C: Rhomboids move the scapula, not the head in this plane. / Romboides movem a escápula, não a cabeça nesse plano.
+- D: It acts on the jaw rather than cervical extension. / Age na mandíbula, não na extensão cervical.
+
+**Gancho:** Backward gaze asks the back of the neck. / Olhar para trás recruta a região posterior do pescoço.
+
+**Na prática:** Check whether the torso, not the neck, is doing part of the motion. / Veja se o tronco está fazendo parte do movimento.
+
+**Fonte de consulta:** [OpenStax · músculos da cabeça e do pescoço](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)
+
+### H54 · neck-flexion · Superavançado
+
+**EN:** Dina, 62, has had neck stiffness for six weeks. During a gentle motion screen she lowers her chin toward her chest from A to B. Which pairing explains the primary movement without claiming that one muscle is injured?
+**PT:** Dina, 62 anos, sente rigidez cervical há seis semanas. Numa avaliação suave, baixa o queixo em direção ao peito de A para B. Qual associação explica o movimento principal sem afirmar lesão de um músculo?
+
+- A. Neck flexion in the sagittal plane, assisted by bilateral SCM / Flexão cervical no plano sagital, auxiliada pelos dois ECM **[correta]**
+- B. Neck extension in the sagittal plane, assisted by splenius capitis / Extensão cervical no plano sagital, auxiliada pelo esplênio
+- C. Lateral flexion in the frontal plane, assisted by one SCM / Flexão lateral no plano frontal, auxiliada por um ECM
+- D. Rotation in the transverse plane, assisted by masseter / Rotação no plano transversal, auxiliada pelo masseter
+
+**Por quê:** Chin-to-chest is cervical flexion in the sagittal plane. Bilateral sternocleidomastoids can assist; limited motion by itself is nonspecific. / Queixo ao peito é flexão cervical no plano sagital. Os dois esternocleidomastóideos podem ajudar; limitação isolada é inespecífica.
+
+**Outras alternativas:**
+- B: Extension moves the head backward, opposite to B. / Extensão leva a cabeça para trás, oposto de B.
+- C: The chin moves forward and down, not toward one shoulder. / O queixo vai para frente e para baixo, não em direção a um ombro.
+- D: The picture shows no axial turn, and masseter moves the jaw. / A figura não mostra rotação axial, e o masseter move a mandíbula.
+
+**Gancho:** Forward and down stays in the side-view plane. / Para frente e para baixo fica no plano visto de lado.
+
+**Na prática:** Ask her to move within comfort without pushing the head. / Peça movimento confortável sem empurrar a cabeça.
+
+**Fonte de consulta:** [OpenStax · músculos da cabeça e do pescoço](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)
+
+### H53 · neck-rotation · Superavançado
+
+**EN:** Carla, 48, has had trouble checking traffic over her left shoulder for five weeks. In the diagram her face turns left from A to B while the trunk stays forward. Which muscle and plane best fit this motion?
+**PT:** Carla, 48 anos, tem dificuldade para olhar o trânsito sobre o ombro esquerdo há cinco semanas. No esquema, o rosto gira à esquerda de A para B enquanto o tronco fica voltado para a frente. Qual músculo e plano combinam melhor com o movimento?
+
+- A. Right sternocleidomastoid; transverse plane / Esternocleidomastóideo direito; plano transversal **[correta]**
+- B. Left sternocleidomastoid; sagittal plane / Esternocleidomastóideo esquerdo; plano sagital
+- C. Both sternocleidomastoids; frontal plane / Ambos os esternocleidomastóideos; plano frontal
+- D. Left masseter; transverse plane / Masseter esquerdo; plano transversal
+
+**Por quê:** Unilateral right SCM contributes to turning the face left. Rotation is described in the transverse plane; other neck muscles also contribute. / O ECM direito unilateral ajuda a virar o rosto para a esquerda. A rotação ocorre no plano transversal; outros músculos cervicais também participam.
+
+**Outras alternativas:**
+- B: An isolated SCM turns the face opposite its side; sagittal describes flexion or extension. / Um ECM isolado gira o rosto para o lado oposto; sagital descreve flexão ou extensão.
+- C: Bilateral action chiefly flexes the head, not this rotation. / A ação bilateral flexiona sobretudo a cabeça, não essa rotação.
+- D: Masseter acts on the jaw, not cervical rotation. / Masseter age na mandíbula, não na rotação cervical.
+
+**Gancho:** The face turns away from the working SCM. / O rosto vira para longe do ECM ativo.
+
+**Na prática:** Watch for trunk rotation compensation during a comfortable head turn. / Observe se o tronco compensa durante rotação confortável da cabeça.
+
+**Fonte de consulta:** [OpenStax · músculos da cabeça e do pescoço](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)
+
 ### H31 · overhead-reach · Superavançado
 
 **EN:** Maya, 54, has struggled to reach an overhead shelf for six weeks. Her arm rises at the shoulder, but the scapula barely turns. Which movement should the therapist observe before blaming the glenohumeral joint alone?
@@ -5489,6 +5857,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Compare comfortable reaches on both sides without forcing height. / Compare alcances confortáveis dos dois lados sem forçar a altura.
 
 **Fonte de consulta:** [NCBI Bookshelf · movimentos da escápula](https://www.ncbi.nlm.nih.gov/books/NBK518994/)
+
+### H75 · plantarflexion · Superavançado
+
+**EN:** Yara, 59, has had difficulty rising onto her toes for five weeks. In the two ankle photos, her forefoot moves from lifted toward the shin in A to pointed downward in B. Which muscle group and ankle action fit the move toward B?
+**PT:** Yara, 59 anos, tem dificuldade para ficar na ponta dos pés há cinco semanas. Nas duas fotos do tornozelo, a parte anterior do pé vai da posição erguida em direção à perna em A para a posição apontada para baixo em B. Qual grupo muscular e ação correspondem ao movimento rumo a B?
+
+- A. Gastrocnemius and soleus; plantarflexion / Gastrocnêmio e sóleo; flexão plantar **[correta]**
+- B. Tibialis anterior; dorsiflexion / Tibial anterior; dorsiflexão
+- C. Fibularis longus; inversion / Fibular longo; inversão
+- D. Quadriceps; knee extension / Quadríceps; extensão do joelho
+
+**Por quê:** The calf muscles gastrocnemius and soleus produce plantarflexion. This movement does not, by itself, identify the source of her difficulty. / Os músculos da panturrilha gastrocnêmio e sóleo produzem flexão plantar. O movimento isolado não identifica a causa da dificuldade.
+
+**Outras alternativas:**
+- B: Dorsiflexion lifts the forefoot toward the shin. / Dorsiflexão eleva a parte anterior do pé em direção à perna.
+- C: Inversion turns the sole inward, not down. / Inversão vira a planta para dentro, não para baixo.
+- D: The target motion is at the ankle. / O movimento alvo é no tornozelo.
+
+**Gancho:** Toes down, heel up. / Dedos para baixo, calcanhar para cima.
+
+**Na prática:** Use support for balance and compare a comfortable heel rise. / Use apoio para equilíbrio e compare uma elevação confortável dos calcanhares.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H66 · pronation · Superavançado
+
+**EN:** Pia, 40, has had forearm stiffness for six weeks. She turns her hand from palm-up A to palm-down B without moving her shoulder. Which muscle-action-plane pairing fits the illustrated task?
+**PT:** Pia, 40 anos, sente rigidez no antebraço há seis semanas. Vira a mão da palma para cima A à palma para baixo B sem mover o ombro. Qual combinação de músculo, ação e plano corresponde?
+
+- A. Pronator teres; forearm pronation; transverse plane / Pronador redondo; pronação do antebraço; plano transversal **[correta]**
+- B. Supinator; forearm supination; transverse plane / Supinador; supinação do antebraço; plano transversal
+- C. Brachialis; elbow flexion; sagittal plane / Braquial; flexão do cotovelo; plano sagital
+- D. Deltoid; shoulder abduction; frontal plane / Deltoide; abdução do ombro; plano frontal
+
+**Por quê:** Pronation rotates the forearm to palm-down; pronator teres contributes. Avoid treating this range finding as a diagnosis. / Pronação gira o antebraço até a palma ficar para baixo; pronador redondo participa. Não transforme esse achado de amplitude em diagnóstico.
+
+**Outras alternativas:**
+- B: Supination turns the palm upward, the reverse of B. / Supinação vira a palma para cima, o inverso de B.
+- C: Elbow bending is not the forearm rotation shown. / Flexionar o cotovelo não é a rotação do antebraço mostrada.
+- D: The upper arm does not move away from the trunk. / O braço não se afasta do tronco.
+
+**Gancho:** Palm down asks for pronation. / Palma para baixo pede pronação.
+
+**Na prática:** Keep the upper arm quiet while checking the comfortable turn. / Mantenha o braço parado ao verificar a rotação confortável.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
 
 ### 104 · proprioception · Intermediário
 
@@ -5605,6 +6019,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
+### H58 · scapular-elevation · Superavançado
+
+**EN:** Hana, 53, has noticed uneven shoulder height for five weeks. In B she deliberately raises both shoulder blades without bending the elbows. Which muscle-action pair fits the pictured test?
+**PT:** Hana, 53 anos, percebe alturas diferentes dos ombros há cinco semanas. Em B, eleva voluntariamente as duas escápulas sem flexionar os cotovelos. Qual par músculo-ação corresponde ao teste?
+
+- A. Upper trapezius and levator scapulae; scapular elevation / Trapézio superior e levantador da escápula; elevação escapular **[correta]**
+- B. Rhomboids; scapular protraction / Romboides; protração escapular
+- C. Serratus anterior; mandibular elevation / Serrátil anterior; elevação da mandíbula
+- D. Triceps brachii; elbow flexion / Tríceps braquial; flexão do cotovelo
+
+**Por quê:** Shrugging elevates the scapula. Upper trapezius and levator scapulae contribute, but unequal height alone has many possible explanations. / Encolher os ombros eleva a escápula. Trapézio superior e levantador participam, mas alturas diferentes podem ter várias causas.
+
+**Outras alternativas:**
+- B: Rhomboids mainly retract and assist downward rotation. / Romboides sobretudo retraem e ajudam na rotação inferior.
+- C: Serratus acts on the scapula, not the jaw. / Serrátil age na escápula, não na mandíbula.
+- D: Triceps extends the elbow; the elbows do not change here. / Tríceps estende o cotovelo; os cotovelos não mudam aqui.
+
+**Gancho:** Shoulder blade up, elbow unchanged. / Escápula sobe, cotovelo não muda.
+
+**Na prática:** Record the difference without labeling one muscle as short or weak. / Registre a diferença sem rotular um músculo como curto ou fraco.
+
+**Fonte de consulta:** [NCBI Bookshelf · movimentos da escápula](https://www.ncbi.nlm.nih.gov/books/NBK518994/)
+
 ### H42 · scapular-protraction · Superavançado
 
 **EN:** Evan, 36, has had shoulder fatigue for four weeks. At the end of a wall push-up, his elbows are straight but one shoulder blade does not glide forward around the ribs. Which muscle action should the therapist observe separately from elbow extension?
@@ -5625,6 +6062,213 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Elbow straight, shoulder blade still moves. / Cotovelo estendido, escápula ainda se move.
 
 **Na prática:** Watch the medial border of each scapula during a comfortable wall push. / Observe a borda medial de cada escápula numa flexão confortável na parede.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H57 · scapular-protraction · Superavançado
+
+**EN:** Gabe, 39, has had shoulder-girdle fatigue for four weeks. After a gentle wall push, one scapula barely moves around the rib cage from A to B. Which action and muscle best match the desired glide?
+**PT:** Gabe, 39 anos, sente fadiga na cintura escapular há quatro semanas. Após uma flexão suave na parede, uma escápula quase não desliza ao redor das costelas de A para B. Qual ação e músculo combinam com o deslizamento desejado?
+
+- A. Scapular protraction with serratus anterior contribution / Protração escapular com participação do serrátil anterior **[correta]**
+- B. Scapular retraction with rhomboid contribution / Retração escapular com participação dos romboides
+- C. Shoulder extension with triceps alone / Extensão do ombro apenas com tríceps
+- D. Cervical rotation with SCM / Rotação cervical com ECM
+
+**Por quê:** Serratus anterior contributes to forward scapular glide. The motion should be assessed separately from elbow extension and without diagnosing a lesion. / O serrátil anterior participa do deslizamento anterior da escápula. Avalie esse movimento separadamente da extensão do cotovelo, sem diagnosticar lesão.
+
+**Outras alternativas:**
+- B: Retraction draws the blade inward rather than around the ribs. / Retração traz a escápula para dentro, não ao redor das costelas.
+- C: Elbow or humeral action does not replace scapular glide. / Ação do cotovelo ou úmero não substitui o deslizamento escapular.
+- D: Turning the head does not move the scapula as shown. / Virar a cabeça não move a escápula como mostrado.
+
+**Gancho:** The blade travels around the rib cage. / A escápula contorna as costelas.
+
+**Na prática:** Watch the medial border during a comfortable wall reach. / Observe a borda medial durante alcance confortável na parede.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H56 · scapular-retraction · Superavançado
+
+**EN:** Faye, 44, has felt upper-back fatigue for seven weeks. From A to B, her shoulder blades move closer to the spine without lifting. Which muscle-action pair is most relevant to observe?
+**PT:** Faye, 44 anos, sente fadiga na parte alta das costas há sete semanas. De A para B, as escápulas se aproximam da coluna sem subir. Qual par músculo-ação é mais relevante observar?
+
+- A. Rhomboids assisting scapular retraction / Romboides auxiliando a retração escapular **[correta]**
+- B. Serratus anterior assisting scapular protraction / Serrátil anterior auxiliando a protração escapular
+- C. Masseter assisting mandibular elevation / Masseter auxiliando elevação mandibular
+- D. Quadriceps assisting knee extension / Quadríceps auxiliando extensão do joelho
+
+**Por quê:** Rhomboids pull the scapula toward the spine and contribute to retraction. Fatigue does not identify a damaged rhomboid. / Romboides puxam a escápula em direção à coluna e participam da retração. Fadiga não identifica romboide lesionado.
+
+**Outras alternativas:**
+- B: Protraction moves the scapula away from the spine, opposite to B. / Protração afasta a escápula da coluna, oposto de B.
+- C: Jaw movement is unrelated to the scapular glide shown. / Movimento da mandíbula não explica o deslizamento da escápula.
+- D: The knee is not the joint being observed. / O joelho não é a articulação observada.
+
+**Gancho:** Toward the spine means blades together. / Em direção à coluna significa escápulas juntas.
+
+**Na prática:** Compare both scapulae while the arms remain relaxed. / Compare as duas escápulas com os braços relaxados.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H61 · shoulder-abduction · Superavançado
+
+**EN:** Kira, 43, has had trouble putting a book on a side shelf for five weeks. Her arm travels out from her body from A to B without turning forward. Which muscle pair contributes to the pictured action?
+**PT:** Kira, 43 anos, tem dificuldade para pôr um livro numa prateleira lateral há cinco semanas. O braço se afasta do corpo de A para B sem ir para a frente. Qual par muscular contribui para a ação mostrada?
+
+- A. Supraspinatus and deltoid during shoulder abduction / Supraespinal e deltoide durante abdução do ombro **[correta]**
+- B. Latissimus dorsi and teres major during shoulder adduction / Latíssimo do dorso e redondo maior durante adução do ombro
+- C. Triceps and anconeus during elbow extension / Tríceps e ancôneo durante extensão do cotovelo
+- D. Pronator teres and quadratus during forearm pronation / Pronador redondo e quadrado durante pronação
+
+**Por quê:** Shoulder abduction moves the arm laterally. Supraspinatus and deltoid contribute at different parts of the arc; the image does not diagnose a tendon problem. / Abdução do ombro move o braço lateralmente. Supraespinal e deltoide participam em partes do arco; a imagem não diagnostica problema tendíneo.
+
+**Outras alternativas:**
+- B: Those muscles chiefly draw the arm back toward the body. / Esses músculos levam sobretudo o braço de volta ao corpo.
+- C: The pictured motion occurs at the shoulder, not the elbow. / O movimento mostrado ocorre no ombro, não no cotovelo.
+- D: Forearm rotation does not move the arm away from the trunk. / Girar o antebraço não afasta o braço do tronco.
+
+**Gancho:** Sideways reach is a shoulder task. / Alcance lateral é tarefa do ombro.
+
+**Na prática:** Compare comfortable side elevation and watch for shoulder hiking. / Compare elevação lateral confortável e observe elevação compensatória do ombro.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H62 · shoulder-adduction · Superavançado
+
+**EN:** Leo, 60, has had difficulty bringing his arm to his side for six weeks. Against light resistance, he draws the raised arm from A toward his trunk in B. Which movement-muscle pairing best fits this active task?
+**PT:** Leo, 60 anos, tem dificuldade para trazer o braço ao lado do corpo há seis semanas. Contra resistência leve, leva o braço elevado em A em direção ao tronco em B. Qual par movimento-músculo corresponde melhor a essa tarefa ativa?
+
+- A. Shoulder adduction with latissimus dorsi contribution / Adução do ombro com participação do latíssimo do dorso **[correta]**
+- B. Shoulder abduction with supraspinatus contribution / Abdução do ombro com participação do supraespinal
+- C. Elbow flexion with brachialis contribution / Flexão do cotovelo com participação do braquial
+- D. Scapular protraction with serratus anterior contribution / Protração escapular com participação do serrátil anterior
+
+**Por quê:** Active adduction against resistance brings the humerus toward the trunk; latissimus dorsi can contribute along with other adductors. / A adução ativa contra resistência aproxima o úmero do tronco; o latíssimo do dorso pode participar com outros adutores.
+
+**Outras alternativas:**
+- B: Abduction moves the arm away from the trunk, opposite to B. / Abdução afasta o braço do tronco, contrário de B.
+- C: The elbow angle stays nearly unchanged. / O ângulo do cotovelo quase não muda.
+- D: Scapular glide is different from lowering the humerus toward the side. / Deslizamento escapular difere de trazer o úmero ao lado do corpo.
+
+**Gancho:** The arm comes home toward the trunk. / O braço volta para perto do tronco.
+
+**Na prática:** Ask whether the inward move hurts and stop before the painful range. / Pergunte se o movimento para dentro dói e pare antes da faixa dolorosa.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H60 · shoulder-extension · Superavançado
+
+**EN:** Jules, 58, has had difficulty reaching behind the body for two months. From A to B the straight arm moves backward while the trunk stays still. Which pair best identifies the movement and a contributing muscle?
+**PT:** Jules, 58 anos, tem dificuldade para alcançar atrás do corpo há dois meses. De A para B, o braço estendido vai para trás enquanto o tronco fica parado. Qual par identifica melhor o movimento e um músculo participante?
+
+- A. Shoulder extension with latissimus dorsi contribution / Extensão do ombro com participação do latíssimo do dorso **[correta]**
+- B. Shoulder flexion with anterior deltoid contribution / Flexão do ombro com participação do deltoide anterior
+- C. Elbow extension with triceps contribution / Extensão do cotovelo com participação do tríceps
+- D. Scapular elevation with levator scapulae contribution / Elevação escapular com participação do levantador
+
+**Por quê:** Latissimus dorsi can extend the humerus at the shoulder. Record comfortable range and compensation rather than inferring which tissue limits it. / O latíssimo do dorso pode estender o úmero no ombro. Registre amplitude confortável e compensação sem inferir qual tecido limita o movimento.
+
+**Outras alternativas:**
+- B: Flexion takes the arm forward, opposite to B. / Flexão leva o braço para frente, contrário de B.
+- C: The elbow remains straight throughout the pictured action. / O cotovelo permanece estendido durante o movimento mostrado.
+- D: The pictured arm travels backward, not upward as a shrug. / O braço vai para trás, não sobe como no encolher de ombros.
+
+**Gancho:** Backward arm is not a bent elbow. / Braço para trás não é cotovelo dobrado.
+
+**Na prática:** Keep the trunk still while comparing both sides. / Mantenha o tronco parado ao comparar os lados.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H59 · shoulder-flexion · Superavançado
+
+**EN:** Ivy, 46, has had difficulty reaching a forward shelf for six weeks. The diagram shows her arm moving from her side A to in front of her B while the elbow stays straight. Which movement-muscle-plane combination is most appropriate?
+**PT:** Ivy, 46 anos, tem dificuldade para alcançar uma prateleira à frente há seis semanas. O esquema mostra o braço saindo do lado do corpo A para a frente B com cotovelo estendido. Qual combinação de movimento, músculo e plano é mais adequada?
+
+- A. Shoulder flexion; anterior deltoid; sagittal plane / Flexão do ombro; deltoide anterior; plano sagital **[correta]**
+- B. Shoulder abduction; middle deltoid; frontal plane / Abdução do ombro; deltoide médio; plano frontal
+- C. Shoulder extension; latissimus dorsi; sagittal plane / Extensão do ombro; latíssimo do dorso; plano sagital
+- D. Elbow flexion; brachialis; sagittal plane / Flexão do cotovelo; braquial; plano sagital
+
+**Por quê:** Forward elevation at the shoulder is flexion in the sagittal plane; anterior deltoid contributes. The diagram does not measure strength or diagnose the cause. / Elevação anterior do braço é flexão do ombro no plano sagital; deltoide anterior participa. O desenho não mede força nem diagnostica a causa.
+
+**Outras alternativas:**
+- B: That moves the arm sideways, not forward. / Isso leva o braço para o lado, não para a frente.
+- C: Extension moves the arm backward from neutral. / Extensão leva o braço para trás a partir do neutro.
+- D: The elbow remains straight in the figure. / O cotovelo permanece estendido na figura.
+
+**Gancho:** Forward arm and straight elbow point to shoulder motion. / Braço à frente e cotovelo estendido indicam movimento do ombro.
+
+**Na prática:** Observe whether the trunk leans to substitute for the arm movement. / Observe se o tronco inclina para compensar o movimento do braço.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H80 · shoulder-lateral-rotation · Superavançado
+
+**EN:** Drew, 61, has had trouble rotating his arm outward for six weeks. In the reference photo, the elbow stays at his side and bends at 90 degrees while the forearm turns outward. Which cuff muscle pair is most relevant?
+**PT:** Drew, 61 anos, tem dificuldade para girar o braço para fora há seis semanas. Na foto de referência, o cotovelo fica ao lado do corpo e flexionado a 90 graus enquanto o antebraço gira para fora. Qual par de músculos do manguito é mais relevante?
+
+- A. Infraspinatus and teres minor / Infraespinal e redondo menor **[correta]**
+- B. Subscapularis and pectoralis major / Subescapular e peitoral maior
+- C. Biceps brachii and supinator / Bíceps braquial e supinador
+- D. Rhomboids and levator scapulae / Romboides e levantador da escápula
+
+**Por quê:** Infraspinatus and teres minor contribute to lateral rotation of the humerus at the shoulder. Forearm position alone must not be mistaken for forearm supination. / Infraespinal e redondo menor participam da rotação lateral do úmero no ombro. A posição do antebraço não deve ser confundida com supinação.
+
+**Outras alternativas:**
+- B: They contribute to medial rather than lateral rotation. / Eles participam da rotação medial, não da lateral.
+- C: They rotate the forearm palm-up; the question fixes the elbow and asks about the shoulder. / Eles fazem supinação do antebraço; a questão fixa o cotovelo e pergunta pelo ombro.
+- D: They move the scapula, not primarily the humerus in this action. / Eles movem a escápula, não principalmente o úmero nessa ação.
+
+**Gancho:** Elbow fixed, upper arm turns. / Cotovelo fixo, braço gira.
+
+**Na prática:** Stabilize the elbow gently while comparing comfortable rotation. / Estabilize suavemente o cotovelo ao comparar rotação confortável.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H65 · supination · Superavançado
+
+**EN:** Olive, 37, has had trouble turning a key for five weeks. With her elbow supported, the hand changes from palm-down A to palm-up B. Which muscle can contribute strongly, and at which joints does this rotation occur?
+**PT:** Olive, 37 anos, tem dificuldade para girar uma chave há cinco semanas. Com o cotovelo apoiado, a mão passa da palma para baixo A à palma para cima B. Qual músculo pode contribuir bastante, e em quais articulações ocorre a rotação?
+
+- A. Biceps brachii; proximal and distal radioulnar joints / Bíceps braquial; articulações radioulnares proximal e distal **[correta]**
+- B. Pronator teres; glenohumeral joint / Pronador redondo; articulação glenoumeral
+- C. Brachialis; radiocarpal joint / Braquial; articulação radiocárpica
+- D. Triceps brachii; elbow hinge only / Tríceps braquial; apenas dobradiça do cotovelo
+
+**Por quê:** Biceps brachii assists forearm supination, especially with the elbow flexed; rotation takes place at the radioulnar joints. The supinator also contributes. / Bíceps braquial ajuda na supinação, especialmente com o cotovelo flexionado; a rotação ocorre nas articulações radioulnares. O supinador também participa.
+
+**Outras alternativas:**
+- B: Pronator teres turns the palm down; the shoulder is not the pivot here. / Pronador redondo vira a palma para baixo; o ombro não é o pivô aqui.
+- C: Brachialis flexes the elbow; the wrist is not the main supination site. / Braquial flexiona o cotovelo; o punho não é o local principal da supinação.
+- D: Triceps extends the elbow and does not turn the forearm palm-up. / Tríceps estende o cotovelo e não vira o antebraço para cima.
+
+**Gancho:** The radius turns, not the wrist alone. / O rádio gira; não é só o punho.
+
+**Na prática:** Compare the turn with the elbow resting to reduce shoulder compensation. / Compare a rotação com o cotovelo apoiado para reduzir compensação do ombro.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H79 · supraspinatus · Superavançado
+
+**EN:** Cora, 52, has had difficulty lifting her arm sideways for seven weeks. The image shows lateral elevation with the elbow straight; which muscle both assists this movement and helps stabilize the humeral head in the socket?
+**PT:** Cora, 52 anos, tem dificuldade para elevar o braço lateralmente há sete semanas. A imagem mostra elevação lateral com cotovelo estendido; qual músculo ajuda nesse movimento e na estabilização da cabeça do úmero na articulação?
+
+- A. Supraspinatus / Supraespinal **[correta]**
+- B. Latissimus dorsi / Latíssimo do dorso
+- C. Pronator teres / Pronador redondo
+- D. Brachialis / Braquial
+
+**Por quê:** Supraspinatus assists shoulder abduction and is part of the rotator cuff that stabilizes the humeral head. Limited elevation alone does not diagnose a cuff tear. / O supraespinal ajuda na abdução do ombro e integra o manguito rotador, que estabiliza a cabeça do úmero. Elevação limitada isolada não diagnostica ruptura.
+
+**Outras alternativas:**
+- B: It chiefly extends and adducts the shoulder. / Ele faz sobretudo extensão e adução do ombro.
+- C: It rotates the forearm, not the humeral head. / Ele gira o antebraço, não a cabeça do úmero.
+- D: It flexes the elbow and does not stabilize the shoulder socket. / Ele flexiona o cotovelo e não estabiliza a articulação do ombro.
+
+**Gancho:** Side lift plus socket control. / Elevação lateral com controle da articulação.
+
+**Na prática:** Compare pain-free side elevation and avoid inferring a tear from one movement. / Compare elevação lateral sem dor e não conclua ruptura por um único movimento.
 
 **Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
 
@@ -5650,6 +6294,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Compare comfortable thumb-to-finger contact without forcing the base. / Compare contato confortável do polegar com os dedos sem forçar a base.
 
 **Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+
+### H68 · trunk-extension · Superavançado
+
+**EN:** Rae, 63, has had difficulty returning upright after bending forward for seven weeks. In the photos, she rises from a forward bend A to upright B. Focusing on the spinal component, which posterior muscle group contributes to trunk extension?
+**PT:** Rae, 63 anos, tem dificuldade para voltar à posição ereta após se inclinar à frente há sete semanas. Nas fotos, sai da flexão A e volta à posição ereta B. Considerando a parte da coluna, qual grupo posterior contribui para a extensão do tronco?
+
+- A. Erector spinae group; trunk extension / Grupo eretor da espinha; extensão do tronco **[correta]**
+- B. Rectus abdominis; trunk flexion / Reto abdominal; flexão do tronco
+- C. Hip adductors; trunk rotation / Adutores do quadril; rotação do tronco
+- D. Serratus anterior; scapular protraction / Serrátil anterior; protração escapular
+
+**Por quê:** The erector spinae group contributes to spinal extension. Rising from a bend also uses hip extensors, so the photo does not isolate one muscle or prove injury. / O grupo eretor da espinha participa da extensão da coluna. Levantar após se inclinar também usa extensores do quadril; a foto não isola um músculo nem prova lesão.
+
+**Outras alternativas:**
+- B: It assists the forward curl rather than the return to upright. / Ajuda na flexão à frente, não no retorno à posição ereta.
+- C: Those muscles act mainly on the femur, not this isolated trunk return. / Esses músculos atuam principalmente no fêmur, não nesse retorno isolado.
+- D: Moving the scapula is different from extending the spine. / Mover a escápula difere de estender a coluna.
+
+**Gancho:** Follow the spine during the return. / Acompanhe a coluna no retorno.
+
+**Na prática:** Record whether the hips also move during the return. / Registre se os quadris também se movem no retorno.
+
+**Fonte de consulta:** [OpenStax · músculos abdominais e torácicos](https://openstax.org/books/anatomy-and-physiology/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
+
+### H67 · trunk-flexion · Superavançado
+
+**EN:** Quinn, 56, has had trouble curling her upper trunk during gentle exercise for two months. In the photos, she lifts her head and shoulders from the mat while her pelvis stays down. Which muscle and plane best fit this movement?
+**PT:** Quinn, 56 anos, tem dificuldade para flexionar a parte alta do tronco em um exercício leve há dois meses. Nas fotos, eleva cabeça e ombros do colchonete enquanto a pelve permanece apoiada. Qual músculo e plano combinam com esse movimento?
+
+- A. Rectus abdominis; sagittal plane / Reto abdominal; plano sagital **[correta]**
+- B. Erector spinae; frontal plane / Eretores da espinha; plano frontal
+- C. Quadratus lumborum; transverse plane / Quadrado lombar; plano transversal
+- D. Rhomboids; sagittal plane / Romboides; plano sagital
+
+**Por quê:** Rectus abdominis contributes to trunk flexion in the sagittal plane. A small curl keeps the pelvis down and limits hip movement. / O reto abdominal participa da flexão do tronco no plano sagital. Uma flexão curta mantém a pelve apoiada e limita o movimento do quadril.
+
+**Outras alternativas:**
+- B: They chiefly extend the trunk, and the pictured bend is in the sagittal plane. / Eles sobretudo estendem o tronco, e a flexão mostrada está no plano sagital.
+- C: Its classic trunk action is lateral bending, not the forward curl shown. / Sua ação clássica é inclinação lateral, não a flexão anterior mostrada.
+- D: Rhomboids move the scapula rather than flex the trunk. / Romboides movem a escápula, não flexionam o tronco.
+
+**Gancho:** Separate trunk curl from hip hinge. / Separe flexão do tronco de dobrar o quadril.
+
+**Na prática:** Observe whether the shoulders rise while the pelvis stays supported. / Observe se os ombros sobem enquanto a pelve permanece apoiada.
+
+**Fonte de consulta:** [OpenStax · músculos abdominais e torácicos](https://openstax.org/books/anatomy-and-physiology/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
 
 ### H35 · two-joint-muscle · Superavançado
 
