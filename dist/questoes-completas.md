@@ -2,7 +2,7 @@
 
 Banco ativo: 262 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
 
-Questões autorais de treino; não são itens oficiais nem uma previsão do exame. Fontes são consultas por conceito. A origem editorial de 215 itens antigos não foi registrada.
+Questões autorais de treino; não são itens oficiais nem uma previsão do exame. Cada item traz a fonte consultada para seu conceito.
 
 ## Avaliação e plano
 
@@ -27,7 +27,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use simpler words, then ask the client to describe the proposed care. / Use palavras mais simples e peça ao cliente para descrever o atendimento proposto.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 17 · abmp · Superavançado
 
@@ -50,7 +50,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Tell the referring professional which service you can safely provide and who may help further. / Informe ao profissional que encaminhou qual serviço você pode oferecer e quem pode ajudar além disso.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### H03 · assessment · Superavançado
 
@@ -73,7 +73,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare the same movement actively and passively, without forcing either. / Compare o mesmo movimento ativo e passivo sem forçar nenhum.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 9 · clots · Avançado
 
@@ -96,7 +96,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain why the calf needs prompt medical assessment instead of starting massage. / Explique por que a panturrilha precisa de avaliação médica rápida em vez de iniciar a massagem.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### 8 · consent · Superavançado
 
@@ -119,7 +119,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Take your hands off before asking whether he wants another area treated. / Retire as mãos antes de perguntar se ele quer atender outra área.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### H05 · goals · Superavançado
 
@@ -142,7 +142,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask which daily activity she wants to manage more comfortably. / Pergunte qual atividade diária quer realizar com mais conforto.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 1 · intake · Superavançado
 
@@ -165,7 +165,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what changed since the booking, then document the answer. / Pergunte o que mudou desde a marcação e registre a resposta.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [MedlinePlus · dormência e formigamento](https://medlineplus.gov/ency/article/003206.htm)
+**Fonte de consulta:** [MedlinePlus · dormência e formigamento](https://medlineplus.gov/ency/article/003206.htm)
 
 ### H01 · intake · Superavançado
 
@@ -188,7 +188,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask when the weakness began and what tasks it affects. / Pergunte quando começou e quais tarefas prejudica.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [MedlinePlus · fraqueza](https://medlineplus.gov/ency/article/003174.htm)
+**Fonte de consulta:** [MedlinePlus · fraqueza](https://medlineplus.gov/ency/article/003174.htm)
 
 ### 5 · motion · Intermediário
 
@@ -211,7 +211,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask the client to raise the arm while you observe without assisting. / Peça ao cliente para elevar o braço enquanto você observa sem ajudar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 6 · motion · Intermediário
 
@@ -234,7 +234,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Support the arm and ask the client to relax before gently moving it. / Apoie o braço e peça relaxamento antes de movimentá-lo suavemente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 124 · motion · Superavançado
 
@@ -257,7 +257,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Document both comfortable ranges and the client's effort. / Registre as duas amplitudes confortáveis e o esforço do cliente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 135 · motion · Intermediário
 
@@ -280,7 +280,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Note base of support and any limp before he sits. / Anote base de apoio e qualquer claudicação antes de ele sentar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 185 · motion · Superavançado
 
@@ -303,7 +303,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare both sides without forcing the joint. / Compare os dois lados sem forçar a articulação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### F32 · motion · Avançado
 
@@ -326,7 +326,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Note degrees and where she reports discomfort. / Anote os graus e onde ela relata desconforto.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 7 · muscle · Avançado
 
@@ -349,7 +349,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain the direction of effort and agree on a comfortable resistance. / Explique a direção do esforço e combine uma resistência confortável.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### H04 · reassessment · Superavançado
 
@@ -372,7 +372,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask exactly when standing became harder and document both measures. / Pergunte quando ficar em pé piorou e registre as duas medidas.
 
-**Origem editorial:** síntese autoral · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 10 · rights · Intermediário
 
@@ -395,7 +395,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what happened in the fall and whether walking or bearing weight changed. / Pergunte como foi a queda e se houve mudança ao andar ou apoiar o peso.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 11 · rights · Avançado
 
@@ -418,7 +418,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Repeat the same movement under similar conditions and record the difference. / Repita o mesmo movimento em condições semelhantes e registre a diferença.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 12 · rights · Intermediário
 
@@ -441,7 +441,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask which driving movement is difficult and agree on how to reassess it. / Pergunte qual movimento ao dirigir é difícil e combine como reavaliá-lo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 13 · rights · Superavançado
 
@@ -464,7 +464,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Acknowledge the refusal and offer another appropriate option without pressure. / Acolha a recusa e ofereça outra opção adequada sem pressionar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 14 · rights · Avançado
 
@@ -487,7 +487,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Describe what will change and wait for agreement before placing your hands. / Descreva o que vai mudar e espere a concordância antes de tocar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 16 · rights · Avançado
 
@@ -510,7 +510,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask where the pain increased, how long it lasted and what activities changed. / Pergunte onde a dor aumentou, quanto durou e quais atividades mudaram.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F27 · rights · Intermediário
 
@@ -533,7 +533,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask onset, what worsens it, what he wants back. / Pergunte início, o que piora e o que ele quer recuperar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F28 · rights · Intermediário
 
@@ -556,7 +556,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask "less, same, or stop?" and follow the answer. / Pergunte "menos, igual ou parar?" e siga a resposta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F34 · rights · Avançado
 
@@ -579,7 +579,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Pick two measures and keep them fixed. / Escolha duas medidas e mantenha fixas.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F35 · rights · Intermediário
 
@@ -602,7 +602,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Remove, then ask if another area or pressure is fine. / Retire, depois pergunte se outra área ou pressão serve.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 2 · soap · Superavançado
 
@@ -625,7 +625,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Write his words separately from your measurement. / Registre as palavras dele separadas da sua medida.
 
-**Origem editorial:** síntese autoral · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### 3 · soap · Intermediário
 
@@ -648,7 +648,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record the measured shoulder angle and how you measured it. / Registre o ângulo medido do ombro e como fez a medida.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### 4 · soap · Intermediário
 
@@ -671,7 +671,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Set a reminder to repeat that movement check at the next visit. / Anote um lembrete para repetir a verificação na próxima visita.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### 118 · soap · Avançado
 
@@ -694,7 +694,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record the new pain description alongside the rotation measurement. / Registre a nova descrição da dor junto da medida de rotação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### 184 · soap · Avançado
 
@@ -717,7 +717,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Put measured or felt findings apart from what they may mean. / Separe achados medidos ou sentidos da interpretação deles.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### F29 · soap · Intermediário
 
@@ -740,7 +740,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Write her words, not your summary. / Escreva as palavras dela, não seu resumo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### F30 · soap · Intermediário
 
@@ -763,7 +763,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Separate the two before writing a single line. / Separe os dois antes de escrever uma linha.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### F31 · soap · Avançado
 
@@ -786,7 +786,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Date the reassessment so it actually happens. / Date a reavaliação para que ela aconteça.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### H02 · soap · Superavançado
 
@@ -809,7 +809,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record his exact task report beside the same rotation measure used last time. / Registre o relato da tarefa ao lado da mesma medida de rotação anterior.
 
-**Origem editorial:** síntese autoral · **Fonte:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ## Ética e limites
 
@@ -834,7 +834,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Give the client time to decline instead of using your authority to obtain agreement. / Dê tempo para o cliente recusar, sem usar sua autoridade para obter concordância.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 24 · abmp · Intermediário
 
@@ -857,7 +857,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain your contact hours and how requests outside sessions are handled. / Explique seus horários de contato e como trata pedidos fora das sessões.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 25 · abmp · Avançado
 
@@ -880,7 +880,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Before bartering, consider whether being each other’s customer could affect professional decisions. / Antes da permuta, considere se a relação comercial pode afetar decisões profissionais.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 28 · abmp · Intermediário
 
@@ -903,7 +903,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** State the professional boundary clearly when a sexual request arises. / Declare claramente o limite profissional quando surgir um pedido sexual.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 32 · abmp · Superavançado
 
@@ -926,7 +926,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Decline the requested special access and explain the policy you apply consistently. / Recuse o acesso especial solicitado e explique a política que aplica de forma consistente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 144 · abmp · Superavançado
 
@@ -949,7 +949,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Say it on the first visit and again if rent comes up. / Diga na primeira visita e de novo se o aluguel surgir.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### F24 · abmp · Avançado
 
@@ -972,7 +972,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain the policy you actually apply to everyone. / Explique a política que você aplica a todos.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### H08 · boundaries · Superavançado
 
@@ -995,7 +995,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask how today’s session can support the agreed goal. / Pergunte como a sessão de hoje pode atender à meta combinada.
 
-**Origem editorial:** print + fonte · **Fonte:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
+**Fonte de consulta:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
 
 ### 19 · consent · Superavançado
 
@@ -1018,7 +1018,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask him to describe his comfort and stop if he changes his mind. / Pergunte sobre conforto e pare se ele mudar de ideia.
 
-**Origem editorial:** síntese autoral · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 20 · draping · Superavançado
 
@@ -1041,7 +1041,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain the change before moving the sheet. / Explique a mudança antes de mover o lençol.
 
-**Origem editorial:** print + fonte · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### H09 · draping · Superavançado
 
@@ -1064,7 +1064,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask permission before moving the drape again. / Peça permissão antes de mover o lençol novamente.
 
-**Origem editorial:** print + fonte · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 26 · ethics · Superavançado
 
@@ -1087,7 +1087,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Discuss the sale using appropriate nonidentifying information while checking disclosure requirements. / Converse sobre a venda usando informações não identificáveis adequadas enquanto verifica exigências de divulgação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 29 · ethics · Intermediário
 
@@ -1110,7 +1110,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** List only qualifications you actually hold when describing your services. / Liste apenas qualificações que realmente possui ao descrever seus serviços.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 31 · ethics · Avançado
 
@@ -1133,7 +1133,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Tell your friend that you do not discuss whether anyone receives your services. / Diga ao amigo que você não comenta se alguém recebe seus serviços.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 133 · ethics · Avançado
 
@@ -1156,7 +1156,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep a one-paragraph image release ready. / Tenha uma autorização de imagem de um parágrafo pronta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 139 · ethics · Intermediário
 
@@ -1179,7 +1179,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep a two-line image release in the folder. / Tenha uma autorização de imagem de duas linhas na pasta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 145 · ethics · Superavançado
 
@@ -1202,7 +1202,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Write only what you saw and did. / Escreva só o que viu e fez.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 148 · ethics · Superavançado
 
@@ -1225,7 +1225,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Review the site every renewal cycle. / Revise o site a cada ciclo de renovação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### F15 · ethics · Avançado
 
@@ -1248,7 +1248,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Redirect without making her feel dismissed. / Redirecione sem fazê-la se sentir dispensada.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### F23 · ethics · Avançado
 
@@ -1271,7 +1271,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask the board or a lawyer what must be in the sale terms. / Pergunte ao conselho ou a um advogado o que deve constar no contrato.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 141 · ftc · Avançado
 
@@ -1294,7 +1294,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** If offering an incentive, put the no-rating-condition and disclosure in writing. / Se oferecer incentivo, registre por escrito a ausência de exigência de nota e a divulgação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [FTC · avaliações e depoimentos](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
+**Fonte de consulta:** [FTC · avaliações e depoimentos](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
 
 ### H07 · records · Superavançado
 
@@ -1317,7 +1317,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use the office’s release process rather than a verbal assumption. / Use o processo de divulgação do estabelecimento, não suposição verbal.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### H06 · reviews · Superavançado
 
@@ -1340,7 +1340,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Say reviews are welcome regardless of rating and never tie a discount to praise. / Diga que avaliações são bem-vindas independentemente da nota e nunca vincule desconto a elogio.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [FTC · avaliações e depoimentos](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
+**Fonte de consulta:** [FTC · avaliações e depoimentos](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
 
 ### 27 · rights · Avançado
 
@@ -1363,7 +1363,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Pause touch and ask whether the client would prefer space, a break or ending the session. / Pause o toque e pergunte se o cliente prefere espaço, uma pausa ou encerrar a sessão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 30 · rights · Superavançado
 
@@ -1386,7 +1386,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Before answering, identify which option removes the client’s continuing choice. / Antes de responder, identifique qual opção elimina a escolha contínua do cliente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 112 · rights · Intermediário
 
@@ -1409,7 +1409,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask Nina whether the proposed abdominal opening is comfortable before adjusting the sheet, leaving both legs covered. / Pergunte a Nina se a abertura abdominal proposta é confortável antes de ajustar o lençol, mantendo ambas as pernas cobertas.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 117 · rights · Superavançado
 
@@ -1432,7 +1432,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Move your hands away and ask if she prefers to end the session. / Afaste as mãos e pergunte se ela prefere encerrar a sessão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 123 · rights · Superavançado
 
@@ -1455,7 +1455,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Before adjusting the sheet, repeat the coverage request in your own words. / Antes de ajustar o lençol, repita o pedido de cobertura com suas palavras.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 132 · rights · Avançado
 
@@ -1478,7 +1478,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Get the guardian signature and phone before he undresses. / Pegue assinatura e telefone do responsável antes de ele se despir.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 138 · rights · Intermediário
 
@@ -1501,7 +1501,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask once, then work within the answer. / Pergunte uma vez e trabalhe dentro da resposta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 140 · rights · Avançado
 
@@ -1524,7 +1524,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Have the copy routine ready before anyone asks. / Tenha a rotina de cópia pronta antes de alguém pedir.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 143 · rights · Avançado
 
@@ -1547,7 +1547,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use a gentle verbal check before altering pressure. / Faça checagem verbal suave antes de alterar a pressão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 146 · rights · Superavançado
 
@@ -1570,7 +1570,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Eye contact on her, then on the daughter. / Olho nela, depois na filha.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F16 · rights · Avançado
 
@@ -1593,7 +1593,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Reconfirm before changing area, pressure or technique. / Reconfirme antes de mudar área, pressão ou técnica.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F20 · rights · Intermediário
 
@@ -1616,7 +1616,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Name the area, fold once, anchor at the far hip. / Nomeie a área, dobre uma vez, firme no quadril oposto.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F21 · rights · Avançado
 
@@ -1639,7 +1639,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** If the work cannot fit her limits, agree on another plan. / Se o trabalho não couber nos limites, combinem outro plano.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F22 · rights · Intermediário
 
@@ -1662,7 +1662,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Thank him and offer an alternative. / Agradeça e ofereça alternativa.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### F25 · rights · Intermediário
 
@@ -1685,7 +1685,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Say you do not comment on who you attend. / Diga que não comenta quem você atende.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 18 · scope · Superavançado
 
@@ -1708,7 +1708,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** State the limit plainly and offer an appropriate referral. / Explique o limite claramente e ofereça encaminhamento adequado.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### H10 · scope · Superavançado
 
@@ -1731,7 +1731,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what restrictions his treating clinician provided. / Pergunte quais limites o profissional que o acompanha indicou.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [Nevada · requisitos de licenciamento](https://www.massagetherapy.nv.gov/applicants/applicants-faqs/)
+**Fonte de consulta:** [Nevada · requisitos de licenciamento](https://www.massagetherapy.nv.gov/applicants/applicants-faqs/)
 
 ### 147 · tax · Superavançado
 
@@ -1754,7 +1754,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Write the total on the receipt. / Escreva o total no recibo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
+**Fonte de consulta:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
 
 ### 21 · transfer · Intermediário
 
@@ -1777,7 +1777,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Maintain clear limits if a client assigns you a parental role; avoid interpreting their history. / Mantenha limites claros se o cliente lhe atribuir papel parental; evite interpretar sua história.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
+**Fonte de consulta:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
 
 ### 22 · transfer · Intermediário
 
@@ -1800,7 +1800,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Notice whether memories of your relative are changing how you treat this client. / Observe se lembranças do seu parente estão mudando como você atende esse cliente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
+**Fonte de consulta:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
 
 ### 142 · transfer · Avançado
 
@@ -1823,7 +1823,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Answer, then name the next area. / Responda e nomeie a próxima área.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
+**Fonte de consulta:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
 
 ## Efeitos e técnicas
 
@@ -1848,7 +1848,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Note heart rate and breathing before and after. / Registre pulso e respiração antes e depois.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### H13 · manual-technique · Superavançado
 
@@ -1871,7 +1871,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what the client hoped to improve and choose a tolerable approach. / Pergunte o que ele queria melhorar e escolha abordagem tolerável.
 
-**Origem editorial:** síntese autoral · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### H14 · manual-technique · Superavançado
 
@@ -1894,7 +1894,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Agree on pace and pressure before starting the back work. / Combine ritmo e pressão antes de iniciar o trabalho nas costas.
 
-**Origem editorial:** síntese autoral · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### H15 · manual-technique · Superavançado
 
@@ -1917,7 +1917,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask how the sustained contact feels before increasing depth. / Pergunte como o contato sustentado é percebido antes de aprofundar.
 
-**Origem editorial:** print + fonte · **Fonte:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
+**Fonte de consulta:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
 
 ### 39 · massage · Intermediário
 
@@ -1940,7 +1940,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Describe a possible benefit without promising that every client will improve. / Descreva um benefício possível sem prometer melhora para todos os clientes.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 40 · massage · Avançado
 
@@ -1963,7 +1963,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record what changed today and ask about the response at the next visit. / Registre o que mudou hoje e pergunte sobre a resposta na próxima visita.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 42 · massage · Avançado
 
@@ -1986,7 +1986,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Cross out claims promising lasting relief when comparing realistic expectations. / Elimine promessas de alívio duradouro ao comparar expectativas realistas.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 46 · massage · Avançado
 
@@ -2009,7 +2009,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask how the soreness affected daily activities and adjust the next session accordingly. / Pergunte como a dor posterior afetou as atividades diárias e ajuste a próxima sessão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 181 · massage · Avançado
 
@@ -2032,7 +2032,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Rebook after the illness resolves according to current guidance. / Remarque após melhora da doença conforme orientação vigente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F46 · massage · Avançado
 
@@ -2055,7 +2055,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Say "may help" instead of "will fix". / Diga "pode ajudar" em vez de "vai resolver".
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F48 · massage · Avançado
 
@@ -2078,7 +2078,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Agree on a comfort scale and check as you go. / Combine escala de conforto e cheque durante.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F64 · massage · Avançado
 
@@ -2101,7 +2101,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Empty the groin before touching the ankle. / Esvazie a virilha antes de encostar no tornozelo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 183 · motion · Superavançado
 
@@ -2124,7 +2124,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask where the stretch is felt and stop before pain. / Pergunte onde sente alongar e pare antes da dor.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 43 · myofascial · Avançado
 
@@ -2147,7 +2147,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use the tissue target and sustained contact to distinguish the approach in the vignette. / Use o tecido-alvo e o contato sustentado para distinguir a abordagem da vinheta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
+**Fonte de consulta:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
 
 ### 182 · myofascial · Superavançado
 
@@ -2170,7 +2170,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Reduce pressure and allow time for feedback. / Reduza a pressão e dê tempo para receber retorno.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
+**Fonte de consulta:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
 
 ### 47 · pain · Superavançado
 
@@ -2193,7 +2193,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what medication was taken and reassess tissue tolerance before deeper work. / Pergunte qual medicamento foi usado e reavalie a tolerância antes de trabalho mais profundo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · analgésicos](https://medlineplus.gov/painrelievers.html)
+**Fonte de consulta:** [MedlinePlus · analgésicos](https://medlineplus.gov/painrelievers.html)
 
 ### F47 · pain · Avançado
 
@@ -2216,7 +2216,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask when she took it and reassess tolerance. / Pergunte quando tomou e reavalie a tolerância.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · analgésicos](https://medlineplus.gov/painrelievers.html)
+**Fonte de consulta:** [MedlinePlus · analgésicos](https://medlineplus.gov/painrelievers.html)
 
 ### 41 · rights · Intermediário
 
@@ -2239,7 +2239,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask whether the client wants less pressure, another approach or a stop. / Pergunte se o cliente quer menos pressão, outra abordagem ou uma interrupção.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 33 · techniques · Superavançado
 
@@ -2262,7 +2262,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about pressure after the first short stroke. / Pergunte sobre pressão após a primeira manobra curta.
 
-**Origem editorial:** print + fonte · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 34 · techniques · Superavançado
 
@@ -2285,7 +2285,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Demonstrate a brief gentle knead and ask how it feels. / Demonstre breve amassamento suave e pergunte como se sente.
 
-**Origem editorial:** print + fonte · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 35 · techniques · Superavançado
 
@@ -2308,7 +2308,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask whether he prefers a slower, lighter alternative. / Pergunte se prefere alternativa mais lenta e leve.
 
-**Origem editorial:** print + fonte · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 36 · techniques · Intermediário
 
@@ -2331,7 +2331,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Notice the small repeated oscillations at the contact point. / Observe as pequenas oscilações repetidas no ponto de contato.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 37 · techniques · Intermediário
 
@@ -2354,7 +2354,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Separate pressure directed into tissue from a stroke that moves along it. / Diferencie a pressão dirigida ao tecido de um movimento que percorre sua superfície.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 38 · techniques · Intermediário
 
@@ -2377,7 +2377,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Identify the localized rubbing rather than following the length of a limb. / Identifique o movimento localizado, em vez de um percurso pelo comprimento do membro.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 119 · techniques · Avançado
 
@@ -2400,7 +2400,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use a brief stroke, then ask whether its pace feels comfortable. / Faça uma manobra breve e pergunte se o ritmo está confortável.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 137 · techniques · Avançado
 
@@ -2423,7 +2423,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Cup the hand and keep the wrist loose over muscle. / Faça a mão em concha e mantenha o punho solto sobre o músculo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 178 · techniques · Intermediário
 
@@ -2446,7 +2446,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Try a brief comfortable kneading contact and ask for feedback. / Teste contato breve e confortável de amassamento e peça retorno.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 179 · techniques · Avançado
 
@@ -2469,7 +2469,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use only small, comfortable movement if the scar is fully healed. / Use só movimento pequeno e confortável se a cicatriz estiver totalmente curada.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### F63 · techniques · Intermediário
 
@@ -2492,7 +2492,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Say the sequence out loud before you start. / Diga a sequência em voz alta antes de começar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### H11 · temperature · Superavançado
 
@@ -2515,7 +2515,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Check skin sensation and use a barrier before any cold pack. / Cheque a sensibilidade da pele e use barreira antes de bolsa fria.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### H12 · temperature · Superavançado
 
@@ -2538,7 +2538,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Offer a nonthermal foot option and document the sensory finding. / Ofereça opção sem calor para os pés e registre o achado sensorial.
 
-**Origem editorial:** síntese autoral · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### 101 · thermal · Intermediário
 
@@ -2561,7 +2561,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Before using a wrapped cold pack, check sensation and skin, and leave the injured ankle out of the massage plan. / Antes da compressa fria protegida, confira sensibilidade e pele e retire o tornozelo lesionado do plano de massagem.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### 102 · thermal · Intermediário
 
@@ -2584,7 +2584,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask Luis how the protected warm pack feels, then reassess comfortable neck movement before beginning. / Pergunte a Luis como sente a compressa morna protegida e reavalie o movimento cervical confortável antes de começar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### 103 · thermal · Avançado
 
@@ -2607,7 +2607,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Remove the cold pack from the plan and document the pale, cold fingers and referral advice. / Retire a compressa fria do plano e registre os dedos pálidos e frios e a orientação de encaminhamento.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### 180 · thermal · Avançado
 
@@ -2630,7 +2630,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Protect the skin and check sensation before brief cold contact. / Proteja a pele e confira sensibilidade antes de contato breve com frio.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### F44 · thermal · Intermediário
 
@@ -2653,7 +2653,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Wrapped pack, ten minutes, check between. / Compressa protegida, dez minutos, cheque entre.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ### F45 · thermal · Intermediário
 
@@ -2676,7 +2676,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask how the pack feels, then reassess movement. / Pergunte como a compressa é sentida e reavalie o movimento.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ## Prática profissional
 
@@ -2701,7 +2701,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Check the client’s plan and documentation requirements before discussing reimbursement. / Confira o plano do cliente e as exigências de documentação antes de discutir reembolso.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### H18 · body-mechanics · Superavançado
 
@@ -2724,7 +2724,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Lower or raise the table before trying more depth. / Ajuste a altura da maca antes de tentar mais profundidade.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
+**Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
 ### 49 · cdc · Intermediário
 
@@ -2747,7 +2747,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Check whether the item’s intended use requires sterilization rather than surface disinfection. / Confira se o uso do item exige esterilização em vez de desinfecção de superfície.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### 50 · cdc · Intermediário
 
@@ -2770,7 +2770,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** After removing soil, apply a product suitable for that surface according to its label. / Após remover sujeira, aplique produto adequado à superfície conforme o rótulo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### 51 · cdc · Avançado
 
@@ -2793,7 +2793,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the contact time before starting and keep the surface wet for that period. / Leia o tempo de contato antes de começar e mantenha a superfície molhada por esse período.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### 114 · cdc · Avançado
 
@@ -2816,7 +2816,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Place the phone aside until its surface has been cleaned appropriately. / Separe o celular até limpar a superfície adequadamente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### 121 · cdc · Avançado
 
@@ -2839,7 +2839,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the label before scheduling the room's next use. / Leia o rótulo antes de liberar a sala para o próximo atendimento.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### 134 · cdc · Intermediário
 
@@ -2862,7 +2862,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep a lidded bin and a separate bag. / Mantenha lixeira com tampa e saco separado.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### F37 · cdc · Intermediário
 
@@ -2885,7 +2885,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Match the process to the item, not to habit. / Case o processo ao item, não ao hábito.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### F38 · cdc · Intermediário
 
@@ -2908,7 +2908,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the label before you start, not after. / Leia o rótulo antes de começar, não depois.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### F36 · cleaning · Superavançado
 
@@ -2931,7 +2931,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Leave enough turnover time for both steps, even if the appointment must wait. / Reserve tempo para as duas etapas, mesmo que a sessão precise esperar.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### H19 · draping · Superavançado
 
@@ -2954,7 +2954,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Show where the drape will stay and ask whether she agrees. / Mostre onde a cobertura ficará e pergunte se ela concorda.
 
-**Origem editorial:** print + fonte · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 56 · ethics · Intermediário
 
@@ -2977,7 +2977,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Document the relevant findings, what you did and how the client responded. / Documente achados relevantes, o que você fez e como o cliente respondeu.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 57 · ethics · Superavançado
 
@@ -3000,7 +3000,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Add a dated correction that identifies the original error without concealing it. / Acrescente correção datada que identifique o erro original sem ocultá-lo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 60 · ethics · Superavançado
 
@@ -3023,7 +3023,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask the authorized administrator to provide individual access instead of sharing your password. / Peça ao administrador autorizado um acesso individual em vez de compartilhar sua senha.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 127 · ethics · Superavançado
 
@@ -3046,7 +3046,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Write the date of any addendum and preserve the original entry. / Anote a data de qualquer adendo e preserve a entrada original.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### F40 · ethics · Avançado
 
@@ -3069,7 +3069,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Initial and date the correction, never backdate. / Rubrique e date a correção, nunca retroaja.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
 ### 61 · exam · Superavançado
 
@@ -3092,7 +3092,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Check the state board’s remaining requirements before advertising yourself as licensed. / Confira exigências restantes do conselho antes de se anunciar como profissional licenciado.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [FSMTB · Manual 2026](https://fsmtb.org/wp-content/uploads/2026/09/MBLEx-Candidate-Handbook-2026.pdf)
+**Fonte de consulta:** [FSMTB · Manual 2026](https://fsmtb.org/wp-content/uploads/2026/09/MBLEx-Candidate-Handbook-2026.pdf)
 
 ### 52 · fees · Superavançado
 
@@ -3115,7 +3115,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** State the fee and what has not been verified in plain words. / Diga o valor e o que ainda não foi confirmado em palavras simples.
 
-**Origem editorial:** síntese autoral · **Fonte:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 58 · insurance · Avançado
 
@@ -3138,7 +3138,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the policy’s professional liability section when checking coverage for treatment-related allegations. / Leia a seção de responsabilidade profissional ao conferir cobertura de alegações sobre atendimento.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · seguros e coberturas](https://www.abmp.com/massage-liability-insurance)
+**Fonte de consulta:** [ABMP · seguros e coberturas](https://www.abmp.com/massage-liability-insurance)
 
 ### F41 · insurance · Intermediário
 
@@ -3161,7 +3161,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the policy before there is a claim, not after. / Leia a apólice antes da reclamação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ABMP · seguros e coberturas](https://www.abmp.com/massage-liability-insurance)
+**Fonte de consulta:** [ABMP · seguros e coberturas](https://www.abmp.com/massage-liability-insurance)
 
 ### 109 · mechanics · Intermediário
 
@@ -3184,7 +3184,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Before the next stroke, Julia changes table height, walks to the near side and checks that her shoulders stay relaxed. / Antes da próxima manobra, Julia ajusta a mesa, caminha para o lado próximo e confere se os ombros ficam relaxados.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
+**Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
 ### 186 · mechanics · Avançado
 
@@ -3207,7 +3207,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Set your feet and grip before lifting the folded table. / Posicione os pés e a pega antes de levantar a maca dobrável.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
+**Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
 ### F39 · mechanics · Intermediário
 
@@ -3230,7 +3230,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Adjust height before the first stroke, not after the pain. / Ajuste a altura antes da primeira manobra.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
+**Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
 ### 108 · ppe · Intermediário
 
@@ -3253,7 +3253,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Set the affected area aside in the plan and put on suitable gloves before handling any contaminated linen. / Exclua a área afetada do plano e coloque luvas adequadas antes de manusear roupa contaminada.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
 
 ### F42 · ppe · Avançado
 
@@ -3276,7 +3276,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Clean, then disinfect, with the label time. / Limpe, depois desinfete, com o tempo do rótulo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
 
 ### H16 · ppe · Superavançado
 
@@ -3299,7 +3299,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Place used linen in the designated container before approaching clean stock. / Coloque a roupa usada no recipiente adequado antes de ir ao estoque limpo.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
 
 ### 59 · rights · Avançado
 
@@ -3322,7 +3322,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain how late arrival affects session length under the policy already communicated. / Explique como o atraso afeta a duração da sessão conforme a política já informada.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### H17 · sanitation · Superavançado
 
@@ -3345,7 +3345,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Allow the next client to wait until the table is ready. / Peça ao próximo cliente que aguarde a maca ficar pronta.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### 187 · surfaces · Superavançado
 
@@ -3368,7 +3368,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the table and stool manufacturer instructions before selecting a product. / Leia as instruções da maca e do banco antes de escolher o produto.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpar e desinfetar instalações](https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html)
+**Fonte de consulta:** [CDC · limpar e desinfetar instalações](https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html)
 
 ### 53 · tax · Intermediário
 
@@ -3391,7 +3391,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record the fair market value of the goods received in the exchange. / Registre o valor justo de mercado dos bens recebidos na troca.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
+**Fonte de consulta:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
 
 ### 54 · tax · Avançado
 
@@ -3414,7 +3414,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Separate the value reported as income from the tax calculation on that income. / Separe o valor declarado como renda do cálculo do imposto sobre essa renda.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
+**Fonte de consulta:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
 
 ## Patologia e precauções
 
@@ -3439,7 +3439,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask when bruises appeared and whether the prescriber knows. / Pergunte quando surgiram e se o prescritor sabe.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [NHS · sangramento com anticoagulantes](https://www.nhs.uk/medicines/anticoagulants/side-effects/)
+**Fonte de consulta:** [NHS · sangramento com anticoagulantes](https://www.nhs.uk/medicines/anticoagulants/side-effects/)
 
 ### 155 · bleeding · Superavançado
 
@@ -3462,7 +3462,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask whether the episode was medically assessed, and defer care until it is addressed. / Pergunte se houve avaliação médica e adie o atendimento até isso ser resolvido.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS · sangramento com anticoagulantes](https://www.nhs.uk/medicines/anticoagulants/side-effects/)
+**Fonte de consulta:** [NHS · sangramento com anticoagulantes](https://www.nhs.uk/medicines/anticoagulants/side-effects/)
 
 ### 158 · bloodpressure · Superavançado
 
@@ -3485,7 +3485,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Have her rest quietly before repeating the reading and record both values. / Peça repouso antes de repetir a medida e registre os dois valores.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [American Heart Association · categorias de pressão arterial](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)
+**Fonte de consulta:** [MedlinePlus · categorias de pressão arterial](https://www.medlineplus.gov/highbloodpressure.html)
 
 ### 154 · cdc · Avançado
 
@@ -3508,7 +3508,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Avoid direct work on the affected skin and use appropriate hygiene precautions. / Evite trabalho direto na pele afetada e siga os cuidados de higiene.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
 ### H22 · clot-risk · Superavançado
 
@@ -3531,7 +3531,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep her safe and supported while help is called. / Mantenha-a segura e apoiada enquanto chama ajuda.
 
-**Origem editorial:** print + fonte · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### 69 · clots · Superavançado
 
@@ -3554,7 +3554,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Defer the requested massage and explain why new postoperative swelling needs prompt assessment. / Adie a massagem pedida e explique por que o novo inchaço após cirurgia exige avaliação rápida.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### 75 · clots · Superavançado
 
@@ -3577,7 +3577,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Prioritize emergency assistance over routine session concerns when chest pain accompanies sudden breathlessness. / Priorize assistência de emergência quando a dor no peito acompanha falta de ar súbita.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### 113 · clots · Superavançado
 
@@ -3600,7 +3600,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep the client supported while emergency help is called. / Mantenha a cliente apoiada enquanto chama a emergência.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### F01 · clots · Avançado
 
@@ -3623,7 +3623,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain why you are not starting and who she should see. / Explique por que não vai começar e a quem ela deve recorrer.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### 63 · drugs · Intermediário
 
@@ -3646,7 +3646,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about bruising and relevant medical instructions before selecting pressure. / Pergunte sobre hematomas e orientações médicas pertinentes antes de escolher a pressão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
+**Fonte de consulta:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
 
 ### 120 · drugs · Superavançado
 
@@ -3669,7 +3669,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask when the bruise appeared and record its location without pressing it. / Pergunte quando o hematoma apareceu e registre a localização sem pressioná-lo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
+**Fonte de consulta:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
 
 ### 153 · drugs · Avançado
 
@@ -3692,7 +3692,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Listen to the breathing, ask how the effort feels. / Ouça a respiração, pergunte como o esforço parece.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
+**Fonte de consulta:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
 
 ### 62 · emergency · Superavançado
 
@@ -3715,7 +3715,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use the local emergency number and stay with him until help arrives. / Use o número local de emergência e permaneça com ele até chegar ajuda.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
 ### 130 · hypo · Superavançado
 
@@ -3738,7 +3738,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep the emergency plan and a fast sugar source ready. / Mantenha plano de emergência e açúcar de absorção rápida à mão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · hipoglicemia](https://www.cdc.gov/diabetes/treatment/treatment-low-blood-sugar-hypoglycemia.html)
+**Fonte de consulta:** [CDC · hipoglicemia](https://www.cdc.gov/diabetes/treatment/treatment-low-blood-sugar-hypoglycemia.html)
 
 ### H20 · infection · Superavançado
 
@@ -3761,7 +3761,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Offer a new appointment after symptoms improve according to current guidance. / Ofereça nova data após melhora conforme orientação vigente.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [CDC · sintomas respiratórios](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html)
+**Fonte de consulta:** [CDC · sintomas respiratórios](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html)
 
 ### 156 · injection · Superavançado
 
@@ -3784,7 +3784,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask for the injection aftercare instructions before treating the shoulder. / Peça as orientações após a injeção antes de tratar o ombro.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS · cuidados após injeção de corticoide](https://www.southtees.nhs.uk/resources/steroid-injection-patient-advice/)
+**Fonte de consulta:** [NHS · cuidados após injeção de corticoide](https://www.southtees.nhs.uk/resources/steroid-injection-patient-advice/)
 
 ### 131 · lymphedema · Superavançado
 
@@ -3807,7 +3807,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the instructions and confirm who manages compression. / Leia as orientações e confirme quem cuida da compressão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS · tratamento do linfedema](https://www.nhs.uk/conditions/lymphoedema/treatment/)
+**Fonte de consulta:** [NHS · tratamento do linfedema](https://www.nhs.uk/conditions/lymphoedema/treatment/)
 
 ### 65 · massage · Intermediário
 
@@ -3830,7 +3830,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain that the session should be postponed while the acute illness is assessed. / Explique que a sessão deve ser adiada enquanto o quadro agudo é avaliado.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 66 · massage · Intermediário
 
@@ -3853,7 +3853,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask how the bruise appeared and avoid pressing directly over it. / Pergunte como surgiu o hematoma e evite pressioná-lo diretamente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 67 · massage · Avançado
 
@@ -3876,7 +3876,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Adjust positioning and avoid forceful contacts over vulnerable bony areas. / Ajuste o posicionamento e evite contatos intensos sobre regiões ósseas vulneráveis.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 68 · massage · Avançado
 
@@ -3899,7 +3899,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Do not use the absence of pain as the only check on heat or pressure. / Não use a ausência de dor como única verificação de calor ou pressão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 71 · massage · Intermediário
 
@@ -3922,7 +3922,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep massage products and direct manipulation away from the open wound. / Mantenha produtos de massagem e manipulação direta longe da ferida aberta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 72 · massage · Superavançado
 
@@ -3945,7 +3945,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about the new symptom before relying on the previous treatment plan. / Pergunte sobre o novo sintoma antes de confiar no plano anterior.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 125 · massage · Superavançado
 
@@ -3968,7 +3968,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain the reason for postponing without guessing the diagnosis. / Explique o adiamento sem tentar adivinhar o diagnóstico.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 128 · massage · Superavançado
 
@@ -3991,7 +3991,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Clear nearby objects and note the start time. / Afaste objetos próximos e anote o horário de início.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 129 · massage · Avançado
 
@@ -4014,7 +4014,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Trace the vein with light glide before adding pressure. / Trace a veia com deslizamento leve antes de somar pressão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 151 · massage · Avançado
 
@@ -4037,7 +4037,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Light pressure, frequent check. / Pressão leve, checagem frequente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 157 · massage · Superavançado
 
@@ -4060,7 +4060,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask fever, cough and body aches in the same breath. / Pergunte febre, tosse e dor no corpo na mesma frase.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 159 · massage · Superavançado
 
@@ -4083,7 +4083,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about discomfort and avoid deep pressure near the tender axilla. / Pergunte sobre desconforto e evite pressão profunda perto da axila sensível.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F08 · massage · Intermediário
 
@@ -4106,7 +4106,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Bolster under the chest and keep pressure broad. / Apoio sob o tórax e pressão ampla.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F09 · massage · Intermediário
 
@@ -4129,7 +4129,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Choose a nonthermal option for the feet and document the reduced sensation. / Escolha uma opção sem calor para os pés e registre a sensibilidade reduzida.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F10 · massage · Avançado
 
@@ -4152,7 +4152,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about the port, nausea timing and current precautions. / Pergunte sobre o cateter, a náusea e as precauções atuais.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### H23 · oncology · Superavançado
 
@@ -4175,7 +4175,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask whether her oncology team has addressed the bleeding. / Pergunte se a equipe oncológica já avaliou o sangramento.
 
-**Origem editorial:** síntese autoral · **Fonte:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### F06 · ppe · Intermediário
 
@@ -4198,7 +4198,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Gloves on, area out of the plan, hands washed after. / Luvas, área fora do plano, mãos lavadas depois.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
 
 ### 64 · pregnancy · Superavançado
 
@@ -4221,7 +4221,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Build support before she gets on the table, then ask about comfort. / Monte o apoio antes de ela subir na maca e pergunte sobre conforto.
 
-**Origem editorial:** print + fonte · **Fonte:** [ACOG · massagem na gestação](https://www.acog.org/womens-health/experts-and-stories/ask-acog/can-i-get-a-massage-while-pregnant)
+**Fonte de consulta:** [Cleveland Clinic · massagem pré-natal](https://health.clevelandclinic.org/prenatal-massage)
 
 ### 152 · pregnancy · Avançado
 
@@ -4244,7 +4244,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about nausea, dizziness and preferred support before starting. / Pergunte sobre náusea, tontura e apoio preferido antes de começar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ACOG · massagem na gestação](https://www.acog.org/womens-health/experts-and-stories/ask-acog/can-i-get-a-massage-while-pregnant)
+**Fonte de consulta:** [Cleveland Clinic · massagem pré-natal](https://health.clevelandclinic.org/prenatal-massage)
 
 ### F07 · pregnancy · Avançado
 
@@ -4267,7 +4267,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Build the support before she climbs on the table. / Monte o apoio antes de ela subir na maca.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [ACOG · massagem na gestação](https://www.acog.org/womens-health/experts-and-stories/ask-acog/can-i-get-a-massage-while-pregnant)
+**Fonte de consulta:** [Cleveland Clinic · massagem pré-natal](https://health.clevelandclinic.org/prenatal-massage)
 
 ### 73 · pressure · Avançado
 
@@ -4290,7 +4290,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Help the client remain supported and do not let them walk alone while dizzy. / Ajude o cliente a permanecer apoiado e não o deixe caminhar sozinho enquanto estiver tonto.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · anti-hipertensivos](https://medlineplus.gov/ency/article/007484.htm)
+**Fonte de consulta:** [MedlinePlus · anti-hipertensivos](https://medlineplus.gov/ency/article/007484.htm)
 
 ### F11 · pressure · Avançado
 
@@ -4313,7 +4313,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Sit him up slowly, feet down, wait before he stands. / Sente devagar, pés para baixo, espere antes de levantar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · anti-hipertensivos](https://medlineplus.gov/ency/article/007484.htm)
+**Fonte de consulta:** [MedlinePlus · anti-hipertensivos](https://medlineplus.gov/ency/article/007484.htm)
 
 ### 149 · respiratory · Intermediário
 
@@ -4336,7 +4336,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask when the cough and runny nose began and whether they are improving. / Pergunte quando começaram a tosse e a coriza e se estão melhorando.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [CDC · sintomas respiratórios](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html)
+**Fonte de consulta:** [CDC · sintomas respiratórios](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html)
 
 ### 70 · rights · Avançado
 
@@ -4359,7 +4359,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Release the stretch and ask where and when the sharp pain began. / Interrompa o alongamento e pergunte onde e quando a dor aguda começou.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 74 · steroid · Superavançado
 
@@ -4382,7 +4382,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask about easy bruising and use gentler handling without changing the prescribed drug. / Pergunte sobre hematomas fáceis e use manejo mais suave sem alterar o medicamento prescrito.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [MedlinePlus · prednisona](https://medlineplus.gov/druginfo/meds/a601102.html)
+**Fonte de consulta:** [MedlinePlus · prednisona](https://medlineplus.gov/druginfo/meds/a601102.html)
 
 ### 150 · thermal · Intermediário
 
@@ -4405,7 +4405,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Look at the skin before you touch it. / Olhe a pele antes de tocar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+**Fonte de consulta:** [NHS Gloucestershire · calor, frio e precauções](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
 
 ## Cinesiologia
 
@@ -4430,7 +4430,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record the movement and avoid treating it as a diagnosis. / Registre o movimento sem transformá-lo em diagnóstico.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCBI Bookshelf · músculos abdutores do ombro](https://www.ncbi.nlm.nih.gov/books/NBK537148/)
+**Fonte de consulta:** [NCBI Bookshelf · músculos abdutores do ombro](https://www.ncbi.nlm.nih.gov/books/NBK537148/)
 
 ### F49 · abduction · Superavançado
 
@@ -4453,7 +4453,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record both active and passive ranges and refer unexplained weakness. / Registre amplitudes ativa e passiva e encaminhe fraqueza sem explicação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [NCBI Bookshelf · músculos abdutores do ombro](https://www.ncbi.nlm.nih.gov/books/NBK537148/)
+**Fonte de consulta:** [NCBI Bookshelf · músculos abdutores do ombro](https://www.ncbi.nlm.nih.gov/books/NBK537148/)
 
 ### H24 · contraction · Superavançado
 
@@ -4476,7 +4476,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare lowering with standing up to distinguish the actions. / Compare sentar com levantar para distinguir as ações.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 76 · elbow · Superavançado
 
@@ -4499,7 +4499,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Measure comfortable motion before and after any work. / Meça o movimento confortável antes e depois do atendimento.
 
-**Origem editorial:** síntese autoral · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### H26 · joint-type · Superavançado
 
@@ -4522,7 +4522,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Watch comfortable thumb-to-finger contact without forcing pain. / Observe contato confortável do polegar aos dedos sem forçar dor.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### 106 · joints · Intermediário
 
@@ -4545,7 +4545,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask Ethan to bend and straighten the elbow comfortably before assisting only within the permitted range. / Peça a Ethan que dobre e estenda o cotovelo confortavelmente antes de auxiliar apenas na amplitude permitida.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### 107 · joints · Avançado
 
@@ -4568,7 +4568,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Have Sofia touch the thumb toward the little finger within comfort instead of forcing the thumb backward. / Peça a Sofia que aproxime o polegar do dedo mínimo sem desconforto, em vez de forçar o polegar para trás.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### 122 · joints · Superavançado
 
@@ -4591,7 +4591,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask her to demonstrate a comfortable key grip before choosing range. / Peça que demonstre segurar a chave sem dor antes de definir amplitude.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### 164 · joints · Avançado
 
@@ -4614,7 +4614,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Observe the main bending plane without forcing the knee. / Observe o plano principal de movimento sem forçar o joelho.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### 167 · joints · Superavançado
 
@@ -4637,7 +4637,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Stay within a comfortable range and ask about prior precautions. / Respeite amplitude confortável e pergunte sobre cuidados anteriores.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+**Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
 
 ### 77 · knee · Superavançado
 
@@ -4660,7 +4660,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare comfortable extension with the client’s standing task. / Compare extensão confortável com a tarefa de levantar.
 
-**Origem editorial:** síntese autoral · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 78 · motion · Intermediário
 
@@ -4683,7 +4683,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use the trunk’s midline as the reference while the arm moves sideways away from it. / Use a linha média do tronco como referência enquanto o braço se afasta lateralmente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 79 · motion · Intermediário
 
@@ -4706,7 +4706,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Follow the arm returning toward the trunk rather than continuing outward. / Acompanhe o braço retornando ao tronco em vez de continuar para fora.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 80 · motion · Intermediário
 
@@ -4729,7 +4729,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** With the elbow bent, turn the forearm until the palm faces upward. / Com o cotovelo dobrado, gire o antebraço até a palma ficar para cima.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 81 · motion · Avançado
 
@@ -4752,7 +4752,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep the elbow bent while observing the palm turn from up to down. / Mantenha o cotovelo dobrado enquanto observa a palma virar de cima para baixo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 82 · motion · Intermediário
 
@@ -4775,7 +4775,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Observe the front of the foot rise while the heel remains supported. / Observe a frente do pé subir enquanto o calcanhar permanece apoiado.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 83 · motion · Avançado
 
@@ -4798,7 +4798,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare pointing the foot downward with lifting its front toward the shin. / Compare apontar o pé para baixo com elevar sua frente em direção à perna.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 160 · motion · Intermediário
 
@@ -4821,7 +4821,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Watch the shoulder girdle rather than the hands. / Observe a cintura escapular, não as mãos.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 161 · motion · Intermediário
 
@@ -4844,7 +4844,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Name each phase while watching the finger joints. / Nomeie cada fase observando as articulações dos dedos.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 170 · motion · Superavançado
 
@@ -4867,7 +4867,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Watch the whole path, not only its start. / Observe toda a trajetória, não só o começo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### F51 · motion · Avançado
 
@@ -4890,7 +4890,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep the foot neutral and ask before any inversion. / Mantenha o pé neutro e pergunte antes de qualquer inversão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 84 · muscle · Avançado
 
@@ -4913,7 +4913,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Notice the elbow flexors shortening while the weight rises against gravity. / Observe os flexores do cotovelo encurtarem enquanto o peso sobe contra a gravidade.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 85 · muscle · Superavançado
 
@@ -4936,7 +4936,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Distinguish controlled lowering from simply relaxing and letting the weight drop. / Diferencie descida controlada de apenas relaxar e deixar o peso cair.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 86 · muscle · Avançado
 
@@ -4959,7 +4959,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Watch for a fixed elbow angle while the client continues supporting the load. / Observe o ângulo fixo do cotovelo enquanto o cliente sustenta a carga.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 87 · muscle · Superavançado
 
@@ -4982,7 +4982,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Identify elbow flexion first, then identify the muscle whose action opposes it. / Identifique primeiro a flexão do cotovelo e depois o músculo cuja ação se opõe a ela.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 116 · muscle · Superavançado
 
@@ -5005,7 +5005,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Try a smaller comfortable arc and ask about symptoms before progressing. / Teste um arco menor e confortável e pergunte sobre sintomas antes de avançar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 162 · muscle · Avançado
 
@@ -5028,7 +5028,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use gentle resistance and watch whether the pelvis compensates. / Use resistência suave e observe se a pelve compensa.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 163 · muscle · Avançado
 
@@ -5051,7 +5051,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Watch hip movement before naming the muscle. / Observe o movimento do quadril antes de nomear o músculo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 166 · muscle · Superavançado
 
@@ -5074,7 +5074,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Record active and passive ranges separately. / Registre as amplitudes ativa e passiva separadamente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 168 · muscle · Superavançado
 
@@ -5097,7 +5097,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Trace attachments before assigning an elbow action. / Veja as inserções antes de atribuir ação ao cotovelo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### F52 · muscle · Avançado
 
@@ -5120,7 +5120,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Turn your own head slowly and feel which end travels. / Vire a própria cabeça devagar e sinta qual ponta viaja.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### F53 · muscle · Superavançado
 
@@ -5143,7 +5143,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Test neutral first, then flexed, and record both. / Teste neutro primeiro, depois fletido, e registre os dois.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### F54 · muscle · Avançado
 
@@ -5166,7 +5166,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Palpate between spine and medial border while he squeezes. / Palpe entre coluna e borda medial enquanto ele aperta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### F55 · muscle · Superavançado
 
@@ -5189,7 +5189,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare reach with knee bent and straight and record both. / Compare o alcance com joelho dobrado e esticado e registre.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 104 · proprioception · Intermediário
 
@@ -5212,7 +5212,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Slow the movement and ask Noah to report discomfort before progressing within the agreed range. / Diminua a velocidade e peça a Noah que relate desconforto antes de avançar na amplitude acordada.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
+**Fonte de consulta:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
 
 ### 105 · proprioception · Avançado
 
@@ -5235,7 +5235,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep Amira within a comfortable, agreed effort and stop if pain appears instead of chasing a reflex with more force. / Mantenha Amira no esforço confortável acordado e pare se houver dor, sem tentar provocar um reflexo com mais força.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
+**Fonte de consulta:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
 
 ### 169 · proprioception · Superavançado
 
@@ -5258,7 +5258,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Compare the reported sensations without diagnosing their cause. / Compare as sensações relatadas sem diagnosticar a causa.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
+**Fonte de consulta:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
 
 ### H25 · proprioception · Superavançado
 
@@ -5281,7 +5281,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Slow the movement and watch for guarding or discomfort. / Reduza a velocidade e observe defesa ou desconforto.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
+**Fonte de consulta:** [OpenStax · fusos e órgãos tendinosos de Golgi](https://openstax.org/books/introduction-behavioral-neuroscience/pages/10-2-eliciting-contractions-from-lower-levels-lower-motoneurons-and-reflex-arcs)
 
 ### H27 · resisted-motion · Superavançado
 
@@ -5304,7 +5304,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use only tolerable effort and record where pain appeared. / Use esforço tolerável e registre onde a dor surgiu.
 
-**Origem editorial:** síntese autoral · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ## Anatomia e fisiologia
 
@@ -5329,7 +5329,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Avoid reproducing pain at the site and document the loading trigger. / Evite reproduzir dor no local e registre o gatilho de carga.
 
-**Origem editorial:** síntese autoral · **Fonte:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
+**Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
 ### 90 · anatomy · Intermediário
 
@@ -5352,7 +5352,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Locate the covering on the opposing bone surfaces rather than outside the joint. / Localize o revestimento nas superfícies ósseas opostas, não fora da articulação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 91 · anatomy · Intermediário
 
@@ -5375,7 +5375,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Follow the median nerve through the wrist tunnel without confusing nearby nerves. / Acompanhe o nervo mediano no túnel do punho sem confundir nervos próximos.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 92 · anatomy · Avançado
 
@@ -5398,7 +5398,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Locate the medial epicondyle before discussing the nearby nerve’s vulnerable course. / Localize o epicôndilo medial antes de discutir o trajeto vulnerável do nervo próximo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 93 · anatomy · Intermediário
 
@@ -5421,7 +5421,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Follow the flow arrow away from the heart instead of deciding by blood color alone. / Acompanhe a seta para fora do coração em vez de decidir só pela cor do sangue.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 94 · anatomy · Avançado
 
@@ -5444,7 +5444,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Trace fluid from the interstitial space into lymphatic vessels and toward venous return. / Acompanhe líquido do espaço intersticial aos vasos linfáticos e ao retorno venoso.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 95 · anatomy · Avançado
 
@@ -5467,7 +5467,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Match the question’s digestive context to autonomic function without promising a massage effect. / Relacione o contexto digestivo à função autonômica sem prometer efeito da massagem.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 96 · anatomy · Avançado
 
@@ -5490,7 +5490,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use the sudden-threat context to distinguish mobilization from digestion. / Use o contexto de ameaça súbita para distinguir mobilização de digestão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 97 · anatomy · Superavançado
 
@@ -5513,7 +5513,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Locate the kidneys in the urinary system before linking them to fluid balance. / Localize os rins no sistema urinário antes de relacioná-los ao equilíbrio de líquidos.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 98 · anatomy · Superavançado
 
@@ -5536,7 +5536,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Locate the capillary bed between larger vessels and identify the exchange surface. / Localize a rede capilar entre vasos maiores e identifique a superfície de troca.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 115 · anatomy · Superavançado
 
@@ -5559,7 +5559,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask whether the tingling eases after pressure stops and document the response. / Pergunte se o formigamento melhora ao parar a pressão e registre.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 126 · anatomy · Superavançado
 
@@ -5582,7 +5582,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask which wrist positions worsen the symptom before positioning the hand. / Pergunte quais posições do punho pioram o sintoma antes de posicionar a mão.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 171 · anatomy · Intermediário
 
@@ -5605,7 +5605,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Count the neck region separately from the thorax. / Conte a região cervical separada do tórax.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 172 · anatomy · Intermediário
 
@@ -5628,7 +5628,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep direct work off the broken skin. / Evite trabalho direto sobre a pele lesionada.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 173 · anatomy · Intermediário
 
@@ -5651,7 +5651,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Keep the blood-cell question separate from the client’s diagnosis. / Separe a pergunta sobre células do diagnóstico da cliente.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 174 · anatomy · Intermediário
 
@@ -5674,7 +5674,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Answer the anatomy question without interpreting his symptoms. / Responda à anatomia sem interpretar os sintomas dele.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 176 · anatomy · Intermediário
 
@@ -5697,7 +5697,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Locate the lower ribs gently before any regional work. / Localize suavemente as costelas inferiores antes do trabalho regional.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 177 · anatomy · Intermediário
 
@@ -5720,7 +5720,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Do not treat breathing-related chest symptoms as simple muscle tension. / Não trate sintomas torácicos ligados à respiração como simples tensão muscular.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### F50 · anatomy · Avançado
 
@@ -5743,7 +5743,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Name the exception out loud so it sticks. / Diga a exceção em voz alta para fixar.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### F59 · anatomy · Avançado
 
@@ -5766,7 +5766,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Avoid driving it into the femur with direct pressure. / Evite empurrá-la contra o fêmur com pressão direta.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### F60 · anatomy · Avançado
 
@@ -5789,7 +5789,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Point to the alveolar-capillary wall on a diagram. / Aponte a parede alvéolo-capilar no diagrama.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### F61 · anatomy · Intermediário
 
@@ -5812,7 +5812,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Work around the abrasion, not into it. / Trabalhe ao redor do rascado, não sobre ele.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 89 · ankle-ligament · Superavançado
 
@@ -5835,7 +5835,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what restrictions the assessing clinician gave and record them. / Pergunte quais limites foram indicados na avaliação e registre.
 
-**Origem editorial:** print + fonte · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### H29 · lymph · Superavançado
 
@@ -5858,7 +5858,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Read the precaution sheet and confirm what care is permitted. / Leia as orientações e confirme quais cuidados são permitidos.
 
-**Origem editorial:** fonte pública verificada · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 136 · motion · Intermediário
 
@@ -5881,7 +5881,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use distal and proximal, not up and down. / Use distal e proximal, não cima e baixo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### F57 · motion · Intermediário
 
@@ -5904,7 +5904,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Name the plane out loud before moving the joint. / Diga o plano em voz alta antes de mover a articulação.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### F62 · motion · Avançado
 
@@ -5927,7 +5927,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use distal and proximal instead of up and down. / Use distal e proximal em vez de cima e baixo.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### H28 · nerve · Superavançado
 
@@ -5950,7 +5950,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask whether tingling settles when contact stops. / Pergunte se o formigamento melhora ao parar o contato.
 
-**Origem editorial:** print + fonte · **Fonte:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 ### 111 · remodeling · Avançado
 
@@ -5973,7 +5973,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Use the clinician-approved gentle plan, check Grace’s response and progress only within the permitted limits. / Use o plano suave autorizado, confira a resposta de Grace e progrida apenas nos limites permitidos.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [DermNet · reparo e remodelamento tecidual](https://dermnetnz.org/cme/wound-healing/normal-wound-healing)
+**Fonte de consulta:** [DermNet · reparo e remodelamento tecidual](https://dermnetnz.org/cme/wound-healing/normal-wound-healing)
 
 ### 110 · repair · Intermediário
 
@@ -5996,7 +5996,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Explain why the injured forearm will not receive deep pressure today and record the observed signs. / Explique por que o antebraço lesionado não receberá pressão profunda hoje e registre os sinais observados.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+**Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
 
 ### 175 · repair · Avançado
 
@@ -6019,7 +6019,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Track the time since injury before choosing local pressure. / Considere o tempo da lesão antes de escolher pressão local.
 
-**Origem editorial:** legado sem origem registrada · **Fonte:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+**Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
 
 ### H30 · tissue-repair · Superavançado
 
@@ -6042,7 +6042,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Ask what the assessing clinician advised and keep work comfortable. / Pergunte o que foi orientado na avaliação e mantenha o atendimento confortável.
 
-**Origem editorial:** print + fonte · **Fonte:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+**Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
 
 ## Arquivo das 17 versões substituídas
 
