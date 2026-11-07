@@ -5,7 +5,7 @@ async page=>{
   const check=(ok,label)=>{if(!ok)throw Error(label)};
   document.getElementById('direct').click();document.getElementById('count').value='20';document.getElementById('begin').click();
   const ids=[];
-  for(let i=51;i<=80;i++){
+  for(let i=51;i<=86;i++){
    const q=state.exam.deck.find(x=>x.id===`H${i}`);check(q&&q.d==='CIN'&&q.l===4,`H${i} bank`);
    check(q.img?.src?.startsWith('media/')&&q.img.quiz,`H${i} image data`);
    state.exam.deck[0]=q;state.exam.index=0;state.exam.selected=null;state.exam.revealed=false;renderQuestion();
