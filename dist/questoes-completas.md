@@ -1,6 +1,6 @@
 # Questões completas do simulado MBLEx
 
-Banco ativo: 262 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
+Banco ativo: 272 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
 
 Questões autorais de treino; não são itens oficiais nem uma previsão do exame. Cada item traz a fonte consultada para seu conceito.
 
@@ -120,6 +120,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Take your hands off before asking whether he wants another area treated. / Retire as mãos antes de perguntar se ele quer atender outra área.
 
 **Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+
+### H38 · crepitus-record · Superavançado
+
+**EN:** Ben, 61, reports knee discomfort for eight weeks. During a comfortable active bend, the therapist feels a faint crackling below the kneecap. Which chart entry keeps observation separate from diagnosis?
+**PT:** Ben, 61 anos, relata desconforto no joelho há oito semanas. Durante flexão ativa confortável, o terapeuta sente leve crepitação abaixo da patela. Qual registro separa observação de diagnóstico?
+
+- A. Objective: crepitus felt with active knee movement; report discomfort separately / Objetivo: crepitação percebida no movimento ativo do joelho; registrar o desconforto relatado à parte **[correta]**
+- B. Assessment: confirmed cartilage damage beneath the kneecap / Avaliação: lesão confirmada da cartilagem sob a patela
+- C. Plan: apply deep friction until the sound disappears / Plano: aplicar fricção profunda até o som sumir
+- D. Subjective: therapist palpated crepitus; Objective: client reports pain / Subjetivo: terapeuta sentiu crepitação; Objetivo: cliente relata dor
+
+**Por quê:** A palpated sound or sensation is an objective finding; the client’s discomfort is subjective. Neither proves a structural diagnosis. Adapt care to symptoms and refer if indicated. / Som ou sensação percebida na palpação é achado objetivo; o desconforto relatado pelo cliente é subjetivo. Nenhum confirma diagnóstico estrutural. Adapte o atendimento aos sintomas e encaminhe se indicado.
+
+**Outras alternativas:**
+- B: Crepitus alone does not establish cartilage pathology. / Crepitação isolada não confirma lesão da cartilagem.
+- C: A sound is not an indication for forceful treatment. / Som não é indicação de tratamento forte.
+- D: Those SOAP categories are reversed. / Essas categorias SOAP estão invertidas.
+
+**Gancho:** Record what happened before naming a cause. / Registre o achado antes de atribuir causa.
+
+**Na prática:** Write the movement, location, finding and the client’s own words. / Anote movimento, local, achado e as palavras do cliente.
+
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
 ### H05 · goals · Superavançado
 
@@ -2217,6 +2240,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Ask when she took it and reassess tolerance. / Pergunte quando tomou e reavalie a tolerância.
 
 **Fonte de consulta:** [MedlinePlus · analgésicos](https://medlineplus.gov/painrelievers.html)
+
+### H36 · rapid-stretch · Superavançado
+
+**EN:** Eli, 52, has had calf tightness for five weeks. A quick passive stretch makes the calf contract suddenly. Which receptor best explains the immediate length-sensitive response, and how should the therapist proceed?
+**PT:** Eli, 52 anos, sente tensão na panturrilha há cinco semanas. Um alongamento passivo rápido faz o músculo contrair de repente. Qual receptor explica melhor a resposta imediata ao alongamento, e como o terapeuta deve prosseguir?
+
+- A. Muscle spindle; slow down and stay within comfort / Fuso muscular; reduzir a velocidade e respeitar o conforto **[correta]**
+- B. Golgi tendon organ; repeat faster to force relaxation / Órgão tendinoso de Golgi; repetir mais rápido para forçar relaxamento
+- C. Pacinian corpuscle; add percussion until the calf releases / Corpúsculo de Pacini; percutir até a panturrilha relaxar
+- D. Vestibular receptor; stretch into pain / Receptor vestibular; alongar até a dor
+
+**Por quê:** Muscle spindles detect rapid change in muscle length and contribute to the stretch reflex. Reduce speed and reassess tolerance rather than forcing the response. / Fusos musculares detectam mudança rápida no comprimento muscular e participam do reflexo de estiramento. Reduza a velocidade e reavalie a tolerância em vez de forçar a resposta.
+
+**Outras alternativas:**
+- B: Tendon tension sensing is not a reason to provoke a rapid stretch response. / Perceber tensão no tendão não justifica provocar resposta a alongamento rápido.
+- C: This receptor is not the muscle-length detector of the stretch reflex. / Esse receptor não detecta o comprimento muscular do reflexo de estiramento.
+- D: Balance receptors do not explain this local reflex, and pain is not the target. / Receptores do equilíbrio não explicam esse reflexo local, e dor não é a meta.
+
+**Gancho:** Fast length change can trigger resistance. / Mudança rápida de comprimento pode gerar resistência.
+
+**Na prática:** Use a slow, small movement and ask whether the calf remains comfortable. / Use movimento lento e curto e pergunte se a panturrilha permanece confortável.
+
+**Fonte de consulta:** [OpenStax · respostas motoras e reflexos](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses)
 
 ### 41 · rights · Intermediário
 
@@ -4501,6 +4547,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
+### H32 · forearm-turn · Superavançado
+
+**EN:** Luis, 48, has had forearm discomfort for three weeks. He can pull a door toward him but struggles to turn a key so his palm faces up. Which action should be checked separately from elbow flexion?
+**PT:** Luis, 48 anos, sente desconforto no antebraço há três semanas. Consegue puxar uma porta, mas tem dificuldade de virar a chave até a palma ficar para cima. Qual ação deve ser verificada separadamente da flexão do cotovelo?
+
+- A. Forearm supination at the radioulnar joints / Supinação do antebraço nas articulações radioulnares **[correta]**
+- B. Shoulder abduction at the glenohumeral joint / Abdução do ombro na articulação glenoumeral
+- C. Wrist extension at the radiocarpal joint / Extensão do punho na articulação radiocárpica
+- D. Scapular retraction against the rib cage / Retração escapular sobre as costelas
+
+**Por quê:** Pulling a door can involve elbow flexion, while turning the palm upward is forearm supination. Assess these actions separately instead of assigning both to one shoulder movement. / Puxar a porta pode envolver flexão do cotovelo, enquanto virar a palma para cima é supinação do antebraço. Avalie as ações separadamente, sem atribuir ambas a um movimento do ombro.
+
+**Outras alternativas:**
+- B: Lifting the arm sideways does not turn the palm up. / Elevar o braço lateralmente não vira a palma para cima.
+- C: Bending the wrist back differs from rotating the forearm. / Estender o punho é diferente de girar o antebraço.
+- D: Moving the shoulder blade does not rotate the radius around the ulna. / Mover a escápula não gira o rádio ao redor da ulna.
+
+**Gancho:** Palm up and elbow bent are two checks. / Palma para cima e cotovelo dobrado são dois testes.
+
+**Na prática:** Ask him to turn the palm gently with the elbow supported. / Peça que vire a palma suavemente com o cotovelo apoiado.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H40 · hip-rotation · Superavançado
+
+**EN:** Omar, 45, has had difficulty turning his right thigh outward for six weeks. A gentle seated screen shows limited external rotation without a knee problem. Which muscle group is most relevant to the hip action being checked?
+**PT:** Omar, 45 anos, tem dificuldade para girar a coxa direita para fora há seis semanas. Avaliação sentada e suave mostra rotação externa limitada sem problema no joelho. Qual grupo muscular é mais relevante para a ação do quadril avaliada?
+
+- A. Deep lateral rotators, including piriformis / Rotadores laterais profundos, incluindo piriforme **[correta]**
+- B. Quadriceps alone, because they extend the knee / Apenas quadríceps, porque estendem o joelho
+- C. Hip adductors alone, because they draw the thigh inward / Apenas adutores, porque levam a coxa para dentro
+- D. Ankle dorsiflexors, because they lift the foot / Dorsiflexores do tornozelo, porque elevam o pé
+
+**Por quê:** Deep lateral hip rotators contribute to turning the femur outward. Limited motion is an assessment finding; it does not isolate one muscle as injured. / Rotadores laterais profundos do quadril ajudam a girar o fêmur para fora. Movimento limitado é achado de avaliação; não identifica um músculo lesionado.
+
+**Outras alternativas:**
+- B: Knee extension does not explain hip external rotation. / Extensão do joelho não explica rotação externa do quadril.
+- C: Adduction is a different hip action. / Adução é outra ação do quadril.
+- D: Moving the foot does not rotate the femur at the hip. / Mover o pé não gira o fêmur no quadril.
+
+**Gancho:** Turn the thigh at the hip, not the foot. / Gire a coxa no quadril, não o pé.
+
+**Na prática:** Keep the pelvis steady while comparing comfortable rotation on each side. / Mantenha a pelve estável ao comparar rotação confortável dos dois lados.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
 ### H26 · joint-type · Superavançado
 
 **EN:** Ari, 49, has had thumb-base discomfort for four weeks when gripping tools. Before planning gentle movement, which joint design helps explain why the thumb can oppose the fingers?
@@ -4661,6 +4753,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Compare comfortable extension with the client’s standing task. / Compare extensão confortável com a tarefa de levantar.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+
+### H34 · knee-extension · Superavançado
+
+**EN:** Noah, 57, has had trouble rising from a chair for two months. In a gentle movement screen he can bend the knee but cannot straighten it as strongly against resistance. Which muscle group should the therapist document as relevant to that action?
+**PT:** Noah, 57 anos, tem dificuldade para levantar da cadeira há dois meses. Em avaliação suave, consegue flexionar o joelho, mas não estendê-lo com a mesma força contra resistência. Qual grupo muscular deve ser registrado como relevante para essa ação?
+
+- A. Quadriceps femoris / Quadríceps femoral **[correta]**
+- B. Hamstrings / Isquiotibiais
+- C. Gastrocnemius alone / Apenas gastrocnêmio
+- D. Hip adductors alone / Apenas adutores do quadril
+
+**Por quê:** The quadriceps group extends the knee. Document reduced resisted extension without claiming which muscle or tissue is injured from this screen alone. / O grupo quadríceps estende o joelho. Registre a extensão resistida reduzida sem afirmar, só por esse teste, qual músculo ou tecido está lesionado.
+
+**Outras alternativas:**
+- B: They primarily flex the knee rather than extend it. / Eles flexionam principalmente o joelho, em vez de estendê-lo.
+- C: It acts at the ankle and assists knee flexion, not the main knee extension. / Atua no tornozelo e ajuda na flexão do joelho, não é o principal extensor.
+- D: Their main action is at the hip, not straightening the knee. / Sua ação principal é no quadril, não na extensão do joelho.
+
+**Gancho:** Straighten the knee, check the front thigh. / Estender o joelho, observar a coxa anterior.
+
+**Na prática:** Compare comfortable resisted extension on both sides and record the difference. / Compare extensão resistida confortável dos dois lados e registre a diferença.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
 
 ### 78 · motion · Intermediário
 
@@ -5191,6 +5306,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
+### H31 · overhead-reach · Superavançado
+
+**EN:** Maya, 54, has struggled to reach an overhead shelf for six weeks. Her arm rises at the shoulder, but the scapula barely turns. Which movement should the therapist observe before blaming the glenohumeral joint alone?
+**PT:** Maya, 54 anos, tem dificuldade de alcançar uma prateleira alta há seis semanas. O braço sobe no ombro, mas a escápula quase não gira. Qual movimento o terapeuta deve observar antes de atribuir tudo à articulação glenoumeral?
+
+- A. Upward rotation of the scapula during arm elevation / Rotação superior da escápula durante a elevação do braço **[correta]**
+- B. Downward rotation of the scapula during arm elevation / Rotação inferior da escápula durante a elevação do braço
+- C. Forearm supination while the arm stays at the side / Supinação do antebraço com o braço ao lado do corpo
+- D. Only elbow extension at the top of the reach / Só extensão do cotovelo no alto do alcance
+
+**Por quê:** Overhead elevation combines humeral and scapular movement. Observe the scapula as the arm rises; a limited pattern is an assessment finding, not a diagnosis. / Elevar o braço acima da cabeça combina movimento do úmero e da escápula. Observe a escápula durante a elevação; limitação é achado de avaliação, não diagnóstico.
+
+**Outras alternativas:**
+- B: That turns the socket away from an overhead reach. / Isso afasta a cavidade articular do alcance acima da cabeça.
+- C: Turning the palm does not replace scapular rotation. / Virar a palma não substitui a rotação da escápula.
+- D: The elbow cannot account for the missing scapular motion. / O cotovelo não explica a falta de movimento escapular.
+
+**Gancho:** Watch the shoulder blade travel with the arm. / Veja a escápula acompanhar o braço.
+
+**Na prática:** Compare comfortable reaches on both sides without forcing height. / Compare alcances confortáveis dos dois lados sem forçar a altura.
+
+**Fonte de consulta:** [NCBI Bookshelf · movimentos da escápula](https://www.ncbi.nlm.nih.gov/books/NBK518994/)
+
 ### 104 · proprioception · Intermediário
 
 **EN:** Noah, 31, has mild hamstring tightness for two weeks without injury. During an agreed gentle stretch, a student suddenly speeds up the movement and the muscle resists. Which receptor signal supports returning to a slow, comfortable stretch?
@@ -5305,6 +5443,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Use only tolerable effort and record where pain appeared. / Use esforço tolerável e registre onde a dor surgiu.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+
+### H35 · two-joint-muscle · Superavançado
+
+**EN:** Ava, 39, has had anterior thigh tightness for four weeks. During a movement review, she both lifts her thigh toward her trunk and straightens the knee. Which single muscle can contribute to both actions?
+**PT:** Ava, 39 anos, sente tensão na frente da coxa há quatro semanas. Na avaliação de movimento, eleva a coxa em direção ao tronco e estende o joelho. Qual músculo pode participar das duas ações?
+
+- A. Rectus femoris / Reto femoral **[correta]**
+- B. Vastus lateralis / Vasto lateral
+- C. Biceps femoris / Bíceps femoral
+- D. Soleus / Sóleo
+
+**Por quê:** Rectus femoris crosses the hip and knee, helping hip flexion and knee extension. The vasti are knee extensors without the same hip action. / O reto femoral cruza quadril e joelho, ajudando na flexão do quadril e na extensão do joelho. Os vastos estendem o joelho sem essa mesma ação no quadril.
+
+**Outras alternativas:**
+- B: It extends the knee but does not cross the hip to flex it. / Estende o joelho, mas não cruza o quadril para flexioná-lo.
+- C: It is a posterior thigh muscle associated with knee flexion. / É músculo posterior da coxa associado à flexão do joelho.
+- D: It acts at the ankle and does not cross either of these joints. / Atua no tornozelo e não cruza nenhuma dessas articulações.
+
+**Gancho:** Two joints change the answer. / Duas articulações mudam a resposta.
+
+**Na prática:** Observe each action separately before relating it to one muscle. / Observe cada ação separadamente antes de relacioná-las a um músculo.
+
+**Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
 
 ## Anatomia e fisiologia
 
@@ -6020,6 +6181,75 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Track the time since injury before choosing local pressure. / Considere o tempo da lesão antes de escolher pressão local.
 
 **Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+
+### H33 · shoulder-attachments · Superavançado
+
+**EN:** Tess, 43, has had shoulder-girdle soreness for five weeks. During a landmark review, the therapist traces the lateral clavicle, acromion and scapular spine. Which pair of muscles attaches to those landmarks and should be distinguished during palpation?
+**PT:** Tess, 43 anos, sente dor na cintura escapular há cinco semanas. Ao rever pontos anatômicos, o terapeuta percorre clavícula lateral, acrômio e espinha da escápula. Que par de músculos se fixa nesses marcos e deve ser distinguido na palpação?
+
+- A. Trapezius and deltoid / Trapézio e deltoide **[correta]**
+- B. Biceps brachii and brachialis / Bíceps braquial e braquial
+- C. Pectoralis minor and rhomboid major / Peitoral menor e romboide maior
+- D. Serratus anterior and pronator teres / Serrátil anterior e pronador redondo
+
+**Por quê:** Trapezius inserts along the lateral clavicle, acromion and scapular spine; deltoid originates along those landmarks. Shared bony landmarks do not mean identical actions. / Trapézio se insere na clavícula lateral, acrômio e espinha escapular; deltoide se origina nesses marcos. Fixações ósseas compartilhadas não significam ações iguais.
+
+**Outras alternativas:**
+- B: These are arm muscles without that shared three-landmark pattern. / São músculos do braço sem esse conjunto de três marcos.
+- C: Their attachments do not span these same lateral landmarks. / Suas fixações não abrangem esses mesmos marcos laterais.
+- D: One acts on the scapula and the other on the forearm; they do not form this pair. / Um atua na escápula e o outro no antebraço; não formam esse par.
+
+**Gancho:** Same ridge, different jobs. / Mesmo relevo, funções diferentes.
+
+**Na prática:** Locate the bony ridge first, then compare muscle tissue on each side. / Localize primeiro o relevo ósseo e compare os tecidos musculares ao redor.
+
+**Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H39 · somatic-motor · Superavançado
+
+**EN:** June, 50, has had difficulty bending her elbow for two weeks. She bends it on request; a clinician report also notes a brief contraction during a stretch reflex. Which statement correctly classifies the motor output in both cases?
+**PT:** June, 50 anos, tem dificuldade para flexionar o cotovelo há duas semanas. Ela o flexiona quando solicitada; um relatório clínico também registra contração breve durante reflexo de estiramento. Qual afirmação classifica corretamente a saída motora nos dois casos?
+
+- A. Both use somatic motor pathways to skeletal muscle, although only one is intentional / Ambas usam vias motoras somáticas para músculo esquelético, embora só uma seja intencional **[correta]**
+- B. The requested movement is somatic, but the reflex becomes autonomic because it is involuntary / O movimento solicitado é somático, mas o reflexo vira autônomo por ser involuntário
+- C. Both are autonomic because neither requires the therapist to contract a muscle / Ambas são autônomas porque não exigem contração muscular do terapeuta
+- D. The reflex is sensory only and has no motor output / O reflexo é apenas sensorial e não tem saída motora
+
+**Por quê:** Somatic motor neurons activate skeletal muscle during voluntary movement and stretch reflexes. Voluntary versus reflexive does not by itself determine somatic versus autonomic. / Neurônios motores somáticos ativam músculo esquelético tanto no movimento voluntário quanto no reflexo de estiramento. Voluntário ou reflexo, por si só, não define somático ou autônomo.
+
+**Outras alternativas:**
+- B: Involuntary skeletal reflexes can still use somatic motor neurons. / Reflexos esqueléticos involuntários ainda podem usar neurônios motores somáticos.
+- C: The client’s skeletal muscle is the effector in both cases. / O músculo esquelético da cliente é o efetor nos dois casos.
+- D: A visible contraction requires a motor response. / Contração visível exige resposta motora.
+
+**Gancho:** Intent changes; the muscle class does not. / A intenção muda; o tipo de músculo não.
+
+**Na prática:** Record the difficulty without treating the reflex observation as a diagnosis. / Registre a dificuldade sem tratar a observação do reflexo como diagnóstico.
+
+**Fonte de consulta:** [OpenStax · respostas motoras e reflexos](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses)
+
+### H37 · tendon-tension · Superavançado
+
+**EN:** Rae, 44, has had forearm fatigue for three weeks after lifting at work. A quick passive stretch and a steady resisted grip create different signals. Which receptor-signal pairing best separates the two without claiming a diagnosis?
+**PT:** Rae, 44 anos, sente fadiga no antebraço há três semanas após carregar peso no trabalho. Alongamento passivo rápido e preensão resistida sustentada geram sinais diferentes. Qual associação entre receptor e sinal melhor distingue os dois sem afirmar diagnóstico?
+
+- A. Muscle spindle: rapid length change; Golgi tendon organ: tendon tension / Fuso muscular: mudança rápida de comprimento; órgão tendinoso de Golgi: tensão no tendão **[correta]**
+- B. Muscle spindle: tendon tension; Golgi tendon organ: rapid muscle length change / Fuso muscular: tensão no tendão; órgão tendinoso de Golgi: mudança rápida de comprimento muscular
+- C. Pacinian corpuscle: rapid muscle length change; muscle spindle: skin pressure / Corpúsculo de Pacini: mudança rápida no comprimento muscular; fuso: pressão na pele
+- D. Joint capsule receptor: tendon tension; Golgi tendon organ: joint angle only / Receptor da cápsula articular: tensão no tendão; órgão tendinoso de Golgi: apenas ângulo articular
+
+**Por quê:** Muscle spindles respond to muscle length and stretch speed; Golgi tendon organs respond to tension transmitted through tendons. Neither signal identifies the cause of her fatigue. / Fusos musculares respondem ao comprimento e à velocidade do alongamento; órgãos tendinosos de Golgi respondem à tensão transmitida pelos tendões. Nenhum sinal identifica a causa da fadiga.
+
+**Outras alternativas:**
+- B: The two primary signals are reversed. / Os dois sinais principais foram invertidos.
+- C: Pacinian receptors detect deep pressure or vibration, while spindles lie in muscle. / Receptores de Pacini detectam pressão profunda ou vibração; fusos ficam no músculo.
+- D: Joint stretch and tendon tension are assigned to the wrong structures. / Alongamento articular e tensão tendínea foram atribuídos às estruturas erradas.
+
+**Gancho:** Length changes here; load travels there. / Comprimento muda aqui; carga passa ali.
+
+**Na prática:** Compare the two tasks conceptually without turning a receptor fact into a diagnosis. / Compare conceitualmente as duas tarefas sem transformar o receptor em diagnóstico.
+
+**Fonte de consulta:** [OpenStax · receptores sensoriais](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception)
 
 ### H30 · tissue-repair · Superavançado
 
