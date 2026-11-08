@@ -7,7 +7,7 @@ async page=>{
   const click=id=>document.getElementById(id).click();
   click('direct');document.getElementById('count').value='20';click('begin');
   const start={target:state.exam.target,pool:state.exam.deck.length,unique:new Set(state.exam.deck.map(q=>String(q.id))).size,level:state.exam.level,time:remaining()};
-  check(start.target===20&&start.pool===318&&start.unique===318&&start.level===4,'20 setup');
+  check(start.target===20&&start.pool===322&&start.unique===322&&start.level===4,'20 setup');
   check(start.time<=1320000&&start.time>1310000,'22 minute clock');
   const first=state.exam.deck[0],hasTopic=state.exam.deck.slice(1).some(q=>q.topic===first.topic);
   document.querySelectorAll('[data-answer]')[(first.correct+1)%4].click();click('submit');

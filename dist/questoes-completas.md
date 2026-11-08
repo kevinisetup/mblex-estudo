@@ -1,6 +1,6 @@
 # Questões completas do simulado MBLEx
 
-Banco ativo: 318 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
+Banco ativo: 322 questões únicas. As 17 versões básicas anteriores ficam arquivadas no HTML e não entram nas rodadas.
 
 Questões autorais de treino; não são itens oficiais nem uma previsão do exame. Cada item traz a fonte consultada para seu conceito.
 
@@ -236,51 +236,28 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [MedlinePlus · fraqueza](https://medlineplus.gov/ency/article/003174.htm)
 
-### 5 · motion · Intermediário
+### H87 · intake-priority · Superavançado
 
-**EN:** Eva, 47, has struggled to lift her arm for one month. Which assessment should the practitioner choose first to observe her own unassisted movement?
-**PT:** Eva, 47 anos, tem dificuldade para elevar o braço há um mês. Qual avaliação o profissional deve escolher primeiro para observar o movimento sem ajuda?
+**EN:** Mara, 48, booked a back massage for stiffness lasting six weeks. At intake she reports new hand weakness since yesterday and says she can no longer hold a mug. Which finding should change the plan first?
+**PT:** Mara, 48 anos, marcou massagem nas costas por rigidez há seis semanas. Na avaliação, relata fraqueza nova na mão desde ontem e diz que não consegue segurar uma caneca. Qual achado deve mudar o plano primeiro?
 
-- A. Active range of motion / Amplitude ativa **[correta]**
-- B. Passive range of motion / Amplitude passiva
-- C. Resisted movement / Movimento resistido
-- D. Isometric contraction / Contração isométrica
+- A. The new loss of hand function; pause routine care and refer for assessment / A nova perda de função da mão; pausar o atendimento habitual e encaminhar para avaliação **[correta]**
+- B. The six-week stiffness; begin deep back work / A rigidez de seis semanas; começar trabalho profundo nas costas
+- C. The mug itself; ask her to use a lighter one / A caneca; pedir que use uma mais leve
+- D. The appointment length; shorten the session and continue / A duração da sessão; encurtar e continuar
 
-**Por quê:** Self-generated movement tests active range. / Movimento realizado pelo cliente verifica amplitude ativa.
-
-**Outras alternativas:**
-- B: The practitioner moves a relaxed joint. / Profissional move uma articulação relaxada.
-- C: The client acts against resistance. / Cliente age contra resistência.
-- D: Tension without appreciable length change. / Tensão sem mudança apreciável de comprimento.
-
-**Gancho:** Their effort, their movement. / Esforço próprio, movimento próprio.
-
-**Na prática:** Ask the client to raise the arm while you observe without assisting. / Peça ao cliente para elevar o braço enquanto você observa sem ajudar.
-
-**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
-
-### 6 · motion · Intermediário
-
-**EN:** Finn, 54, has had shoulder stiffness for two weeks. With permission, you move a relaxed shoulder while the client does not help. Which assessment is this?
-**PT:** Finn, 54 anos, tem rigidez no ombro há duas semanas. Com permissão, você move o ombro relaxado sem ajuda do cliente. Qual avaliação é essa?
-
-- A. Passive range of motion / Amplitude passiva **[correta]**
-- B. Active range of motion / Amplitude ativa
-- C. Resisted movement / Movimento resistido
-- D. Concentric contraction / Contração concêntrica
-
-**Por quê:** Externally produced movement is passive. / Movimento produzido externamente é passivo.
+**Por quê:** New functional weakness changes the intake decision. A massage therapist should not diagnose its cause; document onset and arrange medical assessment before routine treatment. / Fraqueza nova com perda de função muda a decisão na avaliação. O massoterapeuta não deve diagnosticar a causa; registre o início e encaminhe para avaliação médica antes do atendimento habitual.
 
 **Outras alternativas:**
-- B: The client moves without assistance. / Cliente movimenta sem assistência.
-- C: The client acts against resistance. / Cliente age contra resistência.
-- D: Active muscle shortens under load. / Músculo ativo encurta sob carga.
+- B: The newer motor change takes priority over the booking goal. / A mudança motora nova tem prioridade sobre a meta da reserva.
+- C: Changing the object does not assess new weakness. / Trocar o objeto não avalia a fraqueza nova.
+- D: Less time does not resolve an unexplained motor change. / Menos tempo não resolve uma mudança motora sem explicação.
 
-**Gancho:** Relaxed client, guided joint. / Cliente relaxado, articulação guiada.
+**Gancho:** New function loss changes priority. / Perda nova de função muda a prioridade.
 
-**Na prática:** Support the arm and ask the client to relax before gently moving it. / Apoie o braço e peça relaxamento antes de movimentá-lo suavemente.
+**Na prática:** Ask which tasks changed and when, then document the referral. / Pergunte quais tarefas mudaram e quando, depois registre o encaminhamento.
 
-**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 124 · motion · Superavançado
 
@@ -302,29 +279,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Compare, do not conclude. / Compare, não conclua.
 
 **Na prática:** Document both comfortable ranges and the client's effort. / Registre as duas amplitudes confortáveis e o esforço do cliente.
-
-**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
-
-### 135 · motion · Intermediário
-
-**EN:** Kai, 63, has had an uneven walking pattern for two weeks. You watch him enter before he sits. Which assessment is this?
-**PT:** Kai, 63 anos, caminha de modo desigual há duas semanas. Você o observa entrar antes que se sente. Qual avaliação é essa?
-
-- A. Gait: stride, symmetry, arm swing and base of support / Marcha: passada, simetria, balanço dos braços e base de apoio **[correta]**
-- B. Static posture on the plumb line / Postura estática no fio de prumo
-- C. Passive range of the hips / Amplitude passiva dos quadris
-- D. Resisted strength of the legs / Força resistida das pernas
-
-**Por quê:** Walking is gait; standing still is posture. Different observation, different record. / Andar é marcha; ficar parado é postura. Observação e registro diferentes.
-
-**Outras alternativas:**
-- B: Static requires standing still. / Estática exige ficar parado.
-- C: Requires your hands. / Exige suas mãos.
-- D: Requires opposition. / Exige oposição.
-
-**Gancho:** Walking is gait; standing is posture. / Andando é marcha; parado é postura.
-
-**Na prática:** Note base of support and any limp before he sits. / Anote base de apoio e qualquer claudicação antes de ele sentar.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
@@ -397,6 +351,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · ações e relações musculares](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems)
 
+### H91 · new-finding · Superavançado
+
+**EN:** Omar, 67, has had mild knee stiffness for two months. Today he arrives with a newly swollen, warm calf after a long flight yesterday and still wants leg work. What is the best assessment decision?
+**PT:** Omar, 67 anos, sente leve rigidez no joelho há dois meses. Hoje chega com panturrilha recém-inchada e quente após um voo longo ontem e ainda quer trabalho na perna. Qual a melhor decisão de avaliação?
+
+- A. Stop the planned leg work and arrange prompt medical assessment of the new signs / Suspender o trabalho planejado na perna e orientar avaliação médica rápida dos novos sinais **[correta]**
+- B. Massage above the calf while avoiding the warm area / Massagear acima da panturrilha evitando a área quente
+- C. Use deep strokes to see whether the swelling moves / Usar manobras profundas para ver se o inchaço se desloca
+- D. Document the warmth and continue the usual knee plan / Registrar o calor e manter o plano habitual do joelho
+
+**Por quê:** A new unilateral warm swollen calf after prolonged travel raises concern for a clot. It needs medical evaluation rather than massage or a massage-based test. / Panturrilha com inchaço e calor novos após viagem prolongada levanta suspeita de coágulo. Isso pede avaliação médica, não massagem nem teste com manobras.
+
+**Outras alternativas:**
+- B: Avoiding the spot does not address a possible clot risk. / Evitar o ponto não resolve possível risco de coágulo.
+- C: Pressure is not a safe test for a possible clot. / Pressão não é teste seguro para possível coágulo.
+- D: Documentation alone does not respond to the new warning signs. / Registrar apenas não responde aos novos sinais de alerta.
+
+**Gancho:** A new calf sign overrides an old knee goal. / Sinal novo na panturrilha supera meta antiga do joelho.
+
+**Na prática:** Ask when the swelling began and whether breathlessness is present; escalate emergency symptoms. / Pergunte quando começou o inchaço e se há falta de ar; sintomas de emergência exigem ação imediata.
+
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+
+### H90 · range-comparison · Superavançado
+
+**EN:** Leah, 43, has had trouble lifting her left arm for five weeks. She can raise it partway by herself, but a comfortable assisted movement goes farther. Which record avoids claiming a diagnosis from this one comparison?
+**PT:** Leah, 43 anos, tem dificuldade para elevar o braço esquerdo há cinco semanas. Sozinha, eleva apenas parte do caminho, mas com auxílio confortável vai mais longe. Qual registro evita concluir diagnóstico por essa única comparação?
+
+- A. Document active and assisted ranges separately, then plan within comfort / Registrar separadamente as amplitudes ativa e assistida, depois planejar dentro do conforto **[correta]**
+- B. Call it a torn rotator cuff and treat that diagnosis / Chamar de ruptura do manguito e tratar esse diagnóstico
+- C. Record only the larger assisted range / Registrar apenas a maior amplitude assistida
+- D. Force the active movement to match the assisted one / Forçar o movimento ativo a alcançar o assistido
+
+**Por quê:** The two measures answer different questions. Document the observed difference; it can guide a cautious plan, but it does not identify the injured tissue. / As duas medidas respondem a perguntas diferentes. Registre a diferença observada; ela orienta um plano cauteloso, mas não identifica o tecido lesionado.
+
+**Outras alternativas:**
+- B: The range difference alone cannot establish a tear. / A diferença de amplitude isolada não confirma ruptura.
+- C: That hides the functional difference seen in active movement. / Isso esconde a diferença funcional vista no movimento ativo.
+- D: Forcing range is not an assessment method. / Forçar amplitude não é método de avaliação.
+
+**Gancho:** Two ranges, two observations. / Duas amplitudes, duas observações.
+
+**Na prática:** Use the same position for both comparisons and stop at discomfort. / Use a mesma posição nas duas comparações e pare diante de desconforto.
+
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
+
 ### H04 · reassessment · Superavançado
 
 **EN:** Owen, 47, has had low-back discomfort for two months. After one session, pain falls from 6/10 to 3/10, but standing tolerance drops from 20 to 10 minutes. Which next step best uses both results?
@@ -417,6 +417,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Pain down, function down: pause. / Dor cai, função cai: reavalie.
 
 **Na prática:** Ask exactly when standing became harder and document both measures. / Pergunte quando ficar em pé piorou e registre as duas medidas.
+
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+
+### H88 · reassessment · Superavançado
+
+**EN:** Eli, 56, has had neck discomfort for two months. After three visits he says driving feels easier, but measured rotation is still 45 degrees on both sides. Which note and next step are most defensible?
+**PT:** Eli, 56 anos, sente desconforto cervical há dois meses. Após três sessões, diz que dirigir está mais fácil, mas a rotação medida continua em 45 graus dos dois lados. Qual registro e próximo passo são mais defensáveis?
+
+- A. Record his report separately from the unchanged measurement and review the goal / Registrar o relato separado da medida sem mudança e revisar a meta **[correta]**
+- B. Record improved range because he feels better / Registrar aumento da amplitude porque ele se sente melhor
+- C. Record treatment failure and stop without discussion / Registrar falha do tratamento e encerrar sem conversar
+- D. Replace the angle with a verbal estimate / Substituir o ângulo por uma estimativa verbal
+
+**Por quê:** His experience belongs in subjective data; the repeated angle remains objective data. Keep both and revisit whether the goal is function, range, or both. / A experiência dele entra nos dados subjetivos; o ângulo repetido permanece dado objetivo. Mantenha ambos e reveja se a meta é função, amplitude ou as duas.
+
+**Outras alternativas:**
+- B: A subjective gain does not change the measured angle. / Melhora subjetiva não muda o ângulo medido.
+- C: One unchanged measure does not erase his functional report. / Uma medida sem mudança não apaga o relato funcional.
+- D: That loses an objective comparison for reassessment. / Isso perde uma comparação objetiva na reavaliação.
+
+**Gancho:** Feeling and measurement are separate lines. / Sensação e medida são linhas separadas.
+
+**Na prática:** Write the same measuring method and ask what part of driving improved. / Registre o mesmo método de medida e pergunte o que melhorou ao dirigir.
+
+**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
+
+### H89 · response-plan · Superavançado
+
+**EN:** Noah, 39, has had shoulder tension for four weeks. He reports that strong pressure at the last visit left him sore for two days. Today he asks to repeat the same plan because it must be working. What should the therapist do first?
+**PT:** Noah, 39 anos, sente tensão no ombro há quatro semanas. Relata que a pressão forte na última sessão deixou dor por dois dias. Hoje pede repetir o mesmo plano porque acha que está funcionando. O que fazer primeiro?
+
+- A. Reassess his response and agree on a gentler plan with ongoing feedback / Reavaliar a resposta e combinar plano mais suave com retorno durante a sessão **[correta]**
+- B. Repeat the strong pressure because he requested it / Repetir pressão forte porque ele pediu
+- C. Increase pressure to shorten the soreness period / Aumentar pressão para encurtar a dor
+- D. Ignore the prior visit because the soreness is gone / Ignorar a sessão anterior porque a dor passou
+
+**Por quê:** A prior response is new assessment data. Discuss the discomfort, lower intensity, and check comfort during care instead of treating soreness as proof of benefit. / A resposta anterior é novo dado de avaliação. Converse sobre a dor, reduza a intensidade e confira conforto durante o atendimento, sem tratar dor posterior como prova de benefício.
+
+**Outras alternativas:**
+- B: A request does not replace reassessment of an adverse response. / O pedido não substitui a reavaliação de uma resposta ruim.
+- C: More pressure has no basis in the reported response. / Mais pressão não se justifica pelo relato.
+- D: The two-day reaction matters to the current plan. / A reação de dois dias importa para o plano de hoje.
+
+**Gancho:** Feedback revises the plan. / O retorno revisa o plano.
+
+**Na prática:** Ask where soreness occurred and what pressure he can tolerate now. / Pergunte onde doeu e qual pressão ele tolera agora.
 
 **Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
@@ -673,52 +719,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
 
-### 3 · soap · Intermediário
-
-**EN:** Cleo, 52, has had shoulder stiffness for three weeks at intake. You measure shoulder movement before a session. Which SOAP section records the measurement?
-**PT:** Cleo, 52 anos, tem rigidez no ombro há três semanas na avaliação. Você mede o movimento do ombro antes da sessão. Qual seção SOAP registra a medida?
-
-- A. Objective / Objetivo **[correta]**
-- B. Subjective / Subjetivo
-- C. Plan / Plano
-- D. Assessment / Avaliação
-
-**Por quê:** Measured findings belong under objective. / Achados medidos pertencem ao campo objetivo.
-
-**Outras alternativas:**
-- B: Information reported by the client. / Informação relatada pelo cliente.
-- C: Intended actions and follow-up. / Ações previstas e acompanhamento.
-- D: Interpretation within professional scope. / Interpretação dentro do escopo profissional.
-
-**Gancho:** A measurement is an observation. / Medida é observação.
-
-**Na prática:** Record the measured shoulder angle and how you measured it. / Registre o ângulo medido do ombro e como fez a medida.
-
-**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
-
-### 4 · soap · Intermediário
-
-**EN:** Davi, 40, has had painful movement for two weeks. The practitioner decides to reassess pain-free movement at the next visit. Which SOAP section should hold this follow-up action?
-**PT:** Davi, 40 anos, sente dor ao mover-se há duas semanas. O profissional decide reavaliar o movimento sem dor na próxima visita. Qual seção SOAP deve conter essa ação?
-
-- A. Plan / Plano **[correta]**
-- B. Objective / Objetivo
-- C. Subjective / Subjetivo
-- D. Assessment / Avaliação
-
-**Por quê:** A future reassessment is part of the plan. / Uma reavaliação futura faz parte do plano.
-
-**Outras alternativas:**
-- B: Observed or measured findings. / Achados observados ou medidos.
-- C: Information reported by the client. / Informação relatada pelo cliente.
-- D: Interpretation within professional scope. / Interpretação dentro do escopo profissional.
-
-**Gancho:** Tomorrow belongs in the plan. / O próximo passo vai no plano.
-
-**Na prática:** Set a reminder to repeat that movement check at the next visit. / Anote um lembrete para repetir a verificação na próxima visita.
-
-**Fonte de consulta:** [ABMP · formulário SOAP](https://www.abmp.com/img/members/client_treatment/soap_notes.pdf)
-
 ### 118 · soap · Avançado
 
 **EN:** Ari, 44, has had limited neck rotation for three weeks. After two visits, measured rotation improves but she reports worse pain when driving. What should the practitioner do FIRST when updating the plan?
@@ -882,29 +882,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
-### 24 · abmp · Intermediário
-
-**EN:** Xena, 39, has had neck tension for one month and asks for extra favors. The client repeatedly asks for favors outside agreed session times. Which issue should be clarified FIRST?
-**PT:** Xena, 39 anos, sente tensão cervical há um mês e pede favores extras. Cliente pede repetidamente favores fora dos horários combinados. Qual questão esclarecer PRIMEIRO?
-
-- A. Professional boundaries / Limites profissionais **[correta]**
-- B. Certificate / Certificado
-- C. Implied consent / Consentimento implícito
-- D. Countertransference / Contratransferência
-
-**Por quê:** Clarify professional limits directly and respectfully. / Esclareça limites profissionais de forma direta e respeitosa.
-
-**Outras alternativas:**
-- B: Evidence of completing a course. / Comprovante de conclusão de curso.
-- C: Agreement inferred from conduct. / Concordância inferida pela conduta.
-- D: Practitioner brings unresolved personal feelings. / Profissional traz sentimentos pessoais não resolvidos.
-
-**Gancho:** Clear limits prevent guessing. / Limites claros evitam adivinhação.
-
-**Na prática:** Explain your contact hours and how requests outside sessions are handled. / Explique seus horários de contato e como trata pedidos fora das sessões.
-
-**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
-
 ### 25 · abmp · Avançado
 
 **EN:** Yuri, 45, has discussed exchanging massage for business services for two weeks and also becomes the client's customer. Which added relationship should the practitioner evaluate before agreeing?
@@ -925,29 +902,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Two roles need two checks. / Dois papéis pedem dupla atenção.
 
 **Na prática:** Before bartering, consider whether being each other’s customer could affect professional decisions. / Antes da permuta, considere se a relação comercial pode afetar decisões profissionais.
-
-**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
-
-### 28 · abmp · Intermediário
-
-**EN:** Bea, 27, has felt uneasy about a therapist's behavior for two weeks. Which behavior is incompatible with professional sexual boundaries?
-**PT:** Bea, 27 anos, sente-se desconfortável com a conduta de um terapeuta há duas semanas. Qual conduta é incompatível com limites sexuais profissionais?
-
-- A. Sexual contact with a client / Contato sexual com cliente **[correta]**
-- B. Obtaining consent for a technique / Obter consentimento para técnica
-- C. Maintaining appropriate draping / Manter cobertura apropriada
-- D. Explaining pressure options / Explicar opções de pressão
-
-**Por quê:** Sexual contact violates the therapeutic relationship. / Contato sexual viola a relação terapêutica.
-
-**Outras alternativas:**
-- B: This supports appropriate care. / Isso apoia atendimento adequado.
-- C: This protects privacy. / Isso protege a privacidade.
-- D: This supports client choice. / Isso favorece a escolha do cliente.
-
-**Gancho:** Therapeutic contact is not sexual access. / Contato terapêutico não dá acesso sexual.
-
-**Na prática:** State the professional boundary clearly when a sexual request arises. / Declare claramente o limite profissional quando surgir um pedido sexual.
 
 **Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
@@ -1066,6 +1020,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
+### H92 · consent-change · Superavançado
+
+**EN:** Jade, 35, has received shoulder massage for three weeks. Mid-session she says the pressure now feels wrong and asks you to stop touching that area. What should happen next?
+**PT:** Jade, 35 anos, recebe massagem no ombro há três semanas. No meio da sessão, diz que a pressão agora incomoda e pede que você pare de tocar a área. O que acontece em seguida?
+
+- A. Stop that contact, re-cover the area, and ask whether she wants another approach / Parar o toque, cobrir novamente a área e perguntar se deseja outra abordagem **[correta]**
+- B. Finish the planned strokes before discussing it / Terminar as manobras planejadas antes de conversar
+- C. Reduce pressure without acknowledging the stop request / Reduzir a pressão sem reconhecer o pedido para parar
+- D. Explain that stopping will waste the appointment / Explicar que parar desperdiça a sessão
+
+**Por quê:** A client may withdraw consent for a body area at any time. Stop immediately, maintain draping, and clarify any new preference without pressure. / A cliente pode retirar consentimento para uma área a qualquer momento. Pare imediatamente, mantenha o draping e esclareça nova preferência sem pressão.
+
+**Outras alternativas:**
+- B: Consent can change during the session. / O consentimento pode mudar durante a sessão.
+- C: Less pressure still ignores her stated boundary. / Menos pressão ainda ignora o limite declarado.
+- D: Schedule pressure does not override consent. / O horário não supera o consentimento.
+
+**Gancho:** Stop means stop now. / Parar significa parar agora.
+
+**Na prática:** Confirm the next area and pressure before resuming, if she wants to continue. / Confirme a próxima área e a pressão antes de retomar, se ela quiser continuar.
+
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+
 ### 20 · draping · Superavançado
 
 **EN:** Tia, 41, has had upper-back tension for two weeks. She requests that only the shoulder area be uncovered, but the planned stroke would expose more of her torso. What should guide the setup?
@@ -1132,29 +1109,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Selling a business does not sell privacy. / Vender o negócio não vende a privacidade.
 
 **Na prática:** Discuss the sale using appropriate nonidentifying information while checking disclosure requirements. / Converse sobre a venda usando informações não identificáveis adequadas enquanto verifica exigências de divulgação.
-
-**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
-
-### 29 · ethics · Intermediário
-
-**EN:** Cal, 40, has questioned the practitioner's qualifications for a week. The practitioner seeks needed training and describes credentials honestly. Which professional framework should guide this response?
-**PT:** Cal, 40 anos, questiona as qualificações profissionais há uma semana. O profissional busca formação e descreve suas credenciais honestamente. Qual estrutura profissional deve orientar essa resposta?
-
-- A. Code of ethics / Código de ética **[correta]**
-- B. Liability waiver / Termo de isenção
-- C. Implied consent / Consentimento implícito
-- D. Transference / Transferência
-
-**Por quê:** Professional ethics includes honesty and competence. / Ética profissional inclui honestidade e competência.
-
-**Outras alternativas:**
-- B: A liability document, not informed discussion. / Documento de responsabilidade, não diálogo esclarecido.
-- C: Agreement inferred from conduct. / Concordância inferida pela conduta.
-- D: Client projects earlier relationship feelings. / Cliente projeta sentimentos de relações anteriores.
-
-**Gancho:** Credentials must match reality. / Credenciais precisam corresponder à realidade.
-
-**Na prática:** List only qualifications you actually hold when describing your services. / Liste apenas qualificações que realmente possui ao descrever seus serviços.
 
 **Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
@@ -1341,6 +1295,75 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** If offering an incentive, put the no-rating-condition and disclosure in writing. / Se oferecer incentivo, registre por escrito a ausência de exigência de nota e a divulgação.
 
 **Fonte de consulta:** [FTC · avaliações e depoimentos](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
+
+### H95 · gift-boundary · Superavançado
+
+**EN:** Tara, 44, has been a regular client for eight weeks. She offers the therapist an expensive watch if she can always receive appointments ahead of others. Which response best protects the professional relationship?
+**PT:** Tara, 44 anos, é cliente regular há oito semanas. Oferece ao terapeuta um relógio caro se puder sempre receber horários antes dos demais. Qual resposta protege melhor a relação profissional?
+
+- A. Decline the conditional gift and apply the same scheduling policy to everyone / Recusar o presente condicionado e aplicar a mesma regra de agendamento a todos **[correta]**
+- B. Accept it privately because no treatment technique changes / Aceitar em segredo porque a técnica não muda
+- C. Accept it if she signs a waiver / Aceitar se ela assinar uma renúncia
+- D. Give her priority once and ask for the watch later / Dar prioridade uma vez e pedir o relógio depois
+
+**Por quê:** The gift is tied to preferential treatment. Declining that exchange and stating a consistent policy avoids a boundary conflict. / O presente está ligado a tratamento preferencial. Recusar a troca e explicar uma regra consistente evita conflito de limites.
+
+**Outras alternativas:**
+- B: The benefit changes the business boundary and fairness. / O benefício muda o limite comercial e a justiça no atendimento.
+- C: A waiver does not make preferential access appropriate. / Uma renúncia não torna adequado o acesso preferencial.
+- D: Delaying the gift keeps the same exchange. / Adiar o presente mantém a mesma troca.
+
+**Gancho:** Conditional gifts change the relationship. / Presentes condicionados mudam a relação.
+
+**Na prática:** State the scheduling policy plainly and record any boundary discussion if needed. / Explique a regra de agendamento com clareza e registre a conversa sobre limites se necessário.
+
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+
+### H96 · power-difference · Superavançado
+
+**EN:** Nora, 62, has had weekly sessions for two months. During care the therapist repeatedly asks her to donate to the therapist’s personal fundraiser, although she looks uncomfortable. What is the best ethical correction?
+**PT:** Nora, 62 anos, faz sessões semanais há dois meses. Durante o atendimento, o terapeuta pede repetidamente doações para sua campanha pessoal, embora ela pareça desconfortável. Qual a melhor correção ética?
+
+- A. Stop soliciting donations and keep the session focused on her care / Parar de pedir doações e manter a sessão focada no cuidado dela **[correta]**
+- B. Ask once more after the massage ends / Pedir mais uma vez após a sessão
+- C. Explain that donating will improve the therapeutic alliance / Dizer que doar melhora a relação terapêutica
+- D. Offer a discount if she donates / Oferecer desconto se ela doar
+
+**Por quê:** The professional role creates a power difference. Repeated personal solicitation uses that relationship for the therapist’s benefit rather than the client’s care. / O papel profissional cria diferença de poder. Pedidos pessoais repetidos usam essa relação em benefício do terapeuta, não do cuidado da cliente.
+
+**Outras alternativas:**
+- B: Changing the timing does not remove the pressure. / Mudar o momento não remove a pressão.
+- C: That links a personal request to care and increases pressure. / Isso associa pedido pessoal ao cuidado e aumenta a pressão.
+- D: An incentive does not fix the boundary conflict. / Um incentivo não resolve o conflito de limites.
+
+**Gancho:** Care is not a fundraising channel. / Atendimento não é canal de arrecadação.
+
+**Na prática:** Apologize briefly, stop the request, and return attention to her stated goal. / Peça desculpas brevemente, pare o pedido e volte à meta dela.
+
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+
+### H93 · privacy-image · Superavançado
+
+**EN:** Sofia, 29, has attended for six weeks and agrees to a photo of her shoulder posture for her private record. Later the therapist wants to post that photo as an example online. What should the therapist do?
+**PT:** Sofia, 29 anos, frequenta sessões há seis semanas e aceita uma foto da postura do ombro para seu registro privado. Depois, o terapeuta quer publicar a foto como exemplo na internet. O que deve fazer?
+
+- A. Obtain separate informed permission for public use or do not post it / Obter autorização informada separada para uso público ou não publicar **[correta]**
+- B. Post it because she agreed to the private record / Publicar porque ela aceitou o registro privado
+- C. Crop out the face and post without asking / Cortar o rosto e publicar sem perguntar
+- D. Wait one month and publish it then / Esperar um mês e publicar depois
+
+**Por quê:** Permission to document care does not authorize marketing or public disclosure. Seek explicit permission for the new use, with no pressure to agree. / Autorização para documentar o cuidado não autoriza marketing nem divulgação pública. Peça autorização explícita para o novo uso, sem pressão para aceitar.
+
+**Outras alternativas:**
+- B: Permission for one purpose is not permission for another. / Autorização para uma finalidade não vale para outra.
+- C: The image or context may still identify her, and permission remains limited. / Imagem ou contexto ainda podem identificá-la, e a autorização segue limitada.
+- D: Time passing does not expand consent. / Passar o tempo não amplia o consentimento.
+
+**Gancho:** A new use needs a new yes. / Novo uso pede novo sim.
+
+**Na prática:** Keep the clinical photo private unless public use is separately authorized. / Mantenha a foto clínica privada salvo autorização específica para divulgação.
+
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### H07 · records · Superavançado
 
@@ -1779,6 +1802,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [Nevada · requisitos de licenciamento](https://www.massagetherapy.nv.gov/applicants/applicants-faqs/)
 
+### H94 · scope-claim · Superavançado
+
+**EN:** Bruno, 51, has had low-back discomfort for seven weeks and asks the massage therapist to tell him which disk is damaged so he can cancel his medical visit. What is the best response?
+**PT:** Bruno, 51 anos, sente desconforto lombar há sete semanas e pede ao massoterapeuta que diga qual disco está lesionado para cancelar a consulta médica. Qual a melhor resposta?
+
+- A. Explain that massage assessment cannot diagnose a disk injury and support medical evaluation / Explicar que avaliação de massagem não diagnostica lesão de disco e apoiar avaliação médica **[correta]**
+- B. Name the most likely disk based on palpation / Nomear o disco mais provável pela palpação
+- C. Tell him to stop seeing other providers if massage helps / Dizer que pare de ver outros profissionais se a massagem ajuda
+- D. Document a disk injury as confirmed because he believes it / Registrar lesão de disco como confirmada porque ele acredita
+
+**Por quê:** A massage therapist can document reported symptoms and functional findings, not identify a damaged spinal disk from massage assessment. Keep referral within scope. / O massoterapeuta pode registrar sintomas relatados e achados funcionais, não identificar disco lesionado pela avaliação de massagem. Encaminhe dentro do escopo.
+
+**Outras alternativas:**
+- B: Palpation cannot establish that diagnosis. / Palpação não estabelece esse diagnóstico.
+- C: Symptom relief does not replace medical assessment. / Alívio de sintomas não substitui avaliação médica.
+- D: The record must not present an unverified diagnosis as fact. / O registro não deve apresentar diagnóstico não confirmado como fato.
+
+**Gancho:** Do not turn a report into a diagnosis. / Não transforme relato em diagnóstico.
+
+**Na prática:** Document his wording and encourage the scheduled medical visit. / Registre as palavras dele e recomende manter a consulta médica.
+
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
+
 ### 147 · tax · Superavançado
 
 **EN:** Alma, 38, has been a client for eight months. After today’s session she hands over three twenty-dollar bills and calls the extra a tip. How should the payment be recorded?
@@ -1801,52 +1847,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Write the total on the receipt. / Escreva o total no recibo.
 
 **Fonte de consulta:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
-
-### 21 · transfer · Intermediário
-
-**EN:** Uma, 58, has discussed discomfort with touch for four weeks. The client relates to the therapist as if the therapist were a critical parent. Which term BEST fits?
-**PT:** Uma, 58 anos, discute desconforto com o toque há quatro semanas. Cliente se relaciona com terapeuta como se fosse um pai crítico. Qual termo MELHOR se aplica?
-
-- A. Transference / Transferência **[correta]**
-- B. Countertransference / Contratransferência
-- C. Power differential / Diferencial de poder
-- D. Dual relationship / Relação dupla
-
-**Por quê:** The projection runs from client to practitioner. / A projeção parte do cliente para o profissional.
-
-**Outras alternativas:**
-- B: Practitioner brings unresolved personal feelings. / Profissional traz sentimentos pessoais não resolvidos.
-- C: Unequal influence within the professional relationship. / Influência desigual na relação profissional.
-- D: More than one role with a client. / Mais de um papel com um cliente.
-
-**Gancho:** The old relationship travels toward you. / A relação antiga é projetada em você.
-
-**Na prática:** Maintain clear limits if a client assigns you a parental role; avoid interpreting their history. / Mantenha limites claros se o cliente lhe atribuir papel parental; evite interpretar sua história.
-
-**Fonte de consulta:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
-
-### 22 · transfer · Intermediário
-
-**EN:** Vic, 43, has noticed emotional discomfort in sessions for three weeks. The therapist's own unresolved family feelings begin to influence care. Which boundary concept should the therapist recognize and address before continuing?
-**PT:** Vic, 43 anos, nota desconforto emocional nas sessões há três semanas. Sentimentos familiares não resolvidos do terapeuta começam a influenciar o cuidado. Qual conceito de limites ele deve reconhecer e abordar antes de continuar?
-
-- A. Countertransference / Contratransferência **[correta]**
-- B. Transference / Transferência
-- C. Informed consent / Consentimento informado
-- D. Confidentiality / Confidencialidade
-
-**Por quê:** The practitioner’s personal history is influencing care. / A história pessoal do profissional está influenciando o atendimento.
-
-**Outras alternativas:**
-- B: Client projects earlier relationship feelings. / Cliente projeta sentimentos de relações anteriores.
-- C: An informed, voluntary agreement. / Concordância voluntária e esclarecida.
-- D: Protection of private information. / Proteção de informações privadas.
-
-**Gancho:** Your history enters their session. / Sua história entra na sessão alheia.
-
-**Na prática:** Notice whether memories of your relative are changing how you treat this client. / Observe se lembranças do seu parente estão mudando como você atende esse cliente.
-
-**Fonte de consulta:** [ABMP · transferência e contratransferência](https://www.abmp.com/massage-and-bodywork-magazine/issues/novemberdecember-2018/transference-and-countertransference)
 
 ### 142 · transfer · Avançado
 
@@ -1873,6 +1873,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ## Efeitos e técnicas
 
+### H101 · acute-tissue · Superavançado
+
+**EN:** Dana, 34, twisted her ankle 18 hours ago. The area is warm, red, and swollen, and she asks for deep rubbing there to break up scar tissue. Which response best fits the tissue stage?
+**PT:** Dana, 34 anos, torceu o tornozelo há 18 horas. A região está quente, vermelha e inchada, e ela pede fricção profunda ali para romper cicatriz. Qual resposta combina melhor com a fase do tecido?
+
+- A. Avoid deep local friction and explain that early inflammation is not mature scar / Evitar fricção profunda local e explicar que inflamação inicial não é cicatriz madura **[correta]**
+- B. Apply deep cross-fiber friction to prevent scarring / Aplicar fricção transversal profunda para evitar cicatriz
+- C. Use rapid tapping to disperse the swelling / Usar batidas rápidas para dispersar o inchaço
+- D. Work directly there if pressure briefly reduces pain / Trabalhar diretamente ali se a pressão aliviar por um momento
+
+**Por quê:** Redness, warmth, and swelling soon after injury are inflammatory signs. Deep rubbing does not break up a mature scar that has not formed. / Vermelhidão, calor e inchaço logo após a lesão são sinais inflamatórios. Fricção profunda não rompe cicatriz madura que ainda não se formou.
+
+**Outras alternativas:**
+- B: The tissue is acutely inflamed, not a mature adhesion. / O tecido está em inflamação aguda, não em aderência madura.
+- C: Percussion adds force without addressing the acute injury. / Percussão acrescenta força sem resolver a lesão aguda.
+- D: Transient relief does not make acute deep work appropriate. / Alívio momentâneo não torna adequado trabalho profundo na lesão aguda.
+
+**Gancho:** Acute heat comes before scar. / Calor agudo vem antes da cicatriz.
+
+**Na prática:** Avoid the injured area and advise appropriate medical assessment if symptoms are severe or worsening. / Evite a área lesionada e recomende avaliação médica se os sintomas forem intensos ou piorarem.
+
+**Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+
 ### F43 · anatomy · Avançado
 
 **EN:** Mia, 48, has felt stressed for three weeks. After a calm session, her heart rate is lower. Which autonomic pattern is consistent with that observation, without claiming the massage caused it?
@@ -1895,6 +1918,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Note heart rate and breathing before and after. / Registre pulso e respiração antes e depois.
 
 **Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
+
+### H100 · claim-limits · Superavançado
+
+**EN:** Caleb, 60, has had recurring low-back pain for four months and asks whether massage will cure its underlying cause. Which explanation is best supported before treatment?
+**PT:** Caleb, 60 anos, tem dor lombar recorrente há quatro meses e pergunta se a massagem vai curar a causa de base. Qual explicação tem melhor respaldo antes do atendimento?
+
+- A. Massage may help some symptoms, but its effect and the cause need separate assessment / Massagem pode ajudar alguns sintomas, mas efeito e causa exigem avaliações separadas **[correta]**
+- B. A single deep session will correct the cause permanently / Uma sessão profunda corrigirá a causa para sempre
+- C. If pain decreases, the underlying problem is resolved / Se a dor diminuir, o problema de base está resolvido
+- D. Massage has no possible role in pain care / Massagem não pode ter papel no cuidado da dor
+
+**Por quê:** Evidence supports possible short-term symptom benefit for some pain conditions, with limits. Do not equate relief with diagnosis or guaranteed cure. / A evidência apoia possível benefício sintomático de curto prazo em algumas dores, com limites. Não confunda alívio com diagnóstico nem prometa cura.
+
+**Outras alternativas:**
+- B: The evidence does not support a guaranteed cure. / A evidência não sustenta cura garantida.
+- C: Symptom improvement does not establish the cause. / Melhora de sintomas não comprova a causa.
+- D: That dismisses potential symptom benefit without basis. / Isso descarta possível benefício sintomático sem base.
+
+**Gancho:** Relief is not proof of cure. / Alívio não é prova de cura.
+
+**Na prática:** Agree on a measurable goal such as comfort during a task and reassess it. / Combine uma meta mensurável, como conforto numa tarefa, e reavalie.
+
+**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### H13 · manual-technique · Superavançado
 
@@ -1964,29 +2010,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Ask how the sustained contact feels before increasing depth. / Pergunte como o contato sustentado é percebido antes de aprofundar.
 
 **Fonte de consulta:** [Cleveland Clinic · liberação miofascial](https://my.clevelandclinic.org/health/treatments/24011-myofascial-release-therapy)
-
-### 39 · massage · Intermediário
-
-**EN:** Max, 55, has had mild back discomfort for three months and asks whether massage guarantees a cure. Which claim should the practitioner choose when setting realistic expectations?
-**PT:** Max, 55 anos, sente leve desconforto nas costas há três meses e pergunta se massagem garante cura. Qual afirmação o profissional deve escolher ao definir expectativas realistas?
-
-- A. It may help some pain symptoms / Pode ajudar em alguns sintomas dolorosos **[correta]**
-- B. It always cures chronic pain / Sempre cura dor crônica
-- C. It replaces all medical assessment / Substitui toda avaliação médica
-- D. Its effects are identical for everyone / Seus efeitos são iguais para todos
-
-**Por quê:** Benefits vary by condition and person. / Benefícios variam conforme a condição e a pessoa.
-
-**Outras alternativas:**
-- B: Evidence does not establish universal cures. / Evidência não estabelece cura universal.
-- C: Massage does not replace needed assessment. / Massagem não substitui avaliação necessária.
-- D: Responses vary between people. / Respostas variam entre pessoas.
-
-**Gancho:** May help is not will cure. / Pode ajudar não é vai curar.
-
-**Na prática:** Describe a possible benefit without promising that every client will improve. / Descreva um benefício possível sem prometer melhora para todos os clientes.
-
-**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
 ### 40 · massage · Avançado
 
@@ -2264,6 +2287,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [MedlinePlus · analgésicos](https://medlineplus.gov/painrelievers.html)
 
+### H97 · pressure-response · Superavançado
+
+**EN:** Iris, 41, has had nonacute shoulder tightness for five weeks. During a firm stroke she says the pressure causes sharp pain and her arm tenses. Which change best fits the immediate response?
+**PT:** Iris, 41 anos, sente tensão não aguda no ombro há cinco semanas. Durante uma manobra firme, diz que a pressão provoca dor aguda e seu braço contrai. Qual mudança responde melhor ao momento?
+
+- A. Stop that stroke, reduce pressure, and ask what feels comfortable / Parar a manobra, reduzir a pressão e perguntar o que é confortável **[correta]**
+- B. Keep the stroke because brief pain proves release / Manter a manobra porque dor breve prova liberação
+- C. Press deeper until the muscle stops guarding / Apertar mais até o músculo parar de proteger
+- D. Ignore the arm tension and finish the set / Ignorar a contração do braço e terminar a sequência
+
+**Por quê:** Sharp pain and guarding are feedback to stop or modify the stroke. Recheck comfort and consent before continuing; intensity alone does not establish benefit. / Dor aguda e proteção muscular são sinais para parar ou adaptar a manobra. Confirme conforto e consentimento antes de continuar; intensidade isolada não prova benefício.
+
+**Outras alternativas:**
+- B: Pain is not proof of a beneficial tissue change. / Dor não prova uma mudança benéfica no tecido.
+- C: More pressure may intensify the adverse response. / Mais pressão pode intensificar a resposta ruim.
+- D: A changed response needs a changed plan. / Uma resposta alterada pede mudança no plano.
+
+**Gancho:** The client’s response sets the pressure. / A resposta do cliente define a pressão.
+
+**Na prática:** Ask whether the pain ends when contact stops and document the adjustment. / Pergunte se a dor cessa ao parar o toque e registre o ajuste.
+
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
+
 ### H36 · rapid-stretch · Superavançado
 
 **EN:** Eli, 52, has had calf tightness for five weeks. A quick passive stretch makes the calf contract suddenly. Which receptor best explains the immediate length-sensitive response, and how should the therapist proceed?
@@ -2287,29 +2333,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · respostas motoras e reflexos](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses)
 
-### 41 · rights · Intermediário
-
-**EN:** Oli, 60, has had shoulder discomfort for four weeks and now reports painful pressure. The client tenses and says the pressure hurts. What should you do FIRST?
-**PT:** Oli, 60 anos, sente desconforto no ombro há quatro semanas e agora relata pressão dolorosa. Cliente contrai o corpo e diz que a pressão dói. O que fazer PRIMEIRO?
-
-- A. Stop and check / Parar e verificar **[correta]**
-- B. Increase pressure / Aumentar a pressão
-- C. Continue unchanged / Continuar sem alterações
-- D. Diagnose the condition / Diagnosticar a condição
-
-**Por quê:** Check comfort and adjust or stop with the client. / Confira conforto e ajuste ou interrompa com o cliente.
-
-**Outras alternativas:**
-- B: More pressure is not automatically safer. / Mais pressão não é automaticamente mais segura.
-- C: Does not address changed circumstances. / Não considera mudanças nas condições.
-- D: Medical diagnosis exceeds this role. / Diagnóstico médico excede este papel.
-
-**Gancho:** Pain changes the pressure conversation. / Dor muda a conversa sobre pressão.
-
-**Na prática:** Ask whether the client wants less pressure, another approach or a stop. / Pergunte se o cliente quer menos pressão, outra abordagem ou uma interrupção.
-
-**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
-
 ### H48 · squat-phases · Superavançado
 
 **EN:** Kai, 38, has had thigh soreness for three weeks. In a supervised movement review, he slowly lowers into a squat, holds still for five seconds, then stands. Which sequence best describes the quadriceps during these three phases?
@@ -2332,6 +2355,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Describe each phase instead of giving one label to the whole squat. / Descreva cada fase em vez de dar um rótulo ao agachamento inteiro.
 
 **Fonte de consulta:** [OpenStax · tipos de contração muscular](https://openstax.org/books/anatomy-and-physiology/pages/10-4-nervous-system-control-of-muscle-tension)
+
+### H98 · stroke-choice · Superavançado
+
+**EN:** Ben, 53, has had mild upper-back tension for six weeks. He wants a calm, continuous opening to the session and dislikes rapid tapping. Which stroke best matches the stated goal?
+**PT:** Ben, 53 anos, sente leve tensão na parte superior das costas há seis semanas. Quer um início calmo e contínuo para a sessão e não gosta de batidas rápidas. Qual manobra combina melhor com a meta?
+
+- A. Broad gliding effleurage with pressure checked as you go / Effleurage com deslizamento amplo e pressão conferida durante a manobra **[correta]**
+- B. Rapid tapotement over the upper back / Tapotement rápido na parte superior das costas
+- C. Deep localized friction from the first contact / Fricção localizada profunda desde o primeiro contato
+- D. Sustained compression without moving the hands / Compressão sustentada sem mover as mãos
+
+**Por quê:** Effleurage is a gliding stroke and can begin a session with broad contact. The choice follows the client’s goal and feedback, not a promise of a specific physiological outcome. / Effleurage é manobra deslizante e pode abrir a sessão com contato amplo. A escolha segue a meta e o retorno do cliente, sem prometer efeito fisiológico específico.
+
+**Outras alternativas:**
+- B: Percussive tapping conflicts with his stated preference. / Batidas percussivas contrariam a preferência declarada.
+- C: Localized deep work is not a calm broad opening. / Trabalho profundo localizado não é início amplo e calmo.
+- D: Stationary pressure does not provide continuous gliding. / Pressão parada não fornece deslizamento contínuo.
+
+**Gancho:** Calm, continuous contact calls for glide. / Contato calmo e contínuo pede deslizamento.
+
+**Na prática:** Start lightly and ask how the pressure feels before changing technique. / Comece leve e pergunte como está a pressão antes de mudar a técnica.
+
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
+
+### H99 · technique-discrimination · Superavançado
+
+**EN:** Ruth, 46, has had a small area of comfortable, nonacute tissue restriction for three months. The plan calls for a short, localized movement rather than a long stroke along the limb. Which technique fits that distinction?
+**PT:** Ruth, 46 anos, tem uma pequena área de restrição tecidual não aguda e confortável há três meses. O plano pede movimento curto e localizado, não manobra longa pelo membro. Qual técnica combina com essa distinção?
+
+- A. Gentle localized friction, adjusted to her feedback / Fricção localizada suave, ajustada ao retorno dela **[correta]**
+- B. Long effleurage across the whole limb / Effleurage longo pelo membro inteiro
+- C. Rapid percussion around the area / Percussão rápida ao redor da área
+- D. Sustained still compression with no movement / Compressão parada e sustentada sem movimento
+
+**Por quê:** The requested feature is local rubbing over a small area, which distinguishes friction from long gliding, percussion, or a still hold. Keep intensity comfortable. / A característica pedida é fricção em uma pequena área, distinta de deslizamento longo, percussão ou pressão parada. Mantenha intensidade confortável.
+
+**Outras alternativas:**
+- B: Long gliding contact is not localized short movement. / Deslizamento longo não é movimento curto e localizado.
+- C: Tapping is a different contact pattern. / Batidas formam outro padrão de contato.
+- D: A stationary hold lacks the requested short rubbing motion. / Contato parado não tem o pequeno movimento de fricção pedido.
+
+**Gancho:** Short rub, small area. / Fricção curta, área pequena.
+
+**Na prática:** Use a brief contact and ask whether the tissue remains comfortable. / Use contato breve e pergunte se a região continua confortável.
+
+**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
 ### 33 · techniques · Superavançado
 
@@ -2399,75 +2468,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Name the stroke; respect the stop. / Nomeie a manobra; respeite a pausa.
 
 **Na prática:** Ask whether he prefers a slower, lighter alternative. / Pergunte se prefere alternativa mais lenta e leve.
-
-**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
-
-### 36 · techniques · Intermediário
-
-**EN:** Jill, 50, has had back tension for six weeks and asks for small comfortable oscillations. Which technique should the practitioner choose to transmit them through the hand?
-**PT:** Jill, 50 anos, sente tensão nas costas há seis semanas e pede pequenas oscilações confortáveis. Qual técnica o profissional deve escolher para transmiti-las pela mão?
-
-- A. Vibration / Vibração **[correta]**
-- B. Petrissage / Amassamento
-- C. Compression / Compressão
-- D. Friction / Fricção
-
-**Por quê:** Vibration uses oscillating movement. / Vibração usa movimento oscilatório.
-
-**Outras alternativas:**
-- B: Lifting and kneading soft tissue. / Elevar e amassar tecidos moles.
-- C: Pressure directed into tissue. / Pressão direcionada ao tecido.
-- D: Localized rubbing with limited glide. / Movimento localizado com pouco deslizamento.
-
-**Gancho:** Small shakes, not long strokes. / Pequenas oscilações, não longos percursos.
-
-**Na prática:** Notice the small repeated oscillations at the contact point. / Observe as pequenas oscilações repetidas no ponto de contato.
-
-**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
-
-### 37 · techniques · Intermediário
-
-**EN:** Kai, 42, has had neck tension for three weeks and asks about stationary pressure. A therapist applies pressure into tissue without gliding. Which term describes this?
-**PT:** Kai, 42 anos, sente tensão cervical há três semanas e pergunta sobre pressão estacionária. Terapeuta aplica pressão sobre o tecido sem deslizar. Qual termo descreve isso?
-
-- A. Compression / Compressão **[correta]**
-- B. Effleurage / Deslizamento
-- C. Tapotement / Percussão
-- D. Petrissage / Amassamento
-
-**Por quê:** Compression is pressure directed into tissue. / Compressão é pressão direcionada ao tecido.
-
-**Outras alternativas:**
-- B: Gliding strokes across the tissue. / Movimentos deslizantes sobre o tecido.
-- C: Rhythmic percussion movements. / Movimentos rítmicos de percussão.
-- D: Lifting and kneading soft tissue. / Elevar e amassar tecidos moles.
-
-**Gancho:** Press inward without traveling. / Pressione sem percorrer a área.
-
-**Na prática:** Separate pressure directed into tissue from a stroke that moves along it. / Diferencie a pressão dirigida ao tecido de um movimento que percorre sua superfície.
-
-**Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
-
-### 38 · techniques · Intermediário
-
-**EN:** Luz, 47, has had localized back tension for one month and asks about a small rubbing stroke. Localized rubbing uses little glide over the skin. Which term describes this?
-**PT:** Luz, 47 anos, sente tensão localizada nas costas há um mês e pergunta sobre fricção curta. Movimento localizado usa pouco deslizamento sobre a pele. Qual termo descreve isso?
-
-- A. Friction / Fricção **[correta]**
-- B. Effleurage / Deslizamento
-- C. Vibration / Vibração
-- D. Tapotement / Percussão
-
-**Por quê:** Friction is localized rather than a long glide. / Fricção é localizada, em vez de um longo deslizamento.
-
-**Outras alternativas:**
-- B: Gliding strokes across the tissue. / Movimentos deslizantes sobre o tecido.
-- C: Fine oscillating movements. / Movimentos oscilatórios finos.
-- D: Rhythmic percussion movements. / Movimentos rítmicos de percussão.
-
-**Gancho:** Small area, little glide. / Área pequena, pouco deslizamento.
-
-**Na prática:** Identify the localized rubbing rather than following the length of a limb. / Identifique o movimento localizado, em vez de um percurso pelo comprimento do membro.
 
 **Fonte de consulta:** [AMTA · técnicas básicas](https://www.amtamassage.org/publications/massage-therapy-journal/basics-of-massage-therapy/)
 
@@ -2818,52 +2818,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
-### 49 · cdc · Intermediário
-
-**EN:** Wes, 36, has been asking about instrument hygiene for two weeks. Which process eliminates all forms of microbial life, including bacterial spores?
-**PT:** Wes, 36 anos, pergunta sobre higiene de instrumentos há duas semanas. Qual processo elimina todas as formas de vida microbiana, incluindo esporos bacterianos?
-
-- A. Sterilization / Esterilização **[correta]**
-- B. Disinfection / Desinfecção
-- C. Cleaning / Limpeza
-- D. Deodorizing / Desodorização
-
-**Por quê:** Sterilization includes resistant microbial forms. / Esterilização inclui formas microbianas resistentes.
-
-**Outras alternativas:**
-- B: Eliminates many pathogens, not necessarily spores. / Elimina muitos patógenos, não necessariamente esporos.
-- C: Removes visible soil and organic matter. / Remove sujeira visível e matéria orgânica.
-- D: Changes odor without establishing disinfection. / Altera odor sem comprovar desinfecção.
-
-**Gancho:** All forms includes spores. / Todas as formas inclui esporos.
-
-**Na prática:** Check whether the item’s intended use requires sterilization rather than surface disinfection. / Confira se o uso do item exige esterilização em vez de desinfecção de superfície.
-
-**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
-
-### 50 · cdc · Intermediário
-
-**EN:** Xena, 48, has questioned surface disinfection for one week. After cleaning a suitable nonporous surface, which process reduces pathogens using an appropriate product?
-**PT:** Xena, 48 anos, questiona a desinfecção de superfícies há uma semana. Após limpar superfície não porosa adequada, qual processo reduz patógenos com produto apropriado?
-
-- A. Disinfection / Desinfecção **[correta]**
-- B. Deodorizing / Desodorização
-- C. Cleaning / Limpeza
-- D. Informed consent / Consentimento informado
-
-**Por quê:** Use a suitable disinfectant according to its label. / Use desinfetante adequado conforme o rótulo.
-
-**Outras alternativas:**
-- B: Changes odor without establishing disinfection. / Altera odor sem comprovar desinfecção.
-- C: Removes visible soil and organic matter. / Remove sujeira visível e matéria orgânica.
-- D: An informed, voluntary agreement. / Concordância voluntária e esclarecida.
-
-**Gancho:** A clean surface can still need disinfection. / Superfície limpa ainda pode precisar de desinfecção.
-
-**Na prática:** After removing soil, apply a product suitable for that surface according to its label. / Após remover sujeira, aplique produto adequado à superfície conforme o rótulo.
-
-**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
-
 ### 51 · cdc · Avançado
 
 **EN:** Yara, 41, has been reviewing a disinfectant protocol for two days. The disinfectant label requires a wet contact time. What should the practitioner follow FIRST to make disinfection effective?
@@ -2930,29 +2884,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Clean, then keep wet. / Limpe, depois mantenha úmido.
 
 **Na prática:** Read the label before scheduling the room's next use. / Leia o rótulo antes de liberar a sala para o próximo atendimento.
-
-**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
-
-### 134 · cdc · Intermediário
-
-**EN:** Vera, 39, finishes a one-hour session and finds used sheets plus a towel with drainage. How should she handle the laundry?
-**PT:** Vera, 39 anos, termina sessão de uma hora e encontra lençóis usados e uma toalha com secreção. Como deve manusear a roupa?
-
-- A. Bag the soiled towel separately and do not shake the linen / Embalar a toalha suja separada e não sacudir a roupa **[correta]**
-- B. Shake each piece before bagging / Sacudir cada peça antes de embalar
-- C. Mix everything and wash hot / Misturar tudo e lavar quente
-- D. Store the soiled towel with clean linen / Guardar a toalha suja junto da limpa
-
-**Por quê:** Bag the contaminated piece separately, do not shake, then wash per protocol. / Embalar a peça contaminada separada, não sacudir, depois lavar conforme protocolo.
-
-**Outras alternativas:**
-- B: Shaking spreads particles. / Sacudir espalha partículas.
-- C: Heat helps, but mixing spreads the soiled item. / Calor ajuda, mas misturar espalha.
-- D: Contamination transfers. / Contaminação transfere.
-
-**Gancho:** Bag the wet one, don't shake. / Embalar a molhada, não sacudir.
-
-**Na prática:** Keep a lidded bin and a separate bag. / Mantenha lixeira com tampa e saco separado.
 
 **Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
@@ -3048,28 +2979,28 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
 
-### 56 · ethics · Intermediário
+### H104 · draping-response · Superavançado
 
-**EN:** Dan, 42, has had back discomfort for a month and asks about visit records. Which record is MOST appropriate after a session?
-**PT:** Dan, 42 anos, sente desconforto nas costas há um mês e pergunta sobre o prontuário. Qual registro é MAIS apropriado após uma sessão?
+**EN:** Lia, 31, has had shoulder discomfort for four weeks. While she turns on the table, the drape slips and exposes an area she asked to keep covered. What should the therapist do first?
+**PT:** Lia, 31 anos, sente desconforto no ombro há quatro semanas. Ao virar na maca, o lençol escorrega e expõe uma área que ela pediu para manter coberta. O que o terapeuta faz primeiro?
 
-- A. Relevant findings, care and response / Achados relevantes, atendimento e resposta **[correta]**
-- B. Personal insults about the client / Insultos pessoais sobre o cliente
-- C. Invented findings to justify billing / Achados inventados para justificar cobrança
-- D. Only a promotional testimonial / Apenas depoimento promocional
+- A. Stop, restore the drape, and confirm her comfort before continuing / Parar, recolocar o lençol e confirmar o conforto antes de continuar **[correta]**
+- B. Continue because the exposure was accidental / Continuar porque a exposição foi acidental
+- C. Ask her to tolerate it until the stroke ends / Pedir que tolere até terminar a manobra
+- D. Take a photo to document the slip / Fotografar para documentar o incidente
 
-**Por quê:** Document accurately and professionally. / Documente com precisão e profissionalismo.
+**Por quê:** Client privacy applies during repositioning too. Restore coverage immediately and ask whether she wants to continue or adjust the position. / A privacidade vale também durante a mudança de posição. Cubra imediatamente e pergunte se ela quer continuar ou ajustar a posição.
 
 **Outras alternativas:**
-- B: Insults are not professional documentation. / Insultos não são documentação profissional.
-- C: Fabrication is dishonest. / Fabricação é desonesta.
-- D: Promotion is not a clinical record. / Promoção não é registro clínico.
+- B: An accidental slip still needs an immediate response. / Mesmo acidental, a exposição pede resposta imediata.
+- C: The plan does not override her stated privacy limit. / O plano não supera o limite de privacidade declarado.
+- D: A photo adds an unnecessary privacy intrusion. / Foto acrescenta invasão de privacidade desnecessária.
 
-**Gancho:** Write what happened, not what sells. / Escreva o que ocorreu, não o que vende.
+**Gancho:** Cover before continuing. / Cubra antes de continuar.
 
-**Na prática:** Document the relevant findings, what you did and how the client responded. / Documente achados relevantes, o que você fez e como o cliente respondeu.
+**Na prática:** Explain the next turn before moving the sheet again. / Explique a próxima mudança antes de mover o lençol novamente.
 
-**Fonte de consulta:** [AMTA · código de ética](https://www.amtamassage.org/about/core-documents/)
+**Fonte de consulta:** [AMTA · direitos na sessão](https://www.amtamassage.org/find-massage-therapist/what-to-expect-at-massage-session/)
 
 ### 57 · ethics · Superavançado
 
@@ -3278,6 +3209,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [AMTA · mecânica corporal na massagem](https://www.amtamassage.org/publications/massage-therapy-journal/work-smarter-not-harder/)
 
+### H103 · linen-exposure · Superavançado
+
+**EN:** Milo, 47, finishes a session and finds drainage on a used towel from a client’s covered scrape present for two days. Which handling plan best matches the expected exposure?
+**PT:** Milo, 47 anos, termina uma sessão e vê secreção numa toalha usada por um cliente com ralado coberto há dois dias. Qual manejo combina melhor com a exposição prevista?
+
+- A. Use gloves for the contaminated towel, contain it, then perform hand hygiene / Usar luvas para a toalha contaminada, contê-la e depois higienizar as mãos **[correta]**
+- B. Carry it barehanded because the scrape was covered / Carregar sem luvas porque o ralado estava coberto
+- C. Shake it before placing it in the laundry bin / Sacudir antes de colocar no recipiente de roupa
+- D. Keep the same gloves on for the next client / Manter as mesmas luvas para o próximo cliente
+
+**Por quê:** Anticipated contact with body fluid calls for a barrier. Handle contaminated linen without spreading residue and clean hands after removing gloves. / Contato previsto com fluido corporal pede barreira. Manuseie a roupa contaminada sem espalhar resíduos e higienize as mãos após retirar as luvas.
+
+**Outras alternativas:**
+- B: The towel has visible drainage despite the cover. / A toalha tem secreção visível apesar da cobertura.
+- C: Shaking can spread contamination. / Sacudir pode espalhar contaminação.
+- D: Used gloves do not replace hand hygiene and may transfer contamination. / Luvas usadas não substituem higiene das mãos e podem transferir contaminação.
+
+**Gancho:** The towel carries the exposure. / A toalha carrega a exposição.
+
+**Na prática:** Keep a closed, designated container near the treatment area. / Mantenha recipiente fechado e próprio perto da sala.
+
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-4.html)
+
 ### 109 · mechanics · Intermediário
 
 **EN:** Julia, a 35-year-old massage therapist, has lower-back fatigue at the end of workdays for two weeks. She bends over a low table and reaches across a client during back work. Which adjustment best addresses the observed mechanics?
@@ -3368,7 +3322,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Set the affected area aside in the plan and put on suitable gloves before handling any contaminated linen. / Exclua a área afetada do plano e coloque luvas adequadas antes de manusear roupa contaminada.
 
-**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-4.html)
 
 ### F42 · ppe · Avançado
 
@@ -3391,7 +3345,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Clean, then disinfect, with the label time. / Limpe, depois desinfete, com o tempo do rótulo.
 
-**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-4.html)
 
 ### H16 · ppe · Superavançado
 
@@ -3414,7 +3368,30 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Place used linen in the designated container before approaching clean stock. / Coloque a roupa usada no recipiente adequado antes de ir ao estoque limpo.
 
-**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-4.html)
+
+### H106 · record-boundary · Superavançado
+
+**EN:** Nina, 50, has had shoulder discomfort for six weeks. After a session, she says her physician is still evaluating the cause. What belongs in the massage therapist’s record?
+**PT:** Nina, 50 anos, sente desconforto no ombro há seis semanas. Após a sessão, diz que seu médico ainda investiga a causa. O que cabe no registro do massoterapeuta?
+
+- A. Her report, observed response, work performed, and plan without an unconfirmed diagnosis / O relato, a resposta observada, o trabalho realizado e o plano sem diagnóstico não confirmado **[correta]**
+- B. A definitive rotator-cuff diagnosis based on palpation / Diagnóstico definitivo do manguito por palpação
+- C. Only the payment amount because the cause is unknown / Apenas o valor pago porque a causa é desconhecida
+- D. A prediction that the next session will cure the problem / Previsão de que a próxima sessão vai curar o problema
+
+**Por quê:** Chart what was reported, observed, done, and planned. A pending medical diagnosis should remain pending in the massage record. / Registre o que foi relatado, observado, feito e planejado. Diagnóstico médico ainda em investigação deve continuar pendente no registro de massagem.
+
+**Outras alternativas:**
+- B: Palpation does not establish that medical diagnosis. / Palpação não estabelece esse diagnóstico médico.
+- C: Care still needs a useful treatment record. / O cuidado ainda precisa de registro útil.
+- D: A cure claim exceeds the evidence and scope. / Promessa de cura excede evidência e escopo.
+
+**Gancho:** Record facts, not guesses. / Registre fatos, não suposições.
+
+**Na prática:** Use the client’s own words for symptoms and note the response to care. / Use as palavras da cliente para os sintomas e anote a resposta ao atendimento.
+
+**Fonte de consulta:** [ABMP · código de ética](https://www.abmp.com/abmp-s-code-of-ethics-for-massage-therapists)
 
 ### 59 · rights · Avançado
 
@@ -3462,6 +3439,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
 
+### H102 · surface-turnover · Superavançado
+
+**EN:** Ari, 38, runs a massage room. After a session, visible oil remains on a reusable nonporous face cradle; the next appointment is in five minutes. What sequence is appropriate?
+**PT:** Ari, 38 anos, cuida de uma sala de massagem. Após a sessão, resta óleo visível no apoio facial reutilizável e não poroso; o próximo cliente chega em cinco minutos. Qual sequência é adequada?
+
+- A. Clean the oil first, then disinfect for the label contact time before reuse / Limpar o óleo primeiro, depois desinfetar pelo tempo do rótulo antes de reutilizar **[correta]**
+- B. Spray disinfectant over the oil and wipe it immediately / Borrifar desinfetante sobre o óleo e secar imediatamente
+- C. Cover the oily surface with a clean cloth / Cobrir a superfície oleosa com tecido limpo
+- D. Use perfume and move the next client to the table / Usar perfume e chamar o próximo cliente
+
+**Por quê:** Cleaning removes visible residue before disinfection. Follow the product label’s wet contact time even if the schedule must shift. / A limpeza retira o resíduo visível antes da desinfecção. Siga o tempo de contato úmido do rótulo, mesmo que a agenda precise mudar.
+
+**Outras alternativas:**
+- B: Visible soil interferes, and wiping early defeats contact time. / Sujeira visível interfere, e secar cedo elimina o tempo de contato.
+- C: A cover does not clean the reusable surface. / Cobertura não limpa a superfície reutilizável.
+- D: Odor control is not cleaning or disinfection. / Controlar odor não é limpar nem desinfetar.
+
+**Gancho:** Oil off, then label time. / Óleo fora, depois tempo do rótulo.
+
+**Na prática:** Build turnover time into scheduling rather than shortening the disinfectant step. / Reserve tempo entre sessões em vez de encurtar a desinfecção.
+
+**Fonte de consulta:** [CDC · limpeza, desinfecção e esterilização](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html)
+
 ### 187 · surfaces · Superavançado
 
 **EN:** Mina, 50, has managed a massage room for two years. Today she must clean a wooden stool and a vinyl table after use. What should guide disinfection of each surface?
@@ -3485,28 +3485,28 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [CDC · limpar e desinfetar instalações](https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html)
 
-### 53 · tax · Intermediário
+### H105 · table-lift · Superavançado
 
-**EN:** Ava, 45, has discussed exchanging massage for goods for two weeks. You receive goods worth $100 for a massage. What gross barter income is generally included?
-**PT:** Ava, 45 anos, conversa sobre troca de massagem por produtos há duas semanas. Você recebe bens de valor justo de US$ 100 por massagem. Que renda bruta de permuta geralmente entra na declaração?
+**EN:** Owen, 45, has had end-of-day back fatigue for three weeks. He must move a folded massage table from floor level and can ask a coworker for help. Which plan reduces the lifting demand most directly?
+**PT:** Owen, 45 anos, sente fadiga lombar no fim do dia há três semanas. Precisa mover uma maca dobrada do chão e pode pedir ajuda a um colega. Qual plano reduz mais diretamente a exigência do levantamento?
 
-- A. 100 dollars / 100 dólares **[correta]**
-- B. 0 dollars / 0 dólares
-- C. 50 dollars / 50 dólares
-- D. 25 dollars / 25 dólares
+- A. Get help if needed, keep the load close, and lift without twisting / Pedir ajuda se necessário, manter a carga perto e levantar sem girar o tronco **[correta]**
+- B. Hold the table at arm’s length to keep it off his clothes / Segurar a maca longe do corpo para não tocar a roupa
+- C. Rotate the trunk while rising to save a step / Girar o tronco ao levantar para economizar um passo
+- D. Jerk it upward quickly before the back tires / Puxar rápido para cima antes de cansar
 
-**Por quê:** Generally include the fair market value received. / Geralmente inclua o valor justo de mercado recebido.
+**Por quê:** Load proximity, a stable stance, and help for a bulky object reduce lifting strain. The exact joint angles can vary; avoid twisting while handling the table. / Carga próxima, base estável e ajuda para objeto volumoso reduzem o esforço. Os ângulos articulares podem variar; evite girar ao manusear a maca.
 
 **Outras alternativas:**
-- B: No cash does not mean no income. / Ausência de dinheiro não significa ausência de renda.
-- C: Half the value has no stated basis. / Metade do valor não tem base no enunciado.
-- D: A quarter has no stated basis. / Um quarto não tem base no enunciado.
+- B: A farther load increases leverage on the back. / Carga mais distante aumenta a alavanca sobre as costas.
+- C: Twisting under load adds avoidable strain. / Girar sob carga acrescenta esforço evitável.
+- D: Speed does not reduce the lifting demand safely. / Velocidade não reduz a exigência com segurança.
 
-**Gancho:** No cash does not mean no value. / Sem dinheiro não significa sem valor.
+**Gancho:** Near the body, no twist. / Perto do corpo, sem torcer.
 
-**Na prática:** Record the fair market value of the goods received in the exchange. / Registre o valor justo de mercado dos bens recebidos na troca.
+**Na prática:** Clear the path and choose a handhold before moving the table. / Desobstrua o caminho e escolha a pega antes de mover a maca.
 
-**Fonte de consulta:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
+**Fonte de consulta:** [NIOSH · ergonomia no trabalho](https://stacks.cdc.gov/view/cdc/213728)
 
 ### 54 · tax · Avançado
 
@@ -3532,6 +3532,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Fonte de consulta:** [IRS · permuta e renda](https://www.irs.gov/newsroom/four-things-you-should-know-if-you-barter)
 
 ## Patologia e precauções
+
+### H110 · active-illness · Superavançado
+
+**EN:** Isaac, 49, has had a productive cough, body aches, and fever since yesterday. He says he feels a little better after fever medicine and wants a full massage today. What is the best decision?
+**PT:** Isaac, 49 anos, tem tosse produtiva, dores no corpo e febre desde ontem. Diz que se sente um pouco melhor após remédio para febre e quer massagem completa hoje. Qual a melhor decisão?
+
+- A. Postpone the session while he has active symptoms and fever / Adiar a sessão enquanto houver sintomas ativos e febre **[correta]**
+- B. Proceed because medicine lowered the temperature / Prosseguir porque o remédio baixou a temperatura
+- C. Work only on his legs to avoid the chest / Trabalhar só nas pernas para evitar o tórax
+- D. Use percussion to clear his cough / Usar percussão para soltar a tosse
+
+**Por quê:** An active respiratory illness with fever and body aches calls for staying home until symptoms improve and fever has been absent without fever-reducing medicine for at least 24 hours. / Doença respiratória ativa com febre e dores no corpo pede ficar em casa até os sintomas melhorarem e passar ao menos 24 horas sem febre, sem antitérmico.
+
+**Outras alternativas:**
+- B: Fever reduction by medication does not show recovery. / Baixar febre com remédio não demonstra recuperação.
+- C: The illness is not confined to the chest contact area. / A doença não se limita à área de contato no tórax.
+- D: Massage percussion is not a substitute for illness guidance. / Percussão de massagem não substitui orientação para doença.
+
+**Gancho:** Medicine can hide the fever. / Remédio pode esconder a febre.
+
+**Na prática:** Offer to reschedule and advise medical care for worsening or concerning symptoms. / Ofereça remarcar e recomende assistência médica se os sintomas piorarem ou preocuparem.
+
+**Fonte de consulta:** [CDC · doença respiratória ativa](https://www.cdc.gov/respiratory-viruses/about/index.html)
+
+### H108 · anticoagulant-pressure · Superavançado
+
+**EN:** Maya, 73, has used an anticoagulant for eight months. She reports easy bruising after her last deep-tissue session two weeks ago but wants the same pressure today. Which plan best accounts for the medication?
+**PT:** Maya, 73 anos, usa anticoagulante há oito meses. Relata hematomas fáceis após a última sessão profunda há duas semanas, mas quer a mesma pressão hoje. Qual plano considera melhor o medicamento?
+
+- A. Review the bruising and choose lighter contact, avoiding forceful work / Rever os hematomas e escolher contato mais leve, evitando trabalho forte **[correta]**
+- B. Use deeper pressure because the medication prevents clots / Usar pressão mais profunda porque o remédio evita coágulos
+- C. Skip only the visible bruises and keep deep work elsewhere / Evitar apenas os hematomas visíveis e manter trabalho profundo em outras áreas
+- D. Tell her to stop the medicine before the next visit / Dizer que suspenda o remédio antes da próxima sessão
+
+**Por quê:** Anticoagulants raise bleeding and bruising risk. Her prior bruising makes forceful pressure inappropriate; do not advise changing a prescribed dose. / Anticoagulantes aumentam risco de sangramento e hematomas. O histórico torna pressão forte inadequada; não recomende mudar dose prescrita.
+
+**Outras alternativas:**
+- B: Anticoagulation increases bleeding risk, not tissue tolerance. / Anticoagulação aumenta risco de sangramento, não tolerância do tecido.
+- C: The medication-related risk is not limited to visible marks. / O risco ligado ao remédio não se limita às marcas visíveis.
+- D: Medication changes are outside massage scope and can be dangerous. / Mudar medicação está fora do escopo e pode ser perigoso.
+
+**Gancho:** A bruise is feedback about force. / Hematoma é retorno sobre a força.
+
+**Na prática:** Ask where bruising occurred and document the lower-pressure choice. / Pergunte onde surgiram hematomas e registre a escolha de pressão menor.
+
+**Fonte de consulta:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
 
 ### H21 · anticoagulants · Superavançado
 
@@ -3648,6 +3694,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
+### H107 · clot-warning · Superavançado
+
+**EN:** Ravi, 58, has had calf aching since a ten-hour flight yesterday. Today one calf is newly swollen and warm, and he asks for deep leg massage before another flight. What is the safest response?
+**PT:** Ravi, 58 anos, sente dor na panturrilha desde um voo de dez horas ontem. Hoje uma panturrilha está recém-inchada e quente, e ele pede massagem profunda antes de outro voo. Qual resposta é mais segura?
+
+- A. Do not massage the leg; arrange prompt medical evaluation for possible clot / Não massagear a perna; orientar avaliação médica rápida por possível coágulo **[correta]**
+- B. Massage only above the swollen calf / Massagear apenas acima da panturrilha inchada
+- C. Apply heat first and massage if swelling softens / Aplicar calor antes e massagear se o inchaço amolecer
+- D. Use lighter strokes because he must travel / Usar manobras leves porque ele precisa viajar
+
+**Por quê:** New one-sided calf swelling and warmth after prolonged immobility are warning signs for deep vein thrombosis. The therapist cannot rule it out by touch. / Inchaço e calor novos em uma panturrilha após imobilidade prolongada são sinais de alerta para trombose venosa profunda. O terapeuta não pode descartá-la pelo toque.
+
+**Outras alternativas:**
+- B: Moving the contact does not rule out clot risk. / Mudar a área de contato não descarta risco de coágulo.
+- C: Heat is not a clot assessment. / Calor não avalia coágulo.
+- D: Pressure reduction is not a substitute for evaluation. / Reduzir a pressão não substitui avaliação.
+
+**Gancho:** One warm swollen calf: pause. / Uma panturrilha quente e inchada: pause.
+
+**Na prática:** Ask about chest symptoms; sudden breathlessness requires emergency help. / Pergunte sobre sintomas no peito; falta de ar súbita exige emergência.
+
+**Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
+
 ### 69 · clots · Superavançado
 
 **EN:** Quin, 56, has had new one-sided calf swelling since surgery three days ago. Although he asks for light massage, what should the practitioner do FIRST?
@@ -3740,29 +3809,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
-### 63 · drugs · Intermediário
-
-**EN:** Kira, 65, has taken an anticoagulant for six months and bruises easily. The client uses an anticoagulant. Which concern is MOST relevant to forceful massage?
-**PT:** Kira, 65 anos, usa anticoagulante há seis meses e desenvolve hematomas facilmente. Cliente usa anticoagulante. Qual preocupação é MAIS relevante para massagem intensa?
-
-- A. Increased bleeding or bruising risk / Maior risco de sangramento ou hematomas **[correta]**
-- B. Complete protection from bruising / Proteção completa contra hematomas
-- C. A need to stop the medication / Necessidade de suspender o medicamento
-- D. Guaranteed pain relief / Alívio garantido da dor
-
-**Por quê:** Adapt pressure and clarify precautions; do not alter medication. / Adapte pressão e esclareça precauções; não altere a medicação.
-
-**Outras alternativas:**
-- B: Anticoagulants do not provide this protection. / Anticoagulantes não fornecem essa proteção.
-- C: Medication changes belong to the prescriber. / Mudanças na medicação cabem ao prescritor.
-- D: Anticoagulants do not guarantee analgesia. / Anticoagulantes não garantem analgesia.
-
-**Gancho:** Less clotting means more bleeding concern. / Menos coagulação, mais atenção a sangramento.
-
-**Na prática:** Ask about bruising and relevant medical instructions before selecting pressure. / Pergunte sobre hematomas e orientações médicas pertinentes antes de escolher a pressão.
-
-**Fonte de consulta:** [MedlinePlus · anticoagulantes](https://medlineplus.gov/bloodthinners.html)
-
 ### 120 · drugs · Superavançado
 
 **EN:** Celia, 67, has taken a blood thinner for six months and has a new large bruise after a minor fall yesterday. Which action should the practitioner choose before deep thigh work?
@@ -3832,6 +3878,52 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [CDC · sinais de trombose e embolia](https://www.cdc.gov/blood-clots/about/)
 
+### H111 · emergency-priority · Superavançado
+
+**EN:** Wes, 57, has had occasional upper-back tension for three months. Five minutes into today’s session he develops new chest tightness and cannot finish a sentence because he is short of breath. What should happen immediately?
+**PT:** Wes, 57 anos, sente tensão ocasional na parte superior das costas há três meses. Cinco minutos após começar a sessão de hoje, apresenta aperto novo no peito e não consegue terminar uma frase por falta de ar. O que deve acontecer imediatamente?
+
+- A. Stop the session and activate emergency medical help / Parar a sessão e acionar ajuda médica de emergência **[correta]**
+- B. Work on the upper back to relax the breathing muscles / Trabalhar as costas para relaxar músculos da respiração
+- C. Ask him to wait until the end of the booked hour / Pedir que espere até o fim da hora marcada
+- D. Have him drive himself home to rest / Pedir que dirija para casa e descanse
+
+**Por quê:** New chest tightness with severe breathlessness is an emergency sign. Stop massage and activate local emergency response; do not label it muscle tension. / Aperto novo no peito com falta de ar intensa é sinal de emergência. Pare a massagem e acione o serviço local; não chame isso de tensão muscular.
+
+**Outras alternativas:**
+- B: Massage should not delay help for new breathing difficulty. / Massagem não deve atrasar ajuda para falta de ar nova.
+- C: This is an immediate warning sign, not a scheduling issue. / É sinal de alerta imediato, não questão de agenda.
+- D: New chest and breathing symptoms need urgent evaluation. / Sintomas novos no peito e na respiração exigem avaliação urgente.
+
+**Gancho:** Breathless speech changes everything. / Fala interrompida por falta de ar muda tudo.
+
+**Na prática:** Stay with him and give responders the onset and symptoms you observed. / Permaneça com ele e informe à equipe o início e os sintomas observados.
+
+**Fonte de consulta:** [MedlinePlus · dificuldade para respirar](https://medlineplus.gov/ency/article/003075.htm)
+
+### H109 · heat-sensation · Superavançado
+
+**EN:** Elena, 66, has had reduced feeling in both feet for a year because of diabetic neuropathy. She asks for hot stones on her soles and says she can judge the temperature by touch. What should the therapist decide?
+**PT:** Elena, 66 anos, tem sensibilidade reduzida nos pés há um ano por neuropatia diabética. Pede pedras quentes nas plantas e diz que consegue julgar a temperatura pelo toque. O que o terapeuta deve decidir?
+
+- A. Avoid hot stones on the feet and offer a nonthermal alternative / Evitar pedras quentes nos pés e oferecer alternativa sem calor **[correta]**
+- B. Use her report that the stones feel comfortable / Confiar no relato de que as pedras parecem confortáveis
+- C. Test the stone on the therapist’s forearm and proceed / Testar a pedra no antebraço do terapeuta e prosseguir
+- D. Place a thicker towel under the stones and leave them longer / Usar toalha mais grossa sob as pedras e deixá-las mais tempo
+
+**Por quê:** Neuropathy can make harmful heat hard to detect. A comfortable report is not a reliable safety check when sensation is reduced. / Neuropatia pode dificultar perceber calor prejudicial. Relato de conforto não é checagem segura quando a sensibilidade está reduzida.
+
+**Outras alternativas:**
+- B: Reduced sensation weakens the warning against a burn. / Sensibilidade reduzida enfraquece o alerta contra queimadura.
+- C: The therapist’s skin cannot measure her sensory loss. / A pele do terapeuta não mede a perda sensorial dela.
+- D: Longer heat exposure does not remove impaired sensation. / Maior exposição ao calor não elimina a sensibilidade prejudicada.
+
+**Gancho:** No temperature sense, no hot stone. / Sem sentir temperatura, sem pedra quente.
+
+**Na prática:** Document the sensory limitation and choose a comfortable nonthermal technique. / Registre a limitação sensorial e escolha técnica sem calor.
+
+**Fonte de consulta:** [MedlinePlus · neuropatia e perda de sensibilidade](https://medlineplus.gov/ency/article/000693.htm)
+
 ### 130 · hypo · Superavançado
 
 **EN:** Ana, 47, is diabetic and 40 minutes into a session when she becomes shaky, sweaty and confused. What do you do FIRST?
@@ -3876,7 +3968,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Offer a new appointment after symptoms improve according to current guidance. / Ofereça nova data após melhora conforme orientação vigente.
 
-**Fonte de consulta:** [CDC · sintomas respiratórios](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html)
+**Fonte de consulta:** [CDC · doença respiratória ativa](https://www.cdc.gov/respiratory-viruses/about/index.html)
 
 ### 156 · injection · Superavançado
 
@@ -3924,52 +4016,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [NHS · tratamento do linfedema](https://www.nhs.uk/conditions/lymphoedema/treatment/)
 
-### 65 · massage · Intermediário
-
-**EN:** Max, 49, has had fever and acute illness since yesterday. What should the practitioner do FIRST about today's elective session?
-**PT:** Max, 49 anos, tem febre e mal-estar agudo desde ontem. O que o profissional deve fazer PRIMEIRO quanto à sessão eletiva de hoje?
-
-- A. Defer and refer / Adiar e encaminhar **[correta]**
-- B. Continue unchanged / Continuar sem alterações
-- C. Increase pressure / Aumentar a pressão
-- D. Prescribe medication / Prescrever medicamento
-
-**Por quê:** Postpone massage and direct appropriate medical assessment. / Adie a massagem e oriente avaliação médica adequada.
-
-**Outras alternativas:**
-- B: Does not address changed circumstances. / Não considera mudanças nas condições.
-- C: More pressure is not automatically safer. / Mais pressão não é automaticamente mais segura.
-- D: Prescribing exceeds massage scope. / Prescrição excede o escopo da massagem.
-
-**Gancho:** A fever pauses the appointment. / Febre pausa o atendimento.
-
-**Na prática:** Explain that the session should be postponed while the acute illness is assessed. / Explique que a sessão deve ser adiada enquanto o quadro agudo é avaliado.
-
-**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
-
-### 66 · massage · Intermediário
-
-**EN:** Nia, 43, has had a fresh bruise on the treatment area for one day. A fresh bruise is present on the intended treatment area. What should the practitioner do FIRST about the bruised area?
-**PT:** Nia, 43 anos, tem hematoma recente na área de atendimento há um dia. Há hematoma recente na área pretendida. O que o profissional deve fazer PRIMEIRO quanto à área com hematoma?
-
-- A. Avoid direct force and assess context / Evitar força direta e avaliar contexto **[correta]**
-- B. Apply intense friction over it / Aplicar fricção intensa sobre ele
-- C. Assume every bruise is harmless / Presumir que todo hematoma é inofensivo
-- D. Promise to dissolve it immediately / Prometer dissolvê-lo imediatamente
-
-**Por quê:** A local finding needs local precautions and contextual assessment. / Achado local exige precauções locais e avaliação contextual.
-
-**Outras alternativas:**
-- B: Force can aggravate injured tissue. / Força pode agravar tecido lesionado.
-- C: Cause and severity matter. / Causa e gravidade importam.
-- D: Immediate resolution cannot be promised. / Não se pode prometer resolução imediata.
-
-**Gancho:** Fresh bruising is not a target for force. / Hematoma recente não é alvo para força.
-
-**Na prática:** Ask how the bruise appeared and avoid pressing directly over it. / Pergunte como surgiu o hematoma e evite pressioná-lo diretamente.
-
-**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
-
 ### 67 · massage · Avançado
 
 **EN:** Oli, 72, has had osteoporosis-related fragility for two years. The client has fragile bones from osteoporosis. What should the practitioner adjust FIRST for tissue safety?
@@ -4013,29 +4059,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Less feeling means less warning. / Menos sensibilidade significa menos aviso.
 
 **Na prática:** Do not use the absence of pain as the only check on heat or pressure. / Não use a ausência de dor como única verificação de calor ou pressão.
-
-**Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
-
-### 71 · massage · Intermediário
-
-**EN:** Sam, 37, has had an open wound on the planned treatment area for two days. The client has an open skin wound where massage was planned. What should the practitioner do FIRST at the wounded area?
-**PT:** Sam, 37 anos, tem ferida aberta na área planejada há dois dias. Cliente tem ferida aberta onde a massagem foi planejada. O que o profissional deve fazer PRIMEIRO na área da ferida?
-
-- A. Avoid direct contact and assess safety / Evitar contato direto e avaliar segurança **[correta]**
-- B. Rub lotion into the wound / Esfregar loção na ferida
-- C. Use friction to close the wound / Usar fricção para fechar a ferida
-- D. Cover it and ignore all concerns / Cobrir e ignorar preocupações
-
-**Por quê:** Protect damaged skin and respect infection precautions. / Proteja pele lesionada e respeite precauções de infecção.
-
-**Outras alternativas:**
-- B: Massage lotion is not wound treatment. / Loção de massagem não trata feridas.
-- C: Friction can damage exposed tissue. / Fricção pode danificar tecido exposto.
-- D: Covering alone does not establish safety. / Cobrir não estabelece segurança por si só.
-
-**Gancho:** Broken skin needs protection, not friction. / Pele aberta precisa de proteção, não fricção.
-
-**Na prática:** Keep massage products and direct manipulation away from the open wound. / Mantenha produtos de massagem e manipulação direta longe da ferida aberta.
 
 **Fonte de consulta:** [NCCIH · evidências e segurança da massagem](https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know)
 
@@ -4336,7 +4359,7 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Na prática:** Gloves on, area out of the plan, hands washed after. / Luvas, área fora do plano, mãos lavadas depois.
 
-**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html)
+**Fonte de consulta:** [CDC · precauções padrão e luvas](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-4.html)
 
 ### 64 · pregnancy · Superavançado
 
@@ -4452,29 +4475,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Sit him up slowly, feet down, wait before he stands. / Sente devagar, pés para baixo, espere antes de levantar.
 
 **Fonte de consulta:** [MedlinePlus · anti-hipertensivos](https://medlineplus.gov/ency/article/007484.htm)
-
-### 149 · respiratory · Intermediário
-
-**EN:** Maya, 42, has had a head cold with a runny nose and cough for two days. She has no fever and says she feels up to a massage.
-**PT:** Maya, 42 anos, está resfriada, com coriza e tosse há dois dias. Não tem febre e diz que se sente disposta para uma massagem.
-
-- A. Postpone until symptoms improve overall for at least 24 hours / Adiar até os sintomas melhorarem no conjunto por pelo menos 24 horas **[correta]**
-- B. Work gently and shorten if she tires / Trabalhar leve e encurtar se ela cansar
-- C. Work deeply to boost circulation / Trabalhar fundo para melhorar a circulação
-- D. Use only the face and neck / Usar só rosto e pescoço
-
-**Por quê:** The CDC recommends staying home while respiratory symptoms persist and returning to normal activities when symptoms have improved overall for at least 24 hours and there has been no fever without fever-reducing medicine. / O CDC recomenda ficar em casa enquanto persistirem sintomas respiratórios e retomar as atividades quando os sintomas tiverem melhorado no conjunto por pelo menos 24 horas e não houver febre sem antitérmico.
-
-**Outras alternativas:**
-- B: She still has active respiratory symptoms. / Ela ainda tem sintomas respiratórios ativos.
-- C: Pressure does not remove transmission risk. / Pressão não elimina risco de transmissão.
-- D: Changing the area does not remove transmission risk. / Mudar a região não elimina risco de transmissão.
-
-**Gancho:** No fever alone is not clearance. / Sem febre, por si só, não libera.
-
-**Na prática:** Ask when the cough and runny nose began and whether they are improving. / Pergunte quando começaram a tosse e a coriza e se estão melhorando.
-
-**Fonte de consulta:** [CDC · sintomas respiratórios](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html)
 
 ### 70 · rights · Avançado
 
@@ -4661,6 +4661,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Ask when toe catching began and note any new weakness. / Pergunte quando começou a prender o pé e registre fraqueza nova.
 
 **Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
+
+### H114 · eccentric-control · Superavançado
+
+**EN:** Priya, 38, has had mild elbow stiffness for six weeks. She slowly lowers a light weight from a flexed elbow while controlling the descent; her biceps remains active as the elbow opens. What contraction is the biceps performing?
+**PT:** Priya, 38 anos, sente leve rigidez no cotovelo há seis semanas. Abaixa lentamente um peso leve a partir do cotovelo flexionado, controlando a descida; o bíceps continua ativo enquanto o cotovelo abre. Que contração o bíceps realiza?
+
+- A. Eccentric, because it remains active while lengthening / Excêntrica, porque permanece ativo enquanto alonga **[correta]**
+- B. Concentric, because it shortens to lift the weight / Concêntrica, porque encurta para elevar o peso
+- C. Isometric, because the elbow angle stays fixed / Isométrica, porque o ângulo do cotovelo fica fixo
+- D. No contraction, because gravity does all the work / Sem contração porque a gravidade faz todo o trabalho
+
+**Por quê:** During controlled lowering, the biceps produces tension while its length increases. That is eccentric contraction, unlike the shortening during lifting. / Na descida controlada, o bíceps produz tensão enquanto alonga. Isso é contração excêntrica, diferente do encurtamento ao elevar.
+
+**Outras alternativas:**
+- B: The weight is lowering and the elbow angle is increasing. / O peso desce e o ângulo do cotovelo aumenta.
+- C: The elbow is moving, so the angle is not fixed. / O cotovelo se move, então o ângulo não fica fixo.
+- D: Controlled descent requires active braking. / Descida controlada exige frenagem ativa.
+
+**Gancho:** Active brake means lengthening. / Freio ativo significa alongamento.
+
+**Na prática:** Watch whether the elbow angle changes before naming the contraction. / Observe se o ângulo do cotovelo muda antes de nomear a contração.
+
+**Fonte de consulta:** [OpenStax · tipos de contração muscular](https://openstax.org/books/anatomy-and-physiology/pages/10-4-nervous-system-control-of-muscle-tension)
 
 ### 76 · elbow · Superavançado
 
@@ -4938,6 +4961,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · músculos do membro inferior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)
 
+### H115 · isometric-hold · Superavançado
+
+**EN:** Jon, 47, has had knee stiffness for a month. He pauses halfway through a supported squat and holds the position for five seconds while his thigh muscles remain tense and his knee angle does not change. What contraction best describes the quadriceps during the hold?
+**PT:** Jon, 47 anos, sente rigidez no joelho há um mês. Para no meio de um agachamento apoiado e mantém a posição por cinco segundos enquanto as coxas ficam tensas e o ângulo do joelho não muda. Qual contração descreve melhor o quadríceps durante a pausa?
+
+- A. Isometric tension without visible joint-angle change / Tensão isométrica sem mudança visível do ângulo articular **[correta]**
+- B. Concentric contraction while the knee extends / Contração concêntrica enquanto o joelho estende
+- C. Eccentric contraction while the knee bends / Contração excêntrica enquanto o joelho flexiona
+- D. Passive relaxation with no muscle force / Relaxamento passivo sem força muscular
+
+**Por quê:** Isometric describes active force with no visible change in joint angle during the interval asked about. Do not classify the earlier descent as the hold. / Isométrica descreve força ativa sem mudança visível do ângulo durante o intervalo perguntado. Não classifique a descida anterior como se fosse a pausa.
+
+**Outras alternativas:**
+- B: During the hold, the knee is not extending. / Durante a pausa, o joelho não estende.
+- C: Bending occurred during descent, not the held interval. / A flexão ocorreu na descida, não na pausa.
+- D: The quadriceps is active to maintain the posture. / O quadríceps está ativo para manter a posição.
+
+**Gancho:** Name the interval, not the whole squat. / Nomeie o intervalo, não o agachamento inteiro.
+
+**Na prática:** Ask which phase the stem names before choosing a contraction type. / Veja qual fase o enunciado pede antes de escolher a contração.
+
+**Fonte de consulta:** [OpenStax · tipos de contração muscular](https://openstax.org/books/anatomy-and-physiology/pages/10-4-nervous-system-control-of-muscle-tension)
+
 ### H51 · jaw-close · Superavançado
 
 **EN:** Ava, 41, has noticed jaw fatigue while chewing for four weeks. In the photos she moves from open A to gently closed B. Which muscle-action pair should the therapist recognize without treating this as a diagnosis?
@@ -5006,6 +5052,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Watch comfortable thumb-to-finger contact without forcing pain. / Observe contato confortável do polegar aos dedos sem forçar dor.
 
 **Fonte de consulta:** [OpenStax · articulações sinoviais](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)
+
+### H116 · joint-versus-forearm · Superavançado
+
+**EN:** Rosa, 54, has had trouble reaching toward her abdomen for seven weeks. With her elbow held against her side at 90 degrees, the forearm moves inward as a unit while the palm stays facing up. Which joint action explains the visible change?
+**PT:** Rosa, 54 anos, tem dificuldade para alcançar o abdome há sete semanas. Com o cotovelo junto ao corpo a 90 graus, o antebraço vai para dentro como uma unidade, enquanto a palma continua para cima. Qual ação articular explica a mudança visível?
+
+- A. Medial rotation of the humerus at the shoulder / Rotação medial do úmero no ombro **[correta]**
+- B. Pronation at the radioulnar joints / Pronação nas articulações radioulnares
+- C. Elbow extension / Extensão do cotovelo
+- D. Scapular elevation / Elevação da escápula
+
+**Por quê:** A fixed bent elbow makes forearm direction a pointer for humeral rotation; the unchanged palm orientation rules against pronation. The movement alone does not identify a lesion. / Cotovelo flexionado e fixo faz a direção do antebraço indicar rotação do úmero; a orientação da palma sem mudança afasta pronação. O movimento isolado não identifica lesão.
+
+**Outras alternativas:**
+- B: The palm does not turn down relative to the forearm. / A palma não vira para baixo em relação ao antebraço.
+- C: The elbow angle remains at 90 degrees. / O ângulo do cotovelo permanece em 90 graus.
+- D: The shoulder girdle does not rise in the described action. / A cintura escapular não sobe na ação descrita.
+
+**Gancho:** Palm unchanged, upper arm turns. / Palma igual, braço gira.
+
+**Na prática:** Hold the elbow position and compare the motion without turning the trunk. / Mantenha a posição do cotovelo e compare sem girar o tronco.
+
+**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### 106 · joints · Intermediário
 
@@ -5372,29 +5441,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Gancho:** Press the pedal with the foot. / Pise no pedal com o pé.
 
 **Na prática:** Compare pointing the foot downward with lifting its front toward the shin. / Compare apontar o pé para baixo com elevar sua frente em direção à perna.
-
-**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
-
-### 160 · motion · Intermediário
-
-**EN:** Finn, 36, has had shoulder tightness for two weeks. During movement assessment he lifts both shoulders toward his ears and holds them. Which action is this?
-**PT:** Finn, 36 anos, sente tensão nos ombros há duas semanas. Na avaliação, eleva ambos os ombros até as orelhas e mantém. Qual movimento é esse?
-
-- A. Elevation / Elevação **[correta]**
-- B. Depression / Depressão
-- C. Retraction / Retração
-- D. Protraction / Protração
-
-**Por quê:** Shoulder blades upward is elevation. / Escápulas para cima é elevação.
-
-**Outras alternativas:**
-- B: The opposite direction. / Direção oposta.
-- C: Toward the spine. / Para a coluna.
-- D: Away from the spine. / Para longe da coluna.
-
-**Gancho:** Shoulders move toward the ears. / Ombros vão em direção às orelhas.
-
-**Na prática:** Watch the shoulder girdle rather than the hands. / Observe a cintura escapular, não as mãos.
 
 **Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
@@ -6341,6 +6387,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [NCBI Bookshelf · músculos do ombro](https://www.ncbi.nlm.nih.gov/books/NBK546633/)
 
+### H112 · spindle-stretch · Superavançado
+
+**EN:** Nia, 35, has had knee stiffness for four weeks. During a clinician’s patellar tendon reflex check, her quadriceps briefly contracts after the tap. Which receptor-action explanation fits the response?
+**PT:** Nia, 35 anos, sente rigidez no joelho há quatro semanas. Durante um teste do reflexo patelar feito por um profissional de saúde, o quadríceps contrai brevemente após a batida no tendão. Qual explicação receptor-ação corresponde a essa resposta?
+
+- A. A muscle spindle detects stretch and helps trigger the stretch reflex / Um fuso muscular detecta alongamento e ajuda a disparar o reflexo de estiramento **[correta]**
+- B. A Golgi tendon organ detects skin pressure and contracts the quadriceps / Órgão tendinoso de Golgi detecta pressão na pele e contrai o quadríceps
+- C. A Pacinian corpuscle identifies the knee joint angle and contracts the muscle / Corpúsculo de Pacini identifica o ângulo do joelho e contrai o músculo
+- D. A baroreceptor senses the muscle lengthening / Barorreceptor detecta o alongamento muscular
+
+**Por quê:** Rapid muscle lengthening activates spindle afferents in the stretch reflex. Golgi tendon organs are associated with tendon tension, a different signal. / Alongamento muscular rápido ativa aferentes dos fusos no reflexo de estiramento. Órgãos tendinosos de Golgi se relacionam à tensão do tendão, outro sinal.
+
+**Outras alternativas:**
+- B: Golgi receptors monitor tendon tension, not skin pressure. / Receptores de Golgi monitoram tensão tendínea, não pressão na pele.
+- C: It is a mechanoreceptor, not the stretch-reflex receptor here. / É mecanorreceptor, não o receptor desse reflexo de estiramento.
+- D: Baroreceptors monitor pressure in the circulatory system. / Barorreceptores monitoram pressão no sistema circulatório.
+
+**Gancho:** Stretch in muscle: spindle. / Alongamento no músculo: fuso.
+
+**Na prática:** Separate what moved suddenly from where each receptor sits. / Separe o que moveu de repente de onde fica cada receptor.
+
+**Fonte de consulta:** [OpenStax · respostas motoras e reflexos](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses)
+
 ### H65 · supination · Superavançado
 
 **EN:** Olive, 37, has had trouble turning a key for five weeks. With her elbow supported, the hand changes from palm-down A to palm-up B. Which muscle can contribute strongly, and at which joints does this rotation occur?
@@ -6409,6 +6478,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Locate the scapular spine first, then compare the highlighted region with the source diagram. / Localize primeiro a espinha escapular e compare a região destacada com o desenho da fonte.
 
 **Fonte de consulta:** [NCBI Bookshelf · nervo supraescapular e supraespinal](https://www.ncbi.nlm.nih.gov/books/NBK557880/)
+
+### H113 · tendon-tension · Superavançado
+
+**EN:** Luis, 42, has had forearm tightness for five weeks. While holding a heavy bag still, the tendon of his finger flexors is under marked tension without a quick stretch. Which proprioceptor is most directly associated with sensing that tendon load?
+**PT:** Luis, 42 anos, sente tensão no antebraço há cinco semanas. Ao segurar uma sacola pesada sem mover, o tendão dos flexores dos dedos está sob grande tensão sem alongamento rápido. Qual proprioceptor se associa mais diretamente a perceber essa carga no tendão?
+
+- A. Golgi tendon organ / Órgão tendinoso de Golgi **[correta]**
+- B. Muscle spindle / Fuso muscular
+- C. Pacinian corpuscle / Corpúsculo de Pacini
+- D. Baroreceptor / Barorreceptor
+
+**Por quê:** The clue is the location and force: Golgi tendon organs lie in tendons and signal tension generated by muscle force. This does not prove why he dropped or held the bag. / A pista é local e força: órgãos tendinosos de Golgi ficam nos tendões e sinalizam tensão produzida pela força muscular. Isso não prova por que ele segurou ou soltou a sacola.
+
+**Outras alternativas:**
+- B: Spindles primarily signal muscle stretch, not tendon load here. / Fusos sinalizam sobretudo alongamento muscular, não a carga tendínea deste caso.
+- C: It senses deep pressure and vibration, not tendon tension specifically. / Detecta pressão profunda e vibração, não especificamente tensão tendínea.
+- D: It detects vascular pressure rather than tendon force. / Detecta pressão vascular, não força no tendão.
+
+**Gancho:** Tendon load points to Golgi. / Carga no tendão aponta para Golgi.
+
+**Na prática:** Compare tension sensing with stretch sensing before naming the receptor. / Compare percepção de tensão com percepção de alongamento antes de nomear o receptor.
+
+**Fonte de consulta:** [OpenStax · respostas motoras e reflexos](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses)
 
 ### H44 · thumb-opposition · Superavançado
 
@@ -6780,98 +6872,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
-### 171 · anatomy · Intermediário
-
-**EN:** Lia, 39, has had neck stiffness for two weeks. While mapping the region before massage, how many cervical vertebrae should the practitioner identify?
-**PT:** Lia, 39 anos, sente rigidez cervical há duas semanas. Ao mapear a região antes da massagem, quantas vértebras cervicais o profissional deve identificar?
-
-- A. Seven / Sete **[correta]**
-- B. Five / Cinco
-- C. Twelve / Doze
-- D. Nine / Nove
-
-**Por quê:** Seven cervical vertebrae, C1 through C7. / Sete vértebras cervicais, C1 a C7.
-
-**Outras alternativas:**
-- B: That is lumbar. / Esse é lombar.
-- C: That is thoracic. / Esse é torácico.
-- D: No region has nine. / Nenhuma região tem nove.
-
-**Gancho:** Think of a week, then the neck. / Pense nos dias da semana e no pescoço.
-
-**Na prática:** Count the neck region separately from the thorax. / Conte a região cervical separada do tórax.
-
-**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
-
-### 172 · anatomy · Intermediário
-
-**EN:** Noah, 43, has had a superficial forearm scrape for four days. Which organ forms the primary protective barrier at that site and is the body’s largest?
-**PT:** Noah, 43 anos, tem um ralado superficial no antebraço há quatro dias. Qual órgão forma a barreira protetora principal ali e é o maior do corpo?
-
-- A. The skin / A pele **[correta]**
-- B. The liver / O fígado
-- C. The lungs / Os pulmões
-- D. The brain / O cérebro
-
-**Por quê:** Skin is the largest organ by area and mass. / A pele é o maior órgão por área e massa.
-
-**Outras alternativas:**
-- B: Largest internal organ. / Maior órgão interno.
-- C: Large, not largest. / Grandes, não o maior.
-- D: Not by mass or area. / Não por massa ou área.
-
-**Gancho:** The outer shield covers everything. / A barreira externa cobre tudo.
-
-**Na prática:** Keep direct work off the broken skin. / Evite trabalho direto sobre a pele lesionada.
-
-**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
-
-### 173 · anatomy · Intermediário
-
-**EN:** Eva, 47, has had fatigue for six weeks and brings a clinician’s note about low blood-cell counts. Which tissue normally produces blood cells?
-**PT:** Eva, 47 anos, sente fadiga há seis semanas e traz nota médica sobre baixa contagem sanguínea. Qual tecido normalmente produz células do sangue?
-
-- A. Blood cells / Células do sangue **[correta]**
-- B. Bile / Bile
-- C. Collagen / Colágeno
-- D. Synovial fluid / Líquido sinovial
-
-**Por quê:** Red marrow is the blood-forming tissue. / A medula vermelha é o tecido formador de sangue.
-
-**Outras alternativas:**
-- B: Liver. / Fígado.
-- C: Connective tissue cells. / Células do conjuntivo.
-- D: Membrane. / Membrana.
-
-**Gancho:** The inner factory fills the vessels. / A fábrica interna abastece os vasos.
-
-**Na prática:** Keep the blood-cell question separate from the client’s diagnosis. / Separe a pergunta sobre células do diagnóstico da cliente.
-
-**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
-
-### 174 · anatomy · Intermediário
-
-**EN:** Milo, 52, has had digestive discomfort for three weeks and asks which organ produces bile. Which organ should the therapist name without attempting a diagnosis?
-**PT:** Milo, 52 anos, sente desconforto digestivo há três semanas e pergunta qual órgão produz bile. Qual órgão o terapeuta pode nomear sem tentar diagnóstico?
-
-- A. The liver / O fígado **[correta]**
-- B. The gallbladder / A vesícula
-- C. The pancreas / O pâncreas
-- D. The spleen / O baço
-
-**Por quê:** The liver produces bile; the gallbladder stores it. / O fígado produz bile; a vesícula a armazena.
-
-**Outras alternativas:**
-- B: Stores, does not make. / Guarda, não produz.
-- C: Enzymes and hormones. / Enzimas e hormônios.
-- D: Blood filtration. / Filtragem de sangue.
-
-**Gancho:** One organ makes it; another stores it. / Um órgão produz; outro armazena.
-
-**Na prática:** Answer the anatomy question without interpreting his symptoms. / Responda à anatomia sem interpretar os sintomas dele.
-
-**Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
-
 ### 176 · anatomy · Intermediário
 
 **EN:** Omar, 61, has had rib-area tension for a month. Before working near the lower chest, which structure separates the thoracic and abdominal cavities?
@@ -7033,6 +7033,98 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 **Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
+### H121 · autonomic-pattern · Superavançado
+
+**EN:** Maya, 40, has noticed a racing heart and reduced appetite during stressful meetings for six weeks. She asks which autonomic pattern generally matches that response, without asking the massage therapist for a diagnosis. Which answer is best?
+**PT:** Maya, 40 anos, nota coração acelerado e pouco apetite durante reuniões estressantes há seis semanas. Pergunta qual padrão autonômico em geral corresponde a isso, sem pedir diagnóstico. Qual resposta é melhor?
+
+- A. Sympathetic activation can raise heart rate and shift resources away from digestion / Ativação simpática pode acelerar o coração e desviar recursos da digestão **[correta]**
+- B. Parasympathetic activation always accelerates heart rate / Ativação parassimpática sempre acelera o coração
+- C. Somatic motor output directly controls stomach glands / Saída motora somática controla diretamente glândulas gástricas
+- D. A muscle spindle controls the heartbeat during meetings / Um fuso muscular controla os batimentos nas reuniões
+
+**Por quê:** The sympathetic division supports a fight-or-flight pattern with higher heart rate and reduced digestive activity. These symptoms alone do not establish a medical diagnosis. / A divisão simpática participa do padrão de luta ou fuga, com frequência cardíaca maior e atividade digestiva reduzida. Esses sintomas isolados não estabelecem diagnóstico médico.
+
+**Outras alternativas:**
+- B: Parasympathetic input generally slows the heart at rest. / A entrada parassimpática geralmente reduz a frequência cardíaca em repouso.
+- C: Somatic motor pathways primarily command skeletal muscle. / Vias motoras somáticas comandam sobretudo músculo esquelético.
+- D: Spindles sense muscle stretch, not autonomic cardiac output. / Fusos detectam alongamento muscular, não comando autonômico do coração.
+
+**Gancho:** Stress shifts the internal priorities. / Estresse muda prioridades internas.
+
+**Na prática:** Explain the general physiology and refer persistent or concerning heart symptoms for medical evaluation. / Explique a fisiologia geral e encaminhe sintomas cardíacos persistentes ou preocupantes para avaliação médica.
+
+**Fonte de consulta:** [OpenStax · sistema nervoso autônomo](https://openstax.org/books/anatomy-and-physiology/pages/15-1-divisions-of-the-autonomic-nervous-system)
+
+### H118 · exchange-site · Superavançado
+
+**EN:** Theo, 51, has had forearm stiffness for two weeks. During a session, he asks which blood vessels let oxygen and small nutrients pass into the surrounding tissue. Where does that exchange primarily occur?
+**PT:** Theo, 51 anos, sente rigidez no antebraço há duas semanas. Durante a sessão, pergunta quais vasos sanguíneos deixam oxigênio e pequenos nutrientes passar para o tecido ao redor. Onde essa troca ocorre principalmente?
+
+- A. Across the capillary walls in the small-vessel bed / Pelas paredes dos capilares na rede de pequenos vasos **[correta]**
+- B. Across the thick wall of the large artery / Pela parede espessa da artéria grande
+- C. Only inside the large vein / Apenas dentro da veia grande
+- D. Directly through the skin surface into blood / Diretamente pela superfície da pele até o sangue
+
+**Por quê:** Capillary walls are thin and permit movement of gases and nutrients between blood and tissue. Large vessels carry blood to or from that exchange network. / Paredes capilares são finas e permitem passagem de gases e nutrientes entre sangue e tecido. Vasos grandes levam sangue para ou desde essa rede.
+
+**Outras alternativas:**
+- B: Large arteries mainly distribute blood, not provide the main exchange surface. / Artérias grandes distribuem sangue, não são a principal superfície de troca.
+- C: Veins return blood; exchange occurs in the capillary bed. / Veias devolvem sangue; a troca ocorre na rede capilar.
+- D: The question concerns internal tissue exchange, not contact through skin. / A pergunta é sobre troca interna, não contato pela pele.
+
+**Gancho:** Tiny walls, local exchange. / Paredes pequenas, troca local.
+
+**Na prática:** Trace artery to capillary bed to vein before answering. / Siga artéria, rede capilar e veia antes de responder.
+
+**Fonte de consulta:** [OpenStax · trocas capilares](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-3-capillary-exchange)
+
+### H119 · fluid-route · Superavançado
+
+**EN:** Elisa, 55, has noticed mild ankle puffiness after long desk shifts for three weeks. She asks how excess fluid between tissue cells normally returns to the bloodstream. Which route carries it?
+**PT:** Elisa, 55 anos, nota leve inchaço nos tornozelos após longos turnos sentada há três semanas. Pergunta como o excesso de líquido entre as células normalmente retorna ao sangue. Qual via o transporta?
+
+- A. Lymphatic capillaries, vessels, and ducts / Capilares, vasos e ductos linfáticos **[correta]**
+- B. Arteries pumping the fluid directly from the skin / Artérias bombeando o líquido diretamente da pele
+- C. Peripheral nerves carrying it toward the spinal cord / Nervos periféricos levando-o à medula
+- D. Sweat glands returning it to veins / Glândulas sudoríparas devolvendo-o às veias
+
+**Por quê:** Fluid that is not reabsorbed into blood capillaries can enter lymphatic capillaries and eventually return to the bloodstream through lymphatic ducts. This route alone does not explain the cause of her swelling. / Líquido não reabsorvido pelos capilares sanguíneos pode entrar nos capilares linfáticos e retornar depois ao sangue pelos ductos. Essa via, por si só, não explica a causa do inchaço.
+
+**Outras alternativas:**
+- B: Arteries deliver blood, not collect excess interstitial fluid. / Artérias entregam sangue, não recolhem excesso intersticial.
+- C: Nerves transmit signals, not bulk tissue fluid. / Nervos transmitem sinais, não líquido tecidual.
+- D: Sweat secretion exits to the skin surface, not venous return. / Suor sai à pele, não retorna às veias.
+
+**Gancho:** The leftover fluid has a return route. / O líquido restante tem via de retorno.
+
+**Na prática:** Trace tissue space to lymph vessel to venous circulation, without assuming a diagnosis. / Siga espaço tecidual, vaso linfático e circulação venosa, sem presumir diagnóstico.
+
+**Fonte de consulta:** [OpenStax · sistema linfático](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems)
+
+### H120 · injury-phase · Superavançado
+
+**EN:** Niko, 37, bruised his thigh 20 hours ago. The area is warm, red, swollen, and tender; he asks whether these signs mean a mature scar has already formed. Which explanation best fits the timing?
+**PT:** Niko, 37 anos, machucou a coxa há 20 horas. A área está quente, vermelha, inchada e sensível; pergunta se esses sinais significam que já se formou cicatriz madura. Qual explicação combina melhor com o momento?
+
+- A. They fit an early inflammatory response, not proof of mature scar / Combinam com resposta inflamatória inicial, não provam cicatriz madura **[correta]**
+- B. They show that collagen has already fully remodeled / Mostram que o colágeno já se remodelou totalmente
+- C. They show only a nerve problem without tissue response / Mostram só problema nervoso sem resposta tecidual
+- D. They prove the injury is healed and ready for deep friction / Provam que a lesão cicatrizou e aceita fricção profunda
+
+**Por quê:** Inflammation is the early tissue response to injury and commonly produces redness, warmth, swelling, and pain. These observations do not prove mature scar or readiness for pressure. / Inflamação é resposta tecidual inicial e costuma produzir vermelhidão, calor, inchaço e dor. Esses sinais não provam cicatriz madura nem segurança para pressão.
+
+**Outras alternativas:**
+- B: Full remodeling is not established in the first day. / Remodelação completa não ocorre no primeiro dia.
+- C: Redness, heat, and swelling are classic inflammatory signs. / Vermelhidão, calor e inchaço são sinais clássicos de inflamação.
+- D: The area is still tender and acutely inflamed. / A área ainda está sensível e em inflamação aguda.
+
+**Gancho:** Warmth now is not a scar later. / Calor agora não é cicatriz futura.
+
+**Na prática:** Keep direct force off the recent injury and note when it began. / Evite força direta na lesão recente e registre quando começou.
+
+**Fonte de consulta:** [OpenStax · lesão e reparo tecidual](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-6-tissue-injury-and-aging)
+
 ### H29 · lymph · Superavançado
 
 **EN:** Dana, 63, has had arm swelling for two months after cancer treatment and brings a clinician’s precaution sheet. Which vessel system is most relevant to returning interstitial fluid, and what is the safest planning step?
@@ -7055,29 +7147,6 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Read the precaution sheet and confirm what care is permitted. / Leia as orientações e confirme quais cuidados são permitidos.
 
 **Fonte de consulta:** [OpenStax · Anatomia e Fisiologia 2e](https://openstax.org/details/books/anatomy-and-physiology-2e)
-
-### 136 · motion · Intermediário
-
-**EN:** Rui, 30, has had a scrape on the front of his shin since yesterday. Relative to the knee, where should the note place the scrape?
-**PT:** Rui, 30 anos, tem um ralado na frente da canela desde ontem. Em relação ao joelho, onde o registro deve localizar o ralado?
-
-- A. Distal to the knee / Distal ao joelho **[correta]**
-- B. Proximal to the knee / Proximal ao joelho
-- C. Posterior to the knee / Posterior ao joelho
-- D. Superior to the knee / Superior ao joelho
-
-**Por quê:** The shin is below the knee and farther from the trunk, so it is distal. / A canela fica abaixo do joelho e mais longe do tronco, logo é distal.
-
-**Outras alternativas:**
-- B: Toward the trunk. / Em direção ao tronco.
-- C: Behind. / Atrás.
-- D: Above. / Acima.
-
-**Gancho:** Below the joint, farther from trunk: distal. / Abaixo da articulação, longe do tronco: distal.
-
-**Na prática:** Use distal and proximal, not up and down. / Use distal e proximal, não cima e baixo.
-
-**Fonte de consulta:** [OpenStax · movimentos articulares](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements)
 
 ### F57 · motion · Intermediário
 
@@ -7239,6 +7308,29 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 **Na prática:** Locate the bony ridge first, then compare muscle tissue on each side. / Localize primeiro o relevo ósseo e compare os tecidos musculares ao redor.
 
 **Fonte de consulta:** [OpenStax · músculos do membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
+
+### H117 · skin-layer · Superavançado
+
+**EN:** Ava, 46, has had a shallow forearm scrape for four days. The skin beneath the scrape looks pink and is sensitive, while the outermost layer has no blood vessels of its own. Which layer best explains the vessels and nerve endings in the exposed area?
+**PT:** Ava, 46 anos, tem um ralado superficial no antebraço há quatro dias. A pele abaixo parece rosada e sensível, enquanto a camada mais externa não tem vasos próprios. Qual camada melhor explica os vasos e terminações nervosas na área exposta?
+
+- A. Dermis / Derme **[correta]**
+- B. Epidermis / Epiderme
+- C. Stratum corneum / Estrato córneo
+- D. Articular cartilage / Cartilagem articular
+
+**Por quê:** The dermis contains vessels and sensory nerve endings, whereas the epidermis has no vessels of its own. The scrape should remain outside direct massage contact. / A derme contém vasos e terminações nervosas sensitivas, enquanto a epiderme não tem vasos próprios. O ralado deve ficar fora do toque direto.
+
+**Outras alternativas:**
+- B: The epidermis is avascular; it is not the vascular layer described. / A epiderme é avascular; não é a camada vascular descrita.
+- C: This outer layer consists of keratinized cells, not the vascular tissue below. / Essa camada externa tem células queratinizadas, não o tecido vascular abaixo.
+- D: Cartilage is not a layer of forearm skin. / Cartilagem não é camada da pele do antebraço.
+
+**Gancho:** Pink, sensitive layer lies below the surface. / Camada rosada e sensível fica sob a superfície.
+
+**Na prática:** Protect the broken skin and use the layer distinction only to explain, not to diagnose depth. / Proteja a pele rompida e use a distinção das camadas para explicar, não para diagnosticar profundidade.
+
+**Fonte de consulta:** [OpenStax · camadas da pele](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin)
 
 ### H39 · somatic-motor · Superavançado
 
