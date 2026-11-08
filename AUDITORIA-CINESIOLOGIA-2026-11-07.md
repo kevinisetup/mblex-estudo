@@ -25,3 +25,10 @@
 ## Limites
 
 As fotos sintéticas ilustram posições e não mostram músculos, lesões nem exame físico real. O texto e a fonte de cada resposta prevalecem sobre detalhes visuais. Esta é preparação independente, não uma reprodução de itens oficiais nem da calibração adaptativa da FSMTB. O banco completo de 318 questões não passou por revisão externa de especialista. A consulta às fontes e algumas imagens anteriores ainda requer internet; as novas 36 imagens ficam no pacote local.
+
+## Revisão de raciocínio com imagem — 08/11/2026
+
+- H81–H85 agora pedem uma conclusão a partir de A para B sem nomear a ação no enunciado. H86 pede localizar a estrutura destacada antes de escolher origem, inserção e nervo. Os seis casos conservam idade, duração, inglês com português abaixo, quatro alternativas e a mesma resposta correta.
+- Nas 32 comparações com fotos sintéticas, a legenda antes da resposta é neutra. O texto alternativo continua descrevendo o movimento visível para quem usa leitor de tela. Após a resposta, a legenda descreve a mudança observada; o feedback apresenta conceito, motivo dos três distratores e link da fonte. As setas do piloto e as imagens não foram alteradas.
+- Revisão de conteúdo: [OpenStax, movimentos](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements), [OpenStax, músculos da cintura escapular e membro superior](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs), [NCBI Bookshelf, nervo supraescapular](https://www.ncbi.nlm.nih.gov/books/NBK557880/) e [FSMTB, materiais de preparação](https://fsmtb.org/mblex/mblex-study-tools/). São fontes para conferir conceitos e formato; não demonstram que as questões autorais aparecem na prova.
+- `node audit-adaptive.cjs` retornou 318 ativos e `issues: []`. No navegador a 375 px, H51–H86 abriram com imagens, quatro opções, legenda neutra, resposta e três justificativas. H84 foi inspecionada antes e depois de uma resposta errada.

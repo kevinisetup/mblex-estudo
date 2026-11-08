@@ -5814,8 +5814,8 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ### H81 · neck-lateral-flexion · Superavançado
 
-**EN:** Nina, 47, has had neck stiffness for six weeks. In photo B, her left ear approaches her left shoulder, her nose still faces forward, and neither shoulder rises. Which finding should the therapist record?
-**PT:** Nina, 47 anos, sente rigidez cervical há seis semanas. Na foto B, a orelha esquerda se aproxima do ombro esquerdo, o nariz continua apontando à frente e nenhum ombro sobe. Qual achado o terapeuta deve registrar?
+**EN:** Nina, 47, has had neck stiffness for six weeks. During a comfortable range-of-motion check, she moves from photo A to B. Which finding should the massage therapist document without assuming the cause of her stiffness?
+**PT:** Nina, 47 anos, sente rigidez cervical há seis semanas. Durante uma avaliação de movimento confortável, ela passa da foto A para B. Qual achado o massoterapeuta deve registrar sem presumir a causa da rigidez?
 
 - A. Left cervical lateral flexion in the frontal plane / Inclinação lateral cervical esquerda no plano frontal **[correta]**
 - B. Left cervical rotation in the transverse plane / Rotação cervical esquerda no plano transversal
@@ -6044,8 +6044,8 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ### H82 · scapular-depression · Superavançado
 
-**EN:** Owen, 52, has noticed shoulder-girdle fatigue for five weeks. After a gentle shrug in photo A, he lowers the shoulder blades in B without bending the elbows or pulling them together. Which muscle-action pair best fits the change?
-**PT:** Owen, 52 anos, sente fadiga na cintura escapular há cinco semanas. Após elevar os ombros suavemente na foto A, baixa as escápulas em B sem flexionar os cotovelos nem aproximá-las. Qual par músculo-ação combina com a mudança?
+**EN:** Owen, 52, has noticed shoulder-girdle fatigue for five weeks. He demonstrates the movement in photos A and B while keeping his elbows straight. Which muscle-action pair best explains the change in shoulder position?
+**PT:** Owen, 52 anos, sente fadiga na cintura escapular há cinco semanas. Ele demonstra o movimento nas fotos A e B, mantendo os cotovelos estendidos. Qual par músculo-ação explica melhor a mudança na posição dos ombros?
 
 - A. Lower trapezius fibers; scapular depression / Fibras inferiores do trapézio; depressão escapular **[correta]**
 - B. Upper trapezius fibers; scapular elevation / Fibras superiores do trapézio; elevação escapular
@@ -6251,8 +6251,8 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ### H85 · shoulder-horizontal-abduction · Superavançado
 
-**EN:** Tessa, 60, has had difficulty opening her right arm away from her chest for five weeks. In these photos, read the movement from the across-chest position A to the side position B, keeping the arm at shoulder height. Which muscle-action pair fits?
-**PT:** Tessa, 60 anos, tem dificuldade para abrir o braço direito para longe do peito há cinco semanas. Nessas fotos, leia o movimento da posição cruzada sobre o peito A até a posição lateral B, mantendo o braço na altura do ombro. Qual par músculo-ação corresponde?
+**EN:** Tessa, 60, has had trouble with the arm movement shown for five weeks. Read the photos from A to B; her elbow stays straight and her arm remains near shoulder height. Which muscle-action pair best fits?
+**PT:** Tessa, 60 anos, tem dificuldade há cinco semanas com o movimento do braço mostrado. Leia as fotos de A para B; o cotovelo fica estendido e o braço permanece próximo da altura do ombro. Qual par músculo-ação corresponde melhor?
 
 - A. Posterior deltoid; horizontal abduction / Deltoide posterior; abdução horizontal **[correta]**
 - B. Pectoralis major; horizontal adduction / Peitoral maior; adução horizontal
@@ -6274,8 +6274,8 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ### H84 · shoulder-horizontal-adduction · Superavançado
 
-**EN:** Rosa, 55, has had difficulty bringing her right arm across her chest for six weeks. From A to B the arm stays at shoulder height and moves horizontally from the side to the front of the opposite shoulder. Which muscle-action-plane combination fits?
-**PT:** Rosa, 55 anos, tem dificuldade para levar o braço direito pelo peito há seis semanas. De A para B, o braço fica na altura do ombro e vai horizontalmente do lado do corpo para a frente do ombro oposto. Qual combinação de músculo, ação e plano corresponde?
+**EN:** Rosa, 55, has had trouble with the arm movement shown in photos A and B for six weeks. Her elbow remains straight and the arm stays near shoulder height. Which muscle-action-plane combination best describes what changed?
+**PT:** Rosa, 55 anos, tem dificuldade há seis semanas com o movimento do braço mostrado nas fotos A e B. O cotovelo permanece estendido e o braço fica próximo da altura do ombro. Qual combinação de músculo, ação e plano descreve melhor a mudança?
 
 - A. Pectoralis major; horizontal adduction; transverse plane / Peitoral maior; adução horizontal; plano transversal **[correta]**
 - B. Posterior deltoid; horizontal abduction; transverse plane / Deltoide posterior; abdução horizontal; plano transversal
@@ -6320,8 +6320,8 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ### H83 · shoulder-medial-rotation · Superavançado
 
-**EN:** Pia, 41, has had trouble reaching across her abdomen for seven weeks. In the photos, her right elbow stays beside her trunk and bent to 90 degrees while the forearm swings inward from A to B. Which muscle-action pair should the therapist consider?
-**PT:** Pia, 41 anos, tem dificuldade para levar a mão pelo abdome há sete semanas. Nas fotos, o cotovelo direito fica junto ao tronco e flexionado a 90 graus enquanto o antebraço gira para dentro de A para B. Qual par músculo-ação considerar?
+**EN:** Pia, 41, has had difficulty with the movement shown in photos A and B for seven weeks. Her elbow stays close to her side and bent at 90 degrees. Which muscle-action pair best matches the change, rather than a movement at the forearm?
+**PT:** Pia, 41 anos, tem dificuldade há sete semanas com o movimento mostrado nas fotos A e B. O cotovelo fica junto ao corpo e flexionado a 90 graus. Qual par músculo-ação corresponde melhor à mudança, em vez de um movimento do antebraço?
 
 - A. Subscapularis; medial rotation of the humerus / Subescapular; rotação medial do úmero **[correta]**
 - B. Infraspinatus; lateral rotation of the humerus / Infraespinal; rotação lateral do úmero
@@ -6389,8 +6389,8 @@ Questões autorais de treino; não são itens oficiais nem uma previsão do exam
 
 ### H86 · supraspinatus-landmarks · Superavançado
 
-**EN:** Cora, 52, has had difficulty starting a sideways arm lift for seven weeks. The anatomical image highlights a muscle above the scapular spine. Which origin, insertion and nerve belong to that muscle?
-**PT:** Cora, 52 anos, tem dificuldade para iniciar a elevação lateral do braço há sete semanas. A imagem anatômica destaca um músculo acima da espinha da escápula. Qual origem, inserção e nervo pertencem a esse músculo?
+**EN:** Cora, 52, has had difficulty starting a sideways arm lift for seven weeks. A posterior shoulder muscle is highlighted in the image. Which combination of origin, insertion, and nerve matches that structure?
+**PT:** Cora, 52 anos, tem dificuldade para iniciar a elevação lateral do braço há sete semanas. Um músculo posterior do ombro está destacado na imagem. Qual combinação de origem, inserção e nervo corresponde a essa estrutura?
 
 - A. Supraspinous fossa; greater tubercle; suprascapular nerve / Fossa supraespinal; tubérculo maior; nervo supraescapular **[correta]**
 - B. Infraspinous fossa; greater tubercle; suprascapular nerve / Fossa infraespinal; tubérculo maior; nervo supraescapular
