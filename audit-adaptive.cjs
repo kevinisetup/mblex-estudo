@@ -20,6 +20,12 @@ for(const q of active){
  if(options.length!==4||options.some((v,i)=>v.length<2||(i!==0&&v.length<4)))issues.push(q.id+': incomplete choice/reason');
  if(!q.why?.[0]||!q.why?.[1]||!q.hook?.[0]||!q.hook?.[1]||!q.practice?.[0]||!q.practice?.[1])issues.push(q.id+': incomplete feedback');
 }
+const byId=id=>active.find(q=>q.id===id);
+if(!byId(132)?.why[0].includes('waived in writing')||byId(132).s!=='minorNevada')issues.push('132: Nevada minor rule');
+if(!byId(128)?.o[2][2].startsWith('Never put'))issues.push('128: unsafe seizure distractor');
+if(!byId('F61')?.why[0].includes('Nerve endings can extend into the epidermis'))issues.push('F61: epidermal nerves');
+if(byId('F64')?.options[3].v[0].includes('heart')||byId('F64').s!=='lymphedema')issues.push('F64: lymph route');
+if(!script.includes('id="answer-review"')||!script.includes("bind('review-filter'"))issues.push('result: error filter');
 for(const q of upgraded){
  const opts=q.o||q.options.map(o=>o.v);
  if(q.q.length!==2||q.q.some(x=>!x||x.length<40))issues.push(q.id+': stem');
